@@ -1,0 +1,420 @@
+@media(min-width: 1024px) and (max-width: 1279px) {
+	.cta-header-btn {
+	    margin-left: 17px;
+	}
+
+	.cta-header-btn a {
+	    font-size: 12px;
+	}
+
+	.cta-action {
+	    margin-left: 28px;
+	    font-size: 12px;
+	}
+
+	.cta-action a {
+	    padding: 12px 12px 10px 12px;
+	}
+
+	.header-navabar-nav .header-navabar-nav-auto {
+		font-size: 12px;
+	}
+
+	.bg-text-title p {
+		font-size: 84px;
+	}
+
+	.bg-text-title h2{
+		font-size: 42px;
+	}
+
+	.how-it-works-main-section-start {
+	    margin: 70px 0 0 0;
+	}
+
+	.how-it-works-main-section p {
+		font-size: 16px;
+	}
+
+	.how-it-works-main-section-inner-description {
+	    padding-right: 30px;
+	    padding-left: 0;
+	}
+
+	.how-it-works-main .how-it-works-main-container {
+		max-width: 992px;
+	}
+
+	.book-an-apt {
+	    padding: 0px 16px 0 3px;
+	}
+
+	.how-it-works-bottom-desc {
+	    margin-bottom: 30px;
+	}
+
+	.srl-no { 
+		font-size: 38px;
+		margin-right: 18px;
+	 }
+
+	.book-an-apt-title {
+		font-size: 18px;
+	} 
+
+	.common-link-button {
+		font-size: 16px;
+		padding: 12px 35px;
+	}
+
+	.how-it-works-know-more-btn {
+	    padding: 65px 0 70px 0;
+	}
+
+	.why-design-cafe-main .why-design-cafe-main-container {
+		max-width: 992px;
+	}
+
+	.latest-project-section .latest-project-section-container {
+		max-width: 992px;
+		/*padding-left: 0;*/
+    	/*padding-right: 0;*/
+	}
+
+	.latest-inner-main-section .latest-inner-main-section-container {
+		max-width: 992px;
+		padding-left: 0;
+    	padding-right: 0;
+	}
+
+	.latest-tab-menus-nav #tabs .nav-tabs .latest-tab-menus.show .latest-tab-menus, .latest-tab-menus-nav .nav-tabs .latest-tab-menus.active {
+		font-size: 28px;
+	}
+
+	.latest-tab-menus-nav .nav-tabs .latest-tab-menus {
+		font-size: 28px;
+		padding: 7px 50px;
+    	line-height: 1;
+	}
+
+	.content-section-first h2 {
+		font-size: 34px;
+  	    padding-right: 30px;
+	}
+
+	.content-section-first p {
+		font-size: 18px;
+		padding-right: 52px;
+	}
+
+	.content-section-first {
+		padding: 28px 28px;
+	}
+
+	.latest-project-view-btn {
+		font-size: 18px;
+	}
+
+	.content-section-second {
+		padding: 68px 80px;
+	}
+
+	.content-section-second h2 {
+		font-size: 34px;
+	}
+
+	.latest-projects-know-more-button {
+		margin-top: 120px;
+	}
+
+	.project-second {
+		margin: 121px auto 0; 
+	}
+
+	.our-suppliers-main {
+		margin-top: 70px;
+	}
+
+	.our-suppliers-main .our-suppliers-main-container {
+		max-width: 992px;
+	}
+
+	.row.our-suppliers-para-main p {
+		padding: 29px 17px 97px 16px;
+		font-size: 16px;
+	}
+
+	.row.our-suppliers-para-main-inner {
+		padding-right: 0;
+	}
+
+	.our-suppliers-logo-main {
+	    padding: 0px 5px 55px 0px;
+	}
+
+	.row.our_suppliers_logo-section {
+	    padding-left: 125px;
+	}
+
+	.our-suppliers-para-main {
+		margin-top: 88px;
+	}
+
+	.meet-mumbai-designer-main {
+		margin-top: 70px;
+	}
+
+	.meet-mumbai-designer-main .meet-mumbai-designer-main-container {
+	    max-width: 992px;
+	    /*padding: 0;*/
+	}
+
+	.meet-mumbai-designer-para-main p {
+		font-size: 16px;
+		line-height: 28px;
+	}
+
+	.tab-content-inner-main-div {
+		padding: 0;
+	}
+
+	.what-make-us-main-section .what-make-us-main-section-container {
+		max-width: 992px;
+		padding: 0;
+	}
+
+	.what-make-us-main-section {
+		margin-top: 80px;
+	}
+
+	.what-make-us-right-section-profile-desc p {
+		font-size: 12px;
+	}	
+
+	.what-make-us-right-section-profile-desc {
+		padding: 21px 17px;
+	}
+
+	.what-make-us-right-section {
+	    padding: 0 31px;
+	}	
+
+	.what-make-us-left-section p {
+		font-size: 16px;
+	}
+
+	.what-make-us-left-section h2 {
+		font-size: 24px;
+	}
+
+	.what-make-us-right-section-profile-title {
+		font-size: 14px;
+		font-weight: 600;
+	}
+
+	.what-make-us-right-section-company-title {
+		font-size: 14px;
+	}
+
+	.questions-section-title h2 {
+		font-size: 34px;
+	}
+
+	.question-number-right-section {
+		font-size: 22px;
+	}
+
+	.blog-section {
+		padding: 0;
+	}
+
+	.blog-section .blog-section-container {
+		max-width: 992px;
+		/*padding: 0;*/
+	}
+
+	.blog-text-right .blog-title a {
+		font-size: 18px;
+	}
+
+	.blog-text {
+		margin-top: 65px;
+	}
+
+	.personalised-for-you-content p {
+		font-size: 22px;
+		margin-top: 29px;
+	}
+
+	.why-design-cafe-nav-text {
+		font-size: 16px;
+	}
+
+	.latest-tab-menus-nav {
+		margin-bottom: 95px;
+	}
+
+	.why-design-cafe-nav .why-design-cafe-nav-text-main .why-design-cafe-nav-text.active {
+		font-size: 16px;
+	}
+
+	.why-design-cafe-nav-text-main a {
+		padding: 8px 12px;
+	}
+
+	.why-design-mobile-collaspse-upper-div .why-design-cafe-main-inner-section {
+		padding: 0;
+	}
+
+	.meet-designer-bg-text {
+		padding: 0 10px;
+	}
+
+}
+
+
+
+
+@media (min-width: 320px) and (max-width: 479px) {
+
+
+.logo-main-div {
+    width: 161px;
+}
+
+.logo-main-div a {
+    margin-right: 0;
+}
+
+.offer-widget-main p {
+    margin-bottom: 0;
+    padding: 11px 0 11px 0;
+    font-size: 12px;
+    text-align: center;
+}
+
+.offer-widget-main-section {
+    background-color: #D5B58F;
+}
+
+.offer-widget-main a {
+    color: #000;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.offer-widget-main a:hover {
+    text-decoration: underline;
+}
+
+.how-it-works-main-section p {
+	font-size: 14px;
+	margin-bottom: 12px;
+}
+
+.why-design-cafe-thumbnail-main {
+	padding: 0;
+}
+
+.how-it-works-main-container .how-it-works-thumbnail-main {
+    padding: 0 2px;
+}
+
+.how-it-works-main .how-it-works-bottom-desc-mble {
+    margin: 0;
+}
+
+.how-it-works-bottom-desc {
+	margin-bottom: 0;
+	font-size: 14px;
+}
+
+.how-it-works-main .book-an-apt-inner-sec {
+    margin: 0;
+}
+
+.book-an-apt-title {
+	font-size: 14px;
+}
+
+.srl-no {
+	font-size: 24px;
+	line-height: 33px;
+}
+
+.why-design-mobile-card .why-design-mobile-card-header .why-design-mobile-card-btn {
+    padding: 0;
+}
+
+.why-design-mobile-card .why-design-mobile-card-header:first-child {
+	padding: 20px 0;
+}
+
+.why-design-mobile-thubmnail-rows .why-design-mobile-thubmnail-inner {
+    padding: 0;
+}
+
+.why-design-mobile-card .why-design-mobile-thubmnail {
+    padding: 30px 0;
+}
+
+.personalised-for-you-content {
+	width: 170px;
+	padding: 14px 8px 1px 11px;
+
+}
+
+.personalised-for-you-content p {
+	font-size: 20px;
+}
+
+.why-design-cafe-description {
+	font-size: 14px;
+	padding: 20px 0 0 0;
+}
+
+.why-design-mobile-thubmnail .why-design-cafe-description-col {
+    padding: 0;
+}
+
+.latest-tab-menus-nav #tabs .nav-tabs .latest-tab-menus.show .latest-tab-menus, .latest-tab-menus-nav .nav-tabs .latest-tab-menus.active {
+	font-size: 14px;
+	padding: 0px 12px;
+}
+
+.latest-tab-menus-nav .nav-tabs .latest-tab-menus {
+	font-size: 14px;
+	padding: 0px 12px;
+}
+
+.latest-tab-menus-nav .nav-tabs .latest-tab-menus:last-child {
+	font-size: 14px;
+}
+
+.latest-tab-menus-nav .nav-tabs .latest-tab-menus:focus, .latest-tab-menus-nav .nav-tabs .latest-tab-menus:hover {
+	font-size: 14px;
+}
+
+.latest-projects-know-more-button {
+	margin-top: 40px;
+}
+
+.latest-projects-location-main-row .latest-projects-location-tab-content {
+	padding-bottom: 0 !important;
+}
+
+.row.our-suppliers-para-main p {
+	font-size: 16px;
+	font-weight: 100;
+	padding: 22px 13px 22px 10px;
+}
+
+.our-suppliers-main .our-suppliers-main-title-section {
+	padding: 0 15px;
+}
+
+.our-suppliers-main {
+	padding: 0;
+}
+
+
+}

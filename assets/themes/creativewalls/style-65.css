@@ -1,0 +1,1200 @@
+﻿/*
+Theme Name: Design Cafe
+Theme URI: http://prodio.in
+Template: understrap-master
+Author: Prodio Team
+Author URI: http://prodio.in
+Tags: one-column,custom-menu,featured-images,theme-options,translation-ready
+Version: 0.9.4.1573457087
+Updated: 2019-11-11 07:24:47
+
+*/
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-LightItalic.eot");
+  src: url("fonts/Montserrat-LightItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-LightItalic.woff") format("woff"),
+    url("fonts/Montserrat-LightItalic.ttf") format("truetype"),
+    url("fonts/Montserrat-LightItalic.svg")
+      format("svg");
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-Light.eot");
+  src: url("fonts/Montserrat-Light-1.eot") format("embedded-opentype"),
+    url("fonts/Montserrat-Light.woff") format("woff"),
+    url("fonts/Montserrat-Light.ttf") format("truetype"),
+    url("fonts/Montserrat-Light.svg") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-SemiBoldItalic.eot");
+  src: url("fonts/Montserrat-SemiBoldItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-SemiBoldItalic.woff") format("woff"),
+    url("fonts/Montserrat-SemiBoldItalic.ttf") format("truetype"),
+    url("fonts/Montserrat-SemiBoldItalic.svg")
+      format("svg");
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-Thin.eot");
+  src: url("fonts/Montserrat-Thin-1.eot") format("embedded-opentype"),
+    url("fonts/Montserrat-Thin.woff") format("woff"),
+    url("fonts/Montserrat-Thin.ttf") format("truetype"),
+    url("fonts/Montserrat-Thin.svg") format("svg");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-MediumItalic.eot");
+  src: url("fonts/Montserrat-MediumItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-MediumItalic.woff") format("woff"),
+    url("fonts/Montserrat-MediumItalic.ttf") format("truetype"),
+    url("fonts/Montserrat-MediumItalic.svg")
+      format("svg");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-ExtraLight.eot");
+  src: url("fonts/Montserrat-ExtraLight-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-ExtraLight.woff") format("woff"),
+    url("fonts/Montserrat-ExtraLight.ttf") format("truetype"),
+    url("fonts/Montserrat-ExtraLight.svg") format("svg");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-SemiBold.eot");
+  src: url("fonts/Montserrat-SemiBold-1.eot") format("embedded-opentype"),
+    url("fonts/Montserrat-SemiBold.woff") format("woff"),
+    url("fonts/Montserrat-SemiBold.ttf") format("truetype"),
+    url("fonts/Montserrat-SemiBold.svg") format("svg");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-ThinItalic.eot");
+  src: url("fonts/Montserrat-ThinItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-ThinItalic.woff") format("woff"),
+    url("fonts/Montserrat-ThinItalic.ttf") format("truetype"),
+    url("fonts/Montserrat-ThinItalic.svg") format("svg");
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-Regular.eot");
+  src: url("fonts/Montserrat-Regular-1.eot") format("embedded-opentype"),
+    url("fonts/Montserrat-Regular.woff") format("woff"),
+    url("fonts/Montserrat-Regular.ttf") format("truetype"),
+    url("fonts/Montserrat-Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-ExtraLightItalic.eot");
+  src: url("fonts/Montserrat-ExtraLightItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-ExtraLightItalic.woff") format("woff"),
+    url("fonts/Montserrat-ExtraLightItalic.ttf") format("truetype"),
+    url("fonts/Montserrat-ExtraLightItalic.svg")
+      format("svg");
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-ExtraBold.eot");
+  src: url("fonts/Montserrat-ExtraBold-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-ExtraBold.woff") format("woff"),
+    url("fonts/Montserrat-ExtraBold.ttf") format("truetype"),
+    url("fonts/Montserrat-ExtraBold.svg") format("svg");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-BoldItalic.eot");
+  src: url("fonts/Montserrat-BoldItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-BoldItalic.woff") format("woff"),
+    url("fonts/Montserrat-BoldItalic.ttf") format("truetype"),
+    url("fonts/Montserrat-BoldItalic.svg") format("svg");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-Italic.eot");
+  src: url("fonts/Montserrat-Italic-1.eot") format("embedded-opentype"),
+    url("fonts/Montserrat-Italic.woff") format("woff"),
+    url("fonts/Montserrat-Italic.ttf") format("truetype"),
+    url("fonts/Montserrat-Italic.svg") format("svg");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-Medium.eot");
+  src: url("fonts/Montserrat-Medium-1.eot") format("embedded-opentype"),
+    url("fonts/Montserrat-Medium.woff") format("woff"),
+    url("fonts/Montserrat-Medium.ttf") format("truetype"),
+    url("fonts/Montserrat-Medium.svg") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-BlackItalic.eot");
+  src: url("fonts/Montserrat-BlackItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-BlackItalic.woff") format("woff"),
+    url("fonts/Montserrat-BlackItalic.ttf") format("truetype"),
+    url("fonts/Montserrat-BlackItalic.svg")
+      format("svg");
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-ExtraBoldItalic.eot");
+  src: url("fonts/Montserrat-ExtraBoldItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Montserrat-ExtraBoldItalic.woff") format("woff"),
+    url("fonts/Montserrat-ExtraBoldItalic.ttf") format("truetype"),
+    url("fonts/Montserrat-ExtraBoldItalic.svg")
+      format("svg");
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-Bold.eot");
+  src: url("fonts/Montserrat-Bold-1.eot") format("embedded-opentype"),
+    url("fonts/Montserrat-Bold.woff") format("woff"),
+    url("fonts/Montserrat-Bold.ttf") format("truetype"),
+    url("fonts/Montserrat-Bold.svg") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("fonts/Montserrat-Black.eot");
+  src: url("fonts/Montserrat-Black-1.eot") format("embedded-opentype"),
+    url("fonts/Montserrat-Black.woff") format("woff"),
+    url("fonts/Montserrat-Black.ttf") format("truetype"),
+    url("fonts/Montserrat-Black.svg") format("svg");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "great_vibesregular";
+  src: url("fonts/greatvibes-regular-webfont.eot");
+  src: url("fonts/greatvibes-regular-webfont-1.eot")
+      format("embedded-opentype"),
+    url("fonts/greatvibes-regular-webfont.woff") format("woff"),
+    url("fonts/greatvibes-regular-webfont.ttf") format("truetype"),
+    url("fonts/greatvibes-regular-webfont.svg")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-LightItalic.eot");
+  src: url("fonts/Raleway-LightItalic-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-LightItalic.woff") format("woff"),
+    url("fonts/Raleway-LightItalic.ttf") format("truetype"),
+    url("fonts/Raleway-LightItalic.svg") format("svg");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-SemiBoldItalic.eot");
+  src: url("fonts/Raleway-SemiBoldItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Raleway-SemiBoldItalic.woff") format("woff"),
+    url("fonts/Raleway-SemiBoldItalic.ttf") format("truetype"),
+    url("fonts/Raleway-SemiBoldItalic.svg")
+      format("svg");
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-Medium.eot");
+  src: url("fonts/Raleway-Medium-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-Medium.woff") format("woff"),
+    url("fonts/Raleway-Medium.ttf") format("truetype"),
+    url("fonts/Raleway-Medium.svg") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-Light.eot");
+  src: url("fonts/Raleway-Light-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-Light.woff") format("woff"),
+    url("fonts/Raleway-Light.ttf") format("truetype"),
+    url("fonts/Raleway-Light.svg") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-ExtraLightItalic.eot");
+  src: url("fonts/Raleway-ExtraLightItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Raleway-ExtraLightItalic.woff") format("woff"),
+    url("fonts/Raleway-ExtraLightItalic.ttf") format("truetype"),
+    url("fonts/Raleway-ExtraLightItalic.svg")
+      format("svg");
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-Thin.eot");
+  src: url("fonts/Raleway-Thin-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-Thin.woff") format("woff"),
+    url("fonts/Raleway-Thin.ttf") format("truetype"),
+    url("fonts/Raleway-Thin.svg") format("svg");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-Regular.eot");
+  src: url("fonts/Raleway-Regular-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-Regular.woff") format("woff"),
+    url("fonts/Raleway-Regular.ttf") format("truetype"),
+    url("fonts/Raleway-Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-ExtraLight.eot");
+  src: url("fonts/Raleway-ExtraLight-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-ExtraLight.woff") format("woff"),
+    url("fonts/Raleway-ExtraLight.ttf") format("truetype"),
+    url("fonts/Raleway-ExtraLight.svg") format("svg");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-BlackItalic.eot");
+  src: url("fonts/Raleway-BlackItalic-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-BlackItalic.woff") format("woff"),
+    url("fonts/Raleway-BlackItalic.ttf") format("truetype"),
+    url("fonts/Raleway-BlackItalic.svg") format("svg");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-Bold.eot");
+  src: url("fonts/Raleway-Bold-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-Bold.woff") format("woff"),
+    url("fonts/Raleway-Bold.ttf") format("truetype"),
+    url("fonts/Raleway-Bold.svg") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-ExtraBoldItalic.eot");
+  src: url("fonts/Raleway-ExtraBoldItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Raleway-ExtraBoldItalic.woff") format("woff"),
+    url("fonts/Raleway-ExtraBoldItalic.ttf") format("truetype"),
+    url("fonts/Raleway-ExtraBoldItalic.svg")
+      format("svg");
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-ThinItalic.eot");
+  src: url("fonts/Raleway-ThinItalic-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-ThinItalic.woff") format("woff"),
+    url("fonts/Raleway-ThinItalic.ttf") format("truetype"),
+    url("fonts/Raleway-ThinItalic.svg") format("svg");
+  font-weight: 100;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-MediumItalic.eot");
+  src: url("fonts/Raleway-MediumItalic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/Raleway-MediumItalic.woff") format("woff"),
+    url("fonts/Raleway-MediumItalic.ttf") format("truetype"),
+    url("fonts/Raleway-MediumItalic.svg") format("svg");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-ExtraBold.eot");
+  src: url("fonts/Raleway-ExtraBold-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-ExtraBold.woff") format("woff"),
+    url("fonts/Raleway-ExtraBold.ttf") format("truetype"),
+    url("fonts/Raleway-ExtraBold.svg") format("svg");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-Black.eot");
+  src: url("fonts/Raleway-Black-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-Black.woff") format("woff"),
+    url("fonts/Raleway-Black.ttf") format("truetype"),
+    url("fonts/Raleway-Black.svg") format("svg");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-SemiBold.eot");
+  src: url("fonts/Raleway-SemiBold-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-SemiBold.woff") format("woff"),
+    url("fonts/Raleway-SemiBold.ttf") format("truetype"),
+    url("fonts/Raleway-SemiBold.svg") format("svg");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-Italic.eot");
+  src: url("fonts/Raleway-Italic-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-Italic.woff") format("woff"),
+    url("fonts/Raleway-Italic.ttf") format("truetype"),
+    url("fonts/Raleway-Italic.svg") format("svg");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("fonts/Raleway-BoldItalic.eot");
+  src: url("fonts/Raleway-BoldItalic-1.eot") format("embedded-opentype"),
+    url("fonts/Raleway-BoldItalic.woff") format("woff"),
+    url("fonts/Raleway-BoldItalic.ttf") format("truetype"),
+    url("fonts/Raleway-BoldItalic.svg") format("svg");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-100.eot");
+  src: url("fonts/lato-v20-latin-100-1.eot") format("embedded-opentype"),
+    url("fonts/lato-v20-latin-100.woff") format("woff"),
+    url("fonts/lato-v20-latin-100.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-100.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-100.svg") format("svg");
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-100italic.eot");
+  src: url("fonts/lato-v20-latin-100italic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/lato-v20-latin-100italic.woff") format("woff"),
+    url("fonts/lato-v20-latin-100italic.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-100italic.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-100italic.svg") format("svg");
+  font-weight: 100;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-300.eot");
+  src: url("fonts/lato-v20-latin-300-1.eot") format("embedded-opentype"),
+    url("fonts/lato-v20-latin-300.woff") format("woff"),
+    url("fonts/lato-v20-latin-300.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-300.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-300.svg") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-300italic.eot");
+  src: url("fonts/lato-v20-latin-300italic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/lato-v20-latin-300italic.woff") format("woff"),
+    url("fonts/lato-v20-latin-300italic.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-300italic.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-300italic.svg") format("svg");
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-700.eot");
+  src: url("fonts/lato-v20-latin-700-1.eot") format("embedded-opentype"),
+    url("fonts/lato-v20-latin-700.woff") format("woff"),
+    url("fonts/lato-v20-latin-700.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-700.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-700.svg") format("svg");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-700italic.eot");
+  src: url("fonts/lato-v20-latin-700italic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/lato-v20-latin-700italic.woff") format("woff"),
+    url("fonts/lato-v20-latin-700italic.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-700italic.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-700italic.svg") format("svg");
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-900.eot");
+  src: url("fonts/lato-v20-latin-900-1.eot") format("embedded-opentype"),
+    url("fonts/lato-v20-latin-900.woff") format("woff"),
+    url("fonts/lato-v20-latin-900.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-900.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-900.svg") format("svg");
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-900italic.eot");
+  src: url("fonts/lato-v20-latin-900italic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/lato-v20-latin-900italic.woff") format("woff"),
+    url("fonts/lato-v20-latin-900italic.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-900italic.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-900italic.svg") format("svg");
+  font-weight: 900;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-italic.eot");
+  src: url("fonts/lato-v20-latin-italic-1.eot")
+      format("embedded-opentype"),
+    url("fonts/lato-v20-latin-italic.woff") format("woff"),
+    url("fonts/lato-v20-latin-italic.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-italic.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-italic.svg") format("svg");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Lato";
+  src: url("fonts/lato-v20-latin-regular.eot");
+  src: url("fonts/lato-v20-latin-regular-1.eot")
+      format("embedded-opentype"),
+    url("fonts/lato-v20-latin-regular.woff") format("woff"),
+    url("fonts/lato-v20-latin-regular.woff2") format("woff2"),
+    url("fonts/lato-v20-latin-regular.ttf") format("truetype"),
+    url("fonts/lato-v20-latin-regular.svg") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+
+.whatsapp.cta-header-btn .fa-whatsapp {
+  font-size: 2.5em;
+  color: #25d366;
+  transition: 0.3s;
+  /*color:#fff;*/
+  /*  background:
+   linear-gradient(#25d366,#25d366) 14% 84%/16% 16% no-repeat,
+   radial-gradient(#25d366 58%,transparent 0);*/
+}
+/*.whatsapp_icon:hover {
+  background-color: #008000;
+}*/
+.whatsapp.cta-header-btn a i:hover {
+  font-size: 3.25em;
+  /*background: linear-gradient(#25d366,#25d366) 14% 84%/16% 16% no-repeat, radial-gradient(#25d366 56%,transparent 0);*/
+}
+.whatsapp_icon:hover .fa-whatsapp {
+  color: #fff;
+}
+.footer-social-media .fa:hover {
+  opacity: 0.7;
+}
+
+.footer-social-media .fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+.footer-social-media .fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.footer-social-media .fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.footer-social-media .fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.footer-social-media .fa-youtube-play {
+  background: #bb0000;
+  color: white;
+}
+
+.footer-social-media .fa-instagram {
+  background: #e4405f;
+  color: white;
+}
+
+.footer-social-media .fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+.footer-social-media .fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.footer-social-media .fa-skype {
+  background: #00aff0;
+  color: white;
+}
+
+.footer-social-media .fa-android {
+  background: #a4c639;
+  color: white;
+}
+
+.footer-social-media .fa-dribbble {
+  background: #ea4c89;
+  color: white;
+}
+
+.footer-social-media .fa-vimeo {
+  background: #45bbff;
+  color: white;
+}
+
+.footer-social-media .fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.footer-social-media .fa-vine {
+  background: #00b489;
+  color: white;
+}
+
+.footer-social-media .fa-foursquare {
+  background: #45bbff;
+  color: white;
+}
+
+.footer-social-media .fa-stumbleupon {
+  background: #eb4924;
+  color: white;
+}
+
+.footer-social-media .fa-flickr {
+  background: #f40083;
+  color: white;
+}
+
+.footer-social-media .fa-yahoo {
+  background: #430297;
+  color: white;
+}
+
+.footer-social-media .fa-soundcloud {
+  background: #ff5500;
+  color: white;
+}
+
+.footer-social-media .fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+.footer-social-media .fa-rss {
+  background: #ff6600;
+  color: white;
+}
+.footer-social-media .fa {
+  padding: 8px;
+  font-size: 10px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 3px;
+}
+
+.blog-social-media .fa:hover {
+  color: rgb(119, 119, 119);
+}
+
+.blog-social-media .fa-facebook {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-twitter {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-google {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-linkedin {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-youtube-play {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-instagram {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-pinterest {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-snapchat-ghost {
+  color: rgb(0, 0, 0);
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.blog-social-media .fa-skype {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-android {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-dribbble {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-vimeo {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-tumblr {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-vine {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-foursquare {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-stumbleupon {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-flickr {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-yahoo {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-soundcloud {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-reddit {
+  color: rgb(0, 0, 0);
+}
+
+.blog-social-media .fa-rss {
+  color: rgb(0, 0, 0);
+}
+.blog-social-media .fa {
+  padding: 8px;
+  font-size: 18px;
+  /*  width: 30px;*/
+  text-align: left;
+  text-decoration: none;
+  margin: 8px;
+}
+body {
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  top: 78px;
+  margin: 0;
+  overscroll-behavior: none;
+  line-height: 30px;
+  font-weight: 400;
+  color: #222222;
+  -webkit-font-smoothing: subpixel-antialiased;
+  overflow-x: hidden;
+  position: relative;
+}
+
+p {
+  line-height: 30px;
+  font-weight: 400;
+  color: #222222;
+}
+
+button:focus {
+  outline: 0px dotted;
+  outline: 0px auto -webkit-focus-ring-color;
+}
+a {
+  color: #189ba6;
+  text-decoration: none;
+  background-color: transparent;
+  transition: 0.3s;
+}
+a:hover {
+  text-decoration: none;
+  color: #d5b58f;
+  transition: 0.3s;
+}
+.comment-form {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+}
+.form-control:focus,
+.wpcf7 input:focus[type="text"],
+.wpcf7 input:focus[type="search"],
+.wpcf7 input:focus[type="url"],
+.wpcf7 input:focus[type="tel"],
+.wpcf7 input:focus[type="number"],
+.wpcf7 input:focus[type="range"],
+.wpcf7 input:focus[type="date"],
+.wpcf7 input:focus[type="month"],
+.wpcf7 input:focus[type="week"],
+.wpcf7 input:focus[type="time"],
+.wpcf7 input:focus[type="datetime"],
+.wpcf7 input:focus[type="datetime-local"],
+.wpcf7 input:focus[type="color"],
+.wpcf7 input:focus[type="email"],
+.wpcf7 input:focus[type="file"],
+.wpcf7 input:focus[type="submit"],
+.wpcf7 select:focus,
+.wpcf7 textarea:focus,
+.wpcf7 .wpcf7-validation-errors:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #ccc;
+  outline: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.btn-outline-primary:not(:disabled):not(.disabled):active:focus,
+.wpcf7 input:not(:disabled):not(.disabled):active:focus[type="submit"],
+.btn-outline-primary:not(:disabled):not(.disabled).active:focus,
+.wpcf7 input:not(:disabled):not(.disabled).active:focus[type="submit"],
+.show > .btn-outline-primary.dropdown-toggle:focus,
+.wpcf7 .show > input.dropdown-toggle:focus[type="submit"] {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+/**/
+.wpcf7 .guide-page-form .guide-form-fld {
+  margin-bottom: 20px;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  border-radius: 0;
+}
+
+.wpcf7 .guide-page-form .guide-frm-btn {
+  background-color: #189ba6;
+  border-color: #189ba6;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+}
+.wpcf7 .guide-page-form select.guide-form-fld {
+  position: relative;
+}
+
+.wpcf7 .guide-page-form .guide-frm-btn:hover {
+  background-color: #d5b58f;
+  border-color: #d5b58f;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+div#noty-holder {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 99999;
+  /* display: none; */
+}
+.custom-notify {
+  text-align: center;
+  background-color: #189ba6;
+  border-color: #189ba6;
+  color: #ffffff;
+  border-radius: 0;
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 0;
+  line-height: 1.2;
+}
+.notify-close {
+  color: #ffffff;
+  opacity: 1;
+  font-size: 2rem;
+  line-height: 1;
+  font-weight: 500;
+  margin-top: -10px;
+}
+.custom-notify a {
+  margin-left: 5px;
+}
+.custom-notify a span {
+  color: #ffffff;
+}
+.custom-notify a span:first-child {
+  text-decoration: underline;
+}
+.custom-notify a:hover span {
+  text-decoration: initial;
+}
+@media (min-width: 1920px) {
+  .fixed-body {
+    top: 147px;
+  }
+  .fixed-top {
+    top: 40px;
+  }
+}
+@media (min-width: 1440px) and (max-width: 1919px) {
+  .fixed-body {
+    top: 118px;
+  }
+  .fixed-top {
+    top: 40px;
+  }
+}
+@media (min-width: 1366px) and (max-width: 1439px) {
+  .fixed-body {
+    top: 118px;
+  }
+  .fixed-top {
+    top: 40px;
+  }
+}
+@media (min-width: 1280px) and (max-width: 1365px) {
+  .fixed-body {
+    top: 118px;
+  }
+  .fixed-top {
+    top: 40px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .fixed-body {
+    top: 136px;
+  }
+  .fixed-top {
+    top: 40px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1023px) {
+  .fixed-body {
+    top: 138px;
+  }
+  .fixed-top {
+    top: 58px;
+  }
+}
+@media (min-width: 480px) and (max-width: 767px) {
+  .fixed-body {
+    padding-top: 210px;
+    top: -103px;
+  }
+  /* .fixed-top {
+    top: 104px;
+    top: 84px;
+} */
+  .custom-notify {
+    font-size: 14px !important;
+    line-height: 20px;
+  }
+  .fixed-top {
+    z-index: 99999;
+  }
+}
+@media (min-width: 331px) and (max-width: 479px) {
+  /* .fixed-body { */
+  /*padding-top: 195px;*/
+  /* top: 176px; */
+  /* } */
+  .fixed-top {
+    top: 104px;
+  }
+  .custom-notify {
+    font-size: 14px !important;
+    line-height: 20px;
+  }
+  .fixed-top {
+    z-index: 99999;
+  }
+}
+
+@media (min-width: 360px) and (max-width: 479px) {
+  /* .fixed-body { */
+  /*padding-top: 195px;*/
+  /* top: 176px; */
+  /* } */
+  .fixed-top {
+    top: 0px;
+  }
+  .custom-notify {
+    font-size: 14px !important;
+    line-height: 20px;
+  }
+  .whatsapp.cta-header-btn {
+    display: none;
+  }
+}
+@media (min-width: 320px) and (max-width: 360px) {
+  .fixed-top {
+    z-index: 99999;
+  }
+  .fixed-body {
+    top: 68px;
+  }
+  /* .fixed-top {
+    top: 104px;
+    top: 84px;
+} */
+  .whatsapp.cta-header-btn {
+    display: none;
+  }
+  .custom-notify {
+    font-size: 14px !important;
+    line-height: 25px;
+  }
+}
+@media (min-width: 361px) and (max-width: 767px) {
+  .custom-notify {
+    font-size: 16px;
+  }
+  .custom-notify a {
+    margin-left: 5px;
+    display: block;
+  }
+  .custom-notify a span:first-child {
+    text-decoration: underline;
+    font-size: 16px;
+  }
+  .whatsapp.cta-header-btn {
+    display: none;
+  }
+}
+@media screen and (min-width: 972px) {
+  .custom-notify br {
+    display: none;
+  }
+}
+/* .page-template-thank-you-template #noty-holder {
+    display: none;
+} */
+
+.cta-action:hover a {
+  font-size: 15px;
+}
+
+/*---------------Experience Center-------------------*/
+
+/**/
+/*-----------------End Experience Center------------------*/
+@media only screen and (max-width: 600px) {
+  .sales-res-txt {
+    margin-top: 20px;
+  }
+}
+/*----style test ---*/
+/*---finaltest---*/
+
+.list-of-web-stories {
+  padding: 0;
+  margin: 0;
+}
+.list-of-web-stories .story {
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 4px;
+  cursor: pointer;
+  position: relative;
+}
+.list-of-web-stories .story-poster {
+  aspect-ratio: 4/6;
+  position: relative;
+}
+
+.list-of-web-stories .story-poster img {
+  box-sizing: border-box;
+  height: 100%;
+  object-fit: cover;
+
+  width: 100%;
+}
+.list-of-web-stories .story-poster ::after {
+  background: linear-gradient(180deg, hsla(0, 0%, 100%, 0), rgba(0, 0, 0, 0.8));
+  content: "";
+  display: block;
+  height: 100%;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.list-of-web-stories .story-overlay {
+  bottom: 0;
+  color: #fff;
+  position: absolute;
+  z-index: 1;
+  padding: 10px;
+  line-height: 1.3;
+}
+.list-of-web-stories .story-overlay .story-overlay-title {
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  overflow: hidden;
+  color: #fff;
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+.list-of-web-stories .story-overlay .story-overlay-author {
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+
+.footer-description-text {
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: 0.5px;
+  color: #484848;
+  margin: 0;
+  padding: 5px 0;
+  text-align: center;
+}
+
+@media (max-width: 767px) {
+  .footer-description-text {
+    font-size: 10px;
+    line-height: 16px;
+  }
+}
+
+@media (min-width: 767px) {
+  .guide-page .alm-layouts .alm-listing {
+    display: flex;
+  }
+}
