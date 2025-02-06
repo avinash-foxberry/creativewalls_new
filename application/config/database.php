@@ -72,14 +72,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $active_group = 'default';
 $query_builder = TRUE;
+//database - i9978112_z1xw1
+// userName - creativewalls
+//password - QPP(4_]@G?g2
 
+//database - thecreativewalls
+// userName - root
+//password - 
 
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'thecreativewalls',
+	'username' => 'creativewalls',
+	'password' => 'QPP(4_]@G?g2',
+	'database' => 'i9978112_z1xw1',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
