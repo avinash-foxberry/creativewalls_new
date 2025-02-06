@@ -30,6 +30,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 *.sublime-project
 /tests/tests/
 /tests/results/
-/assets/uploads/2023
 /assets/uploads/2024
-favicon.zip
