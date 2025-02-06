@@ -1769,15 +1769,13 @@
                             <nav class="location-tab-menus-nav">
                                 <div class="nav nav-tabs nav-fill location-tabs" id="nav-tab" role="tablist">
                                     <a class="nav-item nav-link location-tab-menus " id="1" aria-controls="1" role="tab"
-                                        data-toggle="tab" href="#tab-location-1">Thane, Mumbai</a>
+                                        data-toggle="tab" href="#tab-location-0">Pune</a>
                                     <a class="nav-item nav-link location-tab-menus " id="2" aria-controls="2" role="tab"
-                                        data-toggle="tab" href="#tab-location-2">Navi Mumbai</a>
+                                        data-toggle="tab" href="#tab-location-1">Mumbai</a>
                                     <a class="nav-item nav-link location-tab-menus " id="3" aria-controls="3" role="tab"
-                                        data-toggle="tab" href="#tab-location-3">Pune</a>
+                                        data-toggle="tab" href="#tab-location-2">Nagpur</a>
                                     <a class="nav-item nav-link location-tab-menus " id="4" aria-controls="4"
-                                        role="tab" data-toggle="tab" href="#tab-location-4">Nagpur</a>
-                                    <a class="nav-item nav-link location-tab-menus " id="5" aria-controls="5"
-                                        role="tab" data-toggle="tab" href="#tab-location-5">Amravati</a>
+                                        role="tab" data-toggle="tab" href="#tab-location-3">Amravati</a>
 
                                 </div>
                             </nav>
@@ -1844,7 +1842,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="location-right-section">
                                                 <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, MG Road, Pune</h3>
+                                                    <h3>CreativeWalls Experience Centre, Pimple Gurav, Pune</h3>
                                                     <p>Visit us to experience</p>
                                                     <ul>
                                                         <li>11 Kitchen Concepts</li>
@@ -1857,7 +1855,7 @@
 
                                                 <div class="meet-mumbai-loation-div">
                                                     <div class="location-meet-visit">
-                                                        <a href="https://www.google.com/maps/place/Design+Cafe+Experience+Centre,+MG+Road/@12.9756867,77.5991968,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae167b9cabc73b:0x4f53c9fc81f677c2!8m2!3d12.9756731!4d77.6014792"
+                                                        <a href="https://maps.app.goo.gl/5Mo9kc9HdxXyDBjy7"
                                                             class="btn-location-direc">Get Directions</a>
                                                     </div>
                                                 </div>
@@ -1928,7 +1926,7 @@
                                                 <!-- <a href="/experience-centre/"> -->
 
                                                 <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Whitefield, Pune</h3>
+                                                    <h3>CreativeWalls Experience Centre, Mumbai</h3>
                                                     <p>Visit us to experience</p>
                                                     <ul>
                                                         <li>7 Kitchen Concepts</li>
@@ -1942,7 +1940,7 @@
                                                 <div class="meet-mumbai-loation-div">
                                                     
                                                     <div class="location-meet-visit">
-                                                        <a href="https://www.google.com/maps/place/Design+Cafe+Experience+Centre,+Whitefield/@12.9870239,77.7337883,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae0df79e8bd1bf:0xbfa5a3e1e4e72794!8m2!3d12.9870239!4d77.735977"
+                                                        <a href="https://maps.app.goo.gl/5Mo9kc9HdxXyDBjy7"
                                                             class="btn-location-direc">Get Directions</a>
                                                     </div>
                                                 </div>
@@ -2013,7 +2011,7 @@
                                                 <!-- <a href="/experience-centre/"> -->
 
                                                 <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, HSR Layout, Pune</h3>
+                                                    <h3>CreativeWalls Experience Centre, Nagpur</h3>
                                                     <p>Visit us to experience</p>
                                                     <ul>
                                                         <li>7 Kitchen Concepts</li>
@@ -2026,7 +2024,7 @@
 
                                                 <div class="meet-mumbai-loation-div">
                                                     <div class="location-meet-visit">
-                                                        <a href="https://www.google.com/maps/place/Design+Cafe+Experience+Centre,+HSR+Layout/@12.9122586,77.6344625,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae15f7cd6bc82b:0xf689dfacc3d73fd0!8m2!3d12.9122586!4d77.6366512"
+                                                        <a href="https://maps.app.goo.gl/5Mo9kc9HdxXyDBjy7"
                                                             class="btn-location-direc">Get Directions</a>
                                                     </div>
                                                 </div>
@@ -2097,7 +2095,7 @@
                                                 <!-- <a href="/experience-centre/"> -->
 
                                                 <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Thane</h3>
+                                                    <h3>CreativeWalls Experience Centre, Amravati</h3>
                                                     <p>Visit us to experience</p>
                                                     <ul>
                                                         <li>6 Kitchen Concepts</li>
@@ -2110,530 +2108,7 @@
 
                                                 <div class="meet-mumbai-loation-div">
                                                     <div class="location-meet-visit">
-                                                        <a href="https://g.page/r/CceHgEuih3n8EAE"
-                                                            class="btn-location-direc">Get Directions</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div role="tabpanel" class="tab-pane tab-content-inner-main-div text-left fade "
-                                    id="tab-location-4">
-                                    <div class="row meet-location-main-section">
-                                        <div class="col-lg-6 col-md-6">
-
-                                            <div class="exp-slider local">
-                                                <div
-                                                    class="owl-carousel owl-theme location-main-image owl-carousel-nav exp-sli">
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Modular kitchen interior designers in khargar, Navi Mumbai"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/08/19125508/modular-kitchen-designers-khargar-navi-mumbai.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Modular kitchen interior designers in khargar, Navi Mumbai"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/08/19125508/modular-kitchen-designers-khargar-navi-mumbai.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="3bhk flat interior designers in khargar, Navi Mumbai"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/08/19125459/3bhk-flat-interior-designers-khargar-navi-mumbai.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="3bhk flat interior designers in khargar, Navi Mumbai"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/08/19125459/3bhk-flat-interior-designers-khargar-navi-mumbai.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="2bhk interior designers in khargar, Navi Mumbai"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/08/19125454/2bhk-interior-designers-navi-mumbai.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="2bhk interior designers in khargar, Navi Mumbai"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/08/19125454/2bhk-interior-designers-navi-mumbai.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Apartment interior designers in khargar, Navi Mumbai"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/08/19125504/apartment-interior-designers-navi-mumbai.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Apartment interior designers in khargar, Navi Mumbai"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/08/19125504/apartment-interior-designers-navi-mumbai.jpg"></noscript>
-                                                    </div>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="location-right-section">
-                                                <!-- <a href="/experience-centre/"> -->
-
-                                                <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Navi Mumbai</h3>
-                                                    <p>Visit us to experience</p>
-                                                    <ul>
-                                                        <li>3 Kitchen Concepts</li>
-                                                        <li>2 Living Rooms</li>
-                                                        <li>Bedrooms</li>
-                                                        <li>1 BHK Model Flat and more..</li>
-                                                    </ul>
-                                                    <!-- </a> -->
-                                                </div>
-
-                                                <div class="meet-mumbai-loation-div">
-                                                    <div class="location-meet-visit">
-                                                        <a href="https://g.page/r/Cez8qH62Mj2MEAE"
-                                                            class="btn-location-direc">Get Directions</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div role="tabpanel" class="tab-pane tab-content-inner-main-div text-left fade "
-                                    id="tab-location-5">
-                                    <div class="row meet-location-main-section">
-                                        <div class="col-lg-6 col-md-6">
-
-                                            <div class="exp-slider local">
-                                                <div
-                                                    class="owl-carousel owl-theme location-main-image owl-carousel-nav exp-sli">
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Villa interior designers in chennai"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/01/25092632/villa-interior-designers-chennai.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Villa interior designers in chennai"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/01/25092632/villa-interior-designers-chennai.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Apartment interior designers in chennai anna salai"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/01/25092626/apartment-interior-designers-chennai-anna-salai.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Apartment interior designers in chennai anna salai"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/01/25092626/apartment-interior-designers-chennai-anna-salai.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="3bhk flat interior designers in chennai"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/01/25092622/3bhk-flat-interior-designers-chennai.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="3bhk flat interior designers in chennai"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/01/25092622/3bhk-flat-interior-designers-chennai.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="2bhk home interior designers in chennai pudupet"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/01/25092616/2bhk-home-interior-designers-chennai.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="2bhk home interior designers in chennai pudupet"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/01/25092616/2bhk-home-interior-designers-chennai.jpg"></noscript>
-                                                    </div>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="location-right-section">
-                                                <!-- <a href="/experience-centre/"> -->
-
-                                                <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Mount Road, Chennai</h3>
-                                                    <p>Visit us to experience</p>
-                                                    <ul>
-                                                        <li>6 Kitchen Concepts</li>
-                                                        <li>3 Living + Dining Rooms</li>
-                                                        <li>2 Bedrooms</li>
-                                                        <li>1 BHK Model Flats and more..</li>
-                                                    </ul>
-                                                    <!-- </a> -->
-                                                </div>
-
-                                                <div class="meet-mumbai-loation-div">
-                                                    <div class="location-meet-visit">
-                                                        <a href="https://goo.gl/maps/buKNYApDkmPJ9PF76"
-                                                            class="btn-location-direc">Get Directions</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div role="tabpanel" class="tab-pane tab-content-inner-main-div text-left fade "
-                                    id="tab-location-10">
-                                    <div class="row meet-location-main-section">
-                                        <div class="col-lg-6 col-md-6">
-
-                                            <div class="exp-slider local">
-                                                <div
-                                                    class="owl-carousel owl-theme location-main-image owl-carousel-nav exp-sli">
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Modular kitchen interior designers in mysore"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/04/28172413/modular-kitchen-designers-in-mysore.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Modular kitchen interior designers in mysore"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/04/28172413/modular-kitchen-designers-in-mysore.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Villa interior designers in mysore"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/04/28172417/villa-interior-designers-mysore.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Villa interior designers in mysore"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/04/28172417/villa-interior-designers-mysore.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Apartment interior designers in mysore"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/04/28172409/apartment-interior-designers-mysore.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Apartment interior designers in mysore"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/04/28172409/apartment-interior-designers-mysore.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="2 bhk flat interior designers in mysore"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/04/28172728/2bhk-flat-interior-designers-in-mysore.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="2 bhk flat interior designers in mysore"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/04/28172728/2bhk-flat-interior-designers-in-mysore.jpg"></noscript>
-                                                    </div>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="location-right-section">
-                                                <!-- <a href="/experience-centre/"> -->
-
-                                                <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Mysore</h3>
-                                                    <p>Visit us to experience</p>
-                                                    <ul>
-                                                        <li>4 Kitchen Concepts</li>
-                                                        <li>Living Rooms</li>
-                                                        <li>Bedrooms</li>
-                                                        <li>Wardrobes and more..</li>
-                                                    </ul>
-                                                    <!-- </a> -->
-                                                </div>
-
-                                                <div class="meet-mumbai-loation-div">
-                                                    
-                                                    <div class="location-meet-visit">
-                                                        <a href="https://goo.gl/maps/N8BhJL9AfKZpsfHK7"
-                                                            class="btn-location-direc">Get Directions</a>
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div role="tabpanel" class="tab-pane tab-content-inner-main-div text-left fade "
-                                    id="tab-location-11">
-                                    <div class="row meet-location-main-section">
-                                        <div class="col-lg-6 col-md-6">
-
-                                            <div class="exp-slider local">
-                                                <div
-                                                    class="owl-carousel owl-theme location-main-image owl-carousel-nav exp-sli">
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Modular kitchen interior designers in Coimbatore"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28054554/modular-kitchen-designer-coimbatore.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Modular kitchen interior designers in Coimbatore"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28054554/modular-kitchen-designer-coimbatore.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Master bedroom interior designers in Coimbatore"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28054547/master-bedroom-designer-coimbatore.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Master bedroom interior designers in Coimbatore"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28054547/master-bedroom-designer-coimbatore.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="1bhk interior designers in Coimbatore"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28054538/1bhk-designer-coimbatore.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="1bhk interior designers in Coimbatore"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28054538/1bhk-designer-coimbatore.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Wardrobe interior designers in Coimbatore"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28054601/wardrobe-designers-coimbatore.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Wardrobe interior designers in Coimbatore"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28054601/wardrobe-designers-coimbatore.jpg"></noscript>
-                                                    </div>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="location-right-section">
-                                                <!-- <a href="/experience-centre/"> -->
-
-                                                <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Coimbatore</h3>
-                                                    <p>Visit us to experience</p>
-                                                    <ul>
-                                                        <li>4 Kitchen Concepts</li>
-                                                        <li>6 Living Rooms</li>
-                                                        <li>3 Wardrobes</li>
-                                                        <li>1 BHK Model Flat and more..</li>
-                                                    </ul>
-                                                    <!-- </a> -->
-                                                </div>
-
-                                                <div class="meet-mumbai-loation-div">
-                                                    <div class="location-meet-visit">
-                                                        <a href="https://g.page/r/CXuhVOyA6dRVEBA"
-                                                            class="btn-location-direc">Get Directions</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div role="tabpanel" class="tab-pane tab-content-inner-main-div text-left fade "
-                                    id="tab-location-12">
-                                    <div class="row meet-location-main-section">
-                                        <div class="col-lg-6 col-md-6">
-
-                                            <div class="exp-slider local">
-                                                <div
-                                                    class="owl-carousel owl-theme location-main-image owl-carousel-nav exp-sli">
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded" alt=""
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/12/17115111/designcafe-vizag-ec.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded" alt=""
-                                                                src="<?php echo base_url(); ?>assets/uploads/2022/12/17115111/designcafe-vizag-ec.jpg"></noscript>
-                                                    </div>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="location-right-section">
-                                                <!-- <a href="/experience-centre/"> -->
-
-                                                <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Vizag</h3>
-                                                    <p>Visit us to experience</p>
-                                                    <ul>
-                                                        <li>3 Kitchen Concepts</li>
-                                                        <li>3 Wardrobe Styles</li>
-                                                        <li>1 Living Room</li>
-                                                        <li>1 Bedroom and more&#8230;</li>
-                                                    </ul>
-                                                    <!-- </a> -->
-                                                </div>
-
-                                                <div class="meet-mumbai-loation-div">
-                                                    <div class="location-meet-visit">
-                                                        <a href="https://g.page/r/CTHB6-3aa1aeEBM/"
-                                                            class="btn-location-direc">Get Directions</a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div role="tabpanel" class="tab-pane tab-content-inner-main-div text-left fade "
-                                    id="tab-location-13">
-                                    <div class="row meet-location-main-section">
-                                        <div class="col-lg-6 col-md-6">
-
-                                            <div class="exp-slider local">
-                                                <div
-                                                    class="owl-carousel owl-theme location-main-image owl-carousel-nav exp-sli">
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Modular kitchen interior designer in Kolkata"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28053239/modular-kitchen-design-kolkata.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Modular kitchen interior designer in Kolkata"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28053239/modular-kitchen-design-kolkata.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="1bhk interior designer in Kolkata"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28053216/1bhk-interior-design-kolkata.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="1bhk interior designer in Kolkata"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28053216/1bhk-interior-design-kolkata.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Apartment bedroom interior designer in Kolkata"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28053226/apartment-interior-design-kolkata.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Apartment bedroom interior designer in Kolkata"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28053226/apartment-interior-design-kolkata.jpg"></noscript>
-                                                    </div>
-
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Kids bedroom interior designer in Kolkata"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28053230/kids-room-interior-design-kolkata.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="Kids bedroom interior designer in Kolkata"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28053230/kids-room-interior-design-kolkata.jpg"></noscript>
-                                                    </div>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="location-right-section">
-                                                <!-- <a href="/experience-centre/"> -->
-
-                                                <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Kolkata</h3>
-                                                    <p>Visit us to experience</p>
-                                                    <ul>
-                                                        <li>3 Kitchen Concepts</li>
-                                                        <li>1 BHK Model Flat</li>
-                                                        <li>Kids Bedrooms</li>
-                                                        <li>Guest Bedrooms and more&#8230;</li>
-                                                    </ul>
-                                                    <!-- </a> -->
-                                                </div>
-
-                                                <div class="meet-mumbai-loation-div">
-                                                    <div class="location-meet-visit">
-                                                        <a href="https://maps.app.goo.gl/rwUSzNKoWjR5fUrr9"
-                                                            class="btn-location-direc">Get Directions</a>
-                                                        
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div role="tabpanel" class="tab-pane tab-content-inner-main-div text-left fade "
-                                    id="tab-location-14">
-                                    <div class="row meet-location-main-section">
-                                        <div class="col-lg-6 col-md-6">
-
-                                            <div class="exp-slider local">
-                                                <div
-                                                    class="owl-carousel owl-theme location-main-image owl-carousel-nav exp-sli">
-
-                                                    <div class="slider-box">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="CreativeWalls experience centre in Ahmedabad"
-                                                            src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                                            data-lazy-src="<?php echo base_url(); ?>assets/uploads/2024/10/28055905/designcafe-experience-centre-ahmedabad.jpg"><noscript><img
-                                                                class="img-fluid lazyloaded"
-                                                                alt="CreativeWalls experience centre in Ahmedabad"
-                                                                src="<?php echo base_url(); ?>assets/uploads/2024/10/28055905/designcafe-experience-centre-ahmedabad.jpg"></noscript>
-                                                    </div>
-
-
-
-                                                </div>
-                                            </div>
-
-                                        </div>
-                                        <div class="col-lg-6 col-md-6">
-                                            <div class="location-right-section">
-                                                <!-- <a href="/experience-centre/"> -->
-
-                                                <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Ahmedabad</h3>
-                                                    <p>Visit us to experience</p>
-                                                    <ul>
-                                                        <li>3 Kitchen Concepts</li>
-                                                        <li>Living Room</li>
-                                                        <li>Kids Bedrooms</li>
-                                                        <li>Wardrobe and more&#8230;</li>
-                                                    </ul>
-                                                    <!-- </a> -->
-                                                </div>
-
-                                                <div class="meet-mumbai-loation-div">
-                                                    <div class="location-meet-visit">
-                                                        <a href="https://g.page/r/CRMnlAwb62WNEB0/"
+                                                        <a href="https://maps.app.goo.gl/5Mo9kc9HdxXyDBjy7"
                                                             class="btn-location-direc">Get Directions</a>
                                                     </div>
                                                 </div>
@@ -2750,20 +2225,6 @@
             <!-- Question Section End -->
             
         </div>
-        <script type="text/javascript">
-            jQuery(document).ready(function ($) {
-                var wpcf7Elm = document.querySelector('.wpcf7');
-                if (wpcf7Elm) {
-                    wpcf7Elm.addEventListener('wpcf7submit', function (event) {
-                        var inputs = event.detail.inputs;
-                        if (event.detail.status != "validation_failed") {
-                            $(".user-research-step-2").slideUp(200);
-                            $(".user-research-step-3").slideDown(200);
-                        }
-                    }, false);
-                }
-            });
-        </script>
 
         <div style="background: #ffffff">
             <div class="container">
