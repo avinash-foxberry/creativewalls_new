@@ -13388,7 +13388,7 @@ jQuery(".open-btn1").click(function() {
                     <h1 class="why-signature">Why Choose DC Signature?</h1>
                     <img src="<?php echo base_url(); ?>assets/uploads/2023/03/24172731/light-header-elements.png"
                         style="margin-top: -50px;">
-                    <!-- <h3>Best Interior Design Solutions in Bengaluru</h3> -->
+                    <!-- <h3>Best Interior Design Solutions in Pune</h3> -->
                     <!-- </div> -->
                 </div>
             </div>
@@ -13471,7 +13471,7 @@ jQuery(".open-btn1").click(function() {
                         <h2>Designs Using Our Signature Finishes</h2>
                         <img src="<?php echo base_url(); ?>assets/uploads/2023/03/24181712/dark-header-elements.png"
                             style="margin-top: -30px;">
-                        <!-- <h3>Best Interior Design Solutions in Bengaluru</h3> -->
+                        <!-- <h3>Best Interior Design Solutions in Pune</h3> -->
                     </div>
                 </div>
             </div>
@@ -13638,7 +13638,7 @@ jQuery(".open-btn1").click(function() {
                     <h2 style="color:#efd496">What's Special About DC Signature?</h2>
                     <img src="<?php echo base_url(); ?>assets/uploads/2023/03/24172731/light-header-elements.png"
                         style="margin-top: -30px;">
-                    <!-- <h3>Best Interior Design Solutions in Bengaluru</h3> -->
+                    <!-- <h3>Best Interior Design Solutions in Pune</h3> -->
                     <!-- </div> -->
                 </div>
             </div>
@@ -13789,7 +13789,7 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                     <div class="vdo-testimonial-title">Manish Chandgothia</div>
                                     <p class="vdo-testimonial-meta-city">
-                                        3 BHK, Bren Imperia,Bengaluru </p>
+                                        3 BHK, Bren Imperia,Pune </p>
                                 </div>
                             </div>
                             <div class="item">
@@ -13882,72 +13882,72 @@ jQuery(".open-btn1").click(function() {
                         <div id="local-slider" class="owl-carousel owl-theme owl-local-slider owl-carousel-nav">
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe home interiors by best interior designers in Bangalore"
+                                    alt="Creative walls home interiors by best interior designers in Bangalore"
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/07/06232938/home-interior-designs-bangalore.webp"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe home interiors by best interior designers in Bangalore"
+                                        alt="Creative walls home interiors by best interior designers in Bangalore"
                                         src="<?php echo base_url(); ?>assets/uploads/2022/07/06232938/home-interior-designs-bangalore.webp"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Bangalore</div> -->
                             </div>
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe home interiors by top interior designers in Mumbai"
+                                    alt="Creative walls home interiors by top interior designers in Mumbai"
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/06/27183746/home-interior-designs-mumbai.jpg"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe home interiors by top interior designers in Mumbai"
+                                        alt="Creative walls home interiors by top interior designers in Mumbai"
                                         src="<?php echo base_url(); ?>assets/uploads/2022/06/27183746/home-interior-designs-mumbai.jpg"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Mumbai</div> -->
                             </div>
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe home interiors by leading interior designers in Mumbai"
+                                    alt="Creative walls home interiors by leading interior designers in Mumbai"
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/06/27183718/best-home-interiors-thane.jpg"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe home interiors by leading interior designers in Mumbai"
+                                        alt="Creative walls home interiors by leading interior designers in Mumbai"
                                         src="<?php echo base_url(); ?>assets/uploads/2022/06/27183718/best-home-interiors-thane.jpg"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Thane</div> -->
                             </div>
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe home interiors bybest interior design firm in Navi Mumbai"
+                                    alt="Creative walls home interiors bybest interior design firm in Navi Mumbai"
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/06/27183723/best-interior-designers-navi-mumbai.jpg"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe home interiors bybest interior design firm in Navi Mumbai"
+                                        alt="Creative walls home interiors bybest interior design firm in Navi Mumbai"
                                         src="<?php echo base_url(); ?>assets/uploads/2022/06/27183723/best-interior-designers-navi-mumbai.jpg"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Navi Mumbai</div> -->
                             </div>
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe home interiors with personalised interior designs by best interior designers in Chennai"
+                                    alt="Creative walls home interiors with personalised interior designs by best interior designers in Chennai"
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/06/27183713/best-home-interior-designs-chennai.jpg"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe home interiors with personalised interior designs by best interior designers in Chennai"
+                                        alt="Creative walls home interiors with personalised interior designs by best interior designers in Chennai"
                                         src="<?php echo base_url(); ?>assets/uploads/2022/06/27183713/best-home-interior-designs-chennai.jpg"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Chennai</div> -->
                             </div>
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe home interiors with modular kitchen designs by best interior designers in Hyderabad "
+                                    alt="Creative walls home interiors with modular kitchen designs by best interior designers in Hyderabad "
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/06/27183729/best-interior-design-firm-in-hyderabad.jpg"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe home interiors with modular kitchen designs by best interior designers in Hyderabad "
+                                        alt="Creative walls home interiors with modular kitchen designs by best interior designers in Hyderabad "
                                         src="<?php echo base_url(); ?>assets/uploads/2022/06/27183729/best-interior-design-firm-in-hyderabad.jpg"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Hyderabad</div> -->
@@ -13966,36 +13966,36 @@ jQuery(".open-btn1").click(function() {
                             </div>
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe house interiors by top interior designers in Pune"
+                                    alt="Creative walls house interiors by top interior designers in Pune"
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/06/27183735/designer-house-interior-pune.jpg"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe house interiors by top interior designers in Pune"
+                                        alt="Creative walls house interiors by top interior designers in Pune"
                                         src="<?php echo base_url(); ?>assets/uploads/2022/06/27183735/designer-house-interior-pune.jpg"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Pune</div> -->
                             </div>
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe house interiors by top interior designers in Coimbatore"
+                                    alt="Creative walls house interiors by top interior designers in Coimbatore"
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/12/27182355/home-interior-designs-coimbatore.jpg"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe house interiors by top interior designers in Coimbatore"
+                                        alt="Creative walls house interiors by top interior designers in Coimbatore"
                                         src="<?php echo base_url(); ?>assets/uploads/2022/12/27182355/home-interior-designs-coimbatore.jpg"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Pune</div> -->
                             </div>
                             <div class="slider-box">
                                 <img class="owl-lazy"
-                                    alt="Design cafe house interiors by top interior designers in Vizag"
+                                    alt="Creative walls house interiors by top interior designers in Vizag"
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     class="img-fluid"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2022/12/27182349/home-interior-designs-vizag.jpg"><noscript><img
                                         class="owl-lazy"
-                                        alt="Design cafe house interiors by top interior designers in Vizag"
+                                        alt="Creative walls house interiors by top interior designers in Vizag"
                                         src="<?php echo base_url(); ?>assets/uploads/2022/12/27182349/home-interior-designs-vizag.jpg"
                                         class="img-fluid"></noscript>
                                 <!-- <div class="slider-text">Pune</div> -->

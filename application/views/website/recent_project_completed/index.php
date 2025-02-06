@@ -16090,177 +16090,177 @@
 	<noscript>
 		<style id="wpr-lazyload-bg-nostyle">
 			div.pp_default .pp_top .pp_left {
-				--wpr-bg-2d1d36c5-bdd3-45a4-8f78-01981c6f7770: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-2d1d36c5-bdd3-45a4-8f78-01981c6f7770: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_top .pp_middle {
-				--wpr-bg-07a25dcb-95f3-46e6-a4a2-2e0c390876f9: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_x.png');
+				--wpr-bg-07a25dcb-95f3-46e6-a4a2-2e0c390876f9: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_x.png');
 			}
 
 			div.pp_default .pp_top .pp_right {
-				--wpr-bg-e495cf6b-589a-46d5-a8eb-e57a4396c5c6: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-e495cf6b-589a-46d5-a8eb-e57a4396c5c6: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_content_container .pp_left {
-				--wpr-bg-990bf1b7-efae-4ac1-8e6c-c3c3ead9de66: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_y.png');
+				--wpr-bg-990bf1b7-efae-4ac1-8e6c-c3c3ead9de66: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_y.png');
 			}
 
 			div.pp_default .pp_content_container .pp_right {
-				--wpr-bg-2ecd0ef2-4c31-4c04-aba7-34f7021c7b30: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_y.png');
+				--wpr-bg-2ecd0ef2-4c31-4c04-aba7-34f7021c7b30: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_y.png');
 			}
 
 			div.pp_default .pp_next:hover {
-				--wpr-bg-b0483f29-2dd7-49cf-b30a-cba0054b1d55: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_next.png');
+				--wpr-bg-b0483f29-2dd7-49cf-b30a-cba0054b1d55: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_next.png');
 			}
 
 			div.pp_default .pp_previous:hover {
-				--wpr-bg-3287d862-884a-41c0-aa21-c2cd7eb2d078: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_prev.png');
+				--wpr-bg-3287d862-884a-41c0-aa21-c2cd7eb2d078: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_prev.png');
 			}
 
 			div.pp_default .pp_expand {
-				--wpr-bg-06f1dfc2-d82d-435f-9754-ac4faa18711f: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-06f1dfc2-d82d-435f-9754-ac4faa18711f: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_expand:hover {
-				--wpr-bg-fd0715c8-7b53-4ade-93e3-77d0059e48d7: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-fd0715c8-7b53-4ade-93e3-77d0059e48d7: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_contract {
-				--wpr-bg-e7aed686-faf0-4e71-b2c3-272d51ae9e7f: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-e7aed686-faf0-4e71-b2c3-272d51ae9e7f: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_contract:hover {
-				--wpr-bg-8e88859e-c241-4dd0-bc23-00b5cccf075e: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-8e88859e-c241-4dd0-bc23-00b5cccf075e: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_close {
-				--wpr-bg-7f8f3345-3d0a-4091-bf42-ae7adb351cbd: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-7f8f3345-3d0a-4091-bf42-ae7adb351cbd: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_gallery ul li a {
-				--wpr-bg-f00b7b9d-b477-4ca7-9d19-11ba7cf505bc: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/default_thumb.png');
+				--wpr-bg-f00b7b9d-b477-4ca7-9d19-11ba7cf505bc: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/default_thumb.png');
 			}
 
 			div.pp_default .pp_nav .pp_pause,
 			div.pp_default .pp_nav .pp_play {
-				--wpr-bg-604d5e94-ad6a-480a-8b00-ac3944bdff03: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-604d5e94-ad6a-480a-8b00-ac3944bdff03: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default a.pp_arrow_next,
 			div.pp_default a.pp_arrow_previous {
-				--wpr-bg-3aa7716f-c493-4969-9d4a-eb0aec567af9: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-3aa7716f-c493-4969-9d4a-eb0aec567af9: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_bottom .pp_left {
-				--wpr-bg-371bdb3e-0c68-454e-8b84-7d51d418bf2e: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-371bdb3e-0c68-454e-8b84-7d51d418bf2e: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_bottom .pp_middle {
-				--wpr-bg-55353e47-2923-4af7-b1aa-0f25f6a6f219: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_x.png');
+				--wpr-bg-55353e47-2923-4af7-b1aa-0f25f6a6f219: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite_x.png');
 			}
 
 			div.pp_default .pp_bottom .pp_right {
-				--wpr-bg-d196b8c0-baa6-4603-83e2-ca4818000860: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
+				--wpr-bg-d196b8c0-baa6-4603-83e2-ca4818000860: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/sprite.png');
 			}
 
 			div.pp_default .pp_loaderIcon {
-				--wpr-bg-eb1aeaa7-4b32-4cc7-bb1d-b924cc304b50: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/default/loader.gif');
+				--wpr-bg-eb1aeaa7-4b32-4cc7-bb1d-b924cc304b50: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/default/loader.gif');
 			}
 
 			div.facebook .pp_top .pp_left {
-				--wpr-bg-74ad4fc0-b7f3-40aa-a135-b7b366ca9b1f: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-74ad4fc0-b7f3-40aa-a135-b7b366ca9b1f: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_top .pp_middle {
-				--wpr-bg-09d2cd32-e931-4c0b-bd8b-3bba138d05dc: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/contentPatternTop.png');
+				--wpr-bg-09d2cd32-e931-4c0b-bd8b-3bba138d05dc: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/contentPatternTop.png');
 			}
 
 			div.facebook .pp_top .pp_right {
-				--wpr-bg-ee90ae80-775a-431a-8052-a3d799fd5cea: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-ee90ae80-775a-431a-8052-a3d799fd5cea: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_content_container .pp_left {
-				--wpr-bg-47ffa6bd-9a47-4fa0-b17d-31e7d1f74497: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/contentPatternLeft.png');
+				--wpr-bg-47ffa6bd-9a47-4fa0-b17d-31e7d1f74497: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/contentPatternLeft.png');
 			}
 
 			div.facebook .pp_content_container .pp_right {
-				--wpr-bg-7b6e015a-f86b-43fd-b88c-4fc35580f1e8: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/contentPatternRight.png');
+				--wpr-bg-7b6e015a-f86b-43fd-b88c-4fc35580f1e8: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/contentPatternRight.png');
 			}
 
 			div.facebook .pp_expand {
-				--wpr-bg-dc0aad2d-21bd-48b9-80c1-5a0a1609009c: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-dc0aad2d-21bd-48b9-80c1-5a0a1609009c: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_expand:hover {
-				--wpr-bg-5ab58625-8465-4f35-b28a-c260ecf4a3ff: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-5ab58625-8465-4f35-b28a-c260ecf4a3ff: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_contract {
-				--wpr-bg-fdf942e6-5a10-470e-852f-cb150ed63d23: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-fdf942e6-5a10-470e-852f-cb150ed63d23: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_contract:hover {
-				--wpr-bg-e7e145a0-7224-4583-bd06-8a094738769e: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-e7e145a0-7224-4583-bd06-8a094738769e: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_close {
-				--wpr-bg-8b6fe086-f489-45ed-bfd3-3043a36d35b9: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-8b6fe086-f489-45ed-bfd3-3043a36d35b9: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_loaderIcon {
-				--wpr-bg-f9f20842-63c9-4659-b33c-7b37dad8179d: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/loader.gif');
+				--wpr-bg-f9f20842-63c9-4659-b33c-7b37dad8179d: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/loader.gif');
 			}
 
 			div.facebook .pp_arrow_previous {
-				--wpr-bg-8032e854-802f-4e4b-bdac-c7a2cd152d01: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-8032e854-802f-4e4b-bdac-c7a2cd152d01: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_arrow_next {
-				--wpr-bg-3fadb026-47b2-4c2e-bdf7-ee74a07f6b63: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-3fadb026-47b2-4c2e-bdf7-ee74a07f6b63: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_nav .pp_play {
-				--wpr-bg-858d1866-ca05-4a23-b1bf-772b8b30e940: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-858d1866-ca05-4a23-b1bf-772b8b30e940: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_nav .pp_pause {
-				--wpr-bg-f5d9bffc-e363-411f-855c-d3f347006b1b: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-f5d9bffc-e363-411f-855c-d3f347006b1b: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_next:hover {
-				--wpr-bg-93980afd-5eed-4483-a0ac-5ead3a05f6c3: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/btnNext.png');
+				--wpr-bg-93980afd-5eed-4483-a0ac-5ead3a05f6c3: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/btnNext.png');
 			}
 
 			div.facebook .pp_previous:hover {
-				--wpr-bg-e05c0309-4fc0-49c1-a19e-09716cc2e1d7: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/btnPrevious.png');
+				--wpr-bg-e05c0309-4fc0-49c1-a19e-09716cc2e1d7: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/btnPrevious.png');
 			}
 
 			div.facebook .pp_bottom .pp_left {
-				--wpr-bg-d44b13aa-7aa8-41d3-87cd-c27141f873be: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-d44b13aa-7aa8-41d3-87cd-c27141f873be: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			div.facebook .pp_bottom .pp_middle {
-				--wpr-bg-65dcb800-f1c6-4ae7-b8de-d638be972943: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/contentPatternBottom.png');
+				--wpr-bg-65dcb800-f1c6-4ae7-b8de-d638be972943: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/contentPatternBottom.png');
 			}
 
 			div.facebook .pp_bottom .pp_right {
-				--wpr-bg-ab5d968d-db84-473d-b2cb-aca76c0691b6: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
+				--wpr-bg-ab5d968d-db84-473d-b2cb-aca76c0691b6: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/sprite.png');
 			}
 
 			.pp_gallery li.default a {
-				--wpr-bg-6c602d33-3979-41ab-bbd5-b1631a029f9b: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/facebook/default_thumbnail.gif');
+				--wpr-bg-6c602d33-3979-41ab-bbd5-b1631a029f9b: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/facebook/default_thumbnail.gif');
 			}
 
 			a.pp_next {
-				--wpr-bg-f41104cc-0335-4da5-bf0e-f6da9f74fd7f: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/light_rounded/btnNext.png');
+				--wpr-bg-f41104cc-0335-4da5-bf0e-f6da9f74fd7f: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/light_rounded/btnNext.png');
 			}
 
 			a.pp_previous {
-				--wpr-bg-8724bb27-5536-4420-8dab-613a011fba72: url('https://www.designcafe.com/wp-content/themes/designcafe/images/prettyPhoto/light_rounded/btnNext.png');
+				--wpr-bg-8724bb27-5536-4420-8dab-613a011fba72: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/images/prettyPhoto/light_rounded/btnNext.png');
 			}
 
 			.owl-carousel .owl-video-play-icon {
-				--wpr-bg-6d5e9bad-fd83-40b1-93a9-5875caaf2289: url('https://www.designcafe.com/wp-content/themes/designcafe/css/owl.video.play.png');
+				--wpr-bg-6d5e9bad-fd83-40b1-93a9-5875caaf2289: url('https://www.thecreativewalls.in/wp-content/themes/designcafe/css/owl.video.play.png');
 			}
 
 			.open-btn1.btnactive {
@@ -16386,10 +16386,10 @@ jQuery(".open-btn1").click(function() {
                                         <div class="alm-filter--inner">
                                             <ul>
                                                 <li class="alm-filter--checkbox field-parent field-0">
-                                                    <div class="alm-filter--link field-checkbox field-bengaluru "
-                                                        id="checkbox-bengaluru-2" data-type="checkbox"
-                                                        data-value="bengaluru" role="checkbox" tabindex="0"
-                                                        aria-checked="false">Bengaluru</div>
+                                                    <div class="alm-filter--link field-checkbox field-Pune "
+                                                        id="checkbox-Pune-2" data-type="checkbox"
+                                                        data-value="Pune" role="checkbox" tabindex="0"
+                                                        aria-checked="false">Pune</div>
                                                 </li>
                                                 <li class="alm-filter--checkbox field-parent field-1">
                                                     <div class="alm-filter--link field-checkbox field-chennai "
@@ -16485,8 +16485,8 @@ jQuery(".open-btn1").click(function() {
 
 
                                             <img class="img-fluid"
-                                                alt="Modern classic 3 bhk flat of debashish modular kitchen design in bannerghatta bengaluru designed by design cafe"
-                                                src="<?php echo base_url(); ?>assets/uploads/2019/12/17055019/modern-classic-3-bhk-flat-debashish-modular-kitchen-design-bannerghatta-bengaluru-1450x870.jpg">
+                                                alt="Modern classic 3 bhk flat of debashish modular kitchen design in bannerghatta Pune designed by Creative walls"
+                                                src="<?php echo base_url(); ?>assets/uploads/2019/12/17055019/modern-classic-3-bhk-flat-debashish-modular-kitchen-design-bannerghatta-Pune-1450x870.jpg">
                                         </div>
                                         <div>
                                             <div
@@ -16561,7 +16561,7 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                     <div class="project-detail-list">
                                         <h5>Property Area</h5>
-                                        <p>Bannerghatta, Bengaluru</p>
+                                        <p>Bannerghatta, Pune</p>
                                     </div>
                                     <div class="project-detail-list">
                                         <h5>Property Type</h5>
@@ -16580,7 +16580,7 @@ jQuery(".open-btn1").click(function() {
                                     <h2>Design Solution</h2>
                                 </div>
                                 <div class="collection-special-features-description">
-                                    <p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Design Cafe's team of experts designed this 3BHK apartment with modern and neo-classical style of interiors. The colour palette was kept mostly neutral with a mix of brown, white and beige to ensure the apartment exuded warmth.\nImage 1: A matte 3D panel wall in the living cum dining room adds subtle glamour.\nImage 2: The master bedroom in the same neutral palette as the living shows off an elegant look with sliding door wardrobes\nImage 3: A kids/ second bedroom is dressed in a popular colour theme – white and royal blue, and a tufted backrest is a touch of the neo-classical\nImage 4: The guest bedroom borrows the hexagon from the living room and is accentuated by a geometric patterned wallpaper. The study unit is sleek, simple. A non-assuming bed with a bright orange headboard adds a pop of colour.\r\n&quot;}"
+                                    <p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;Creative walls's team of experts designed this 3BHK apartment with modern and neo-classical style of interiors. The colour palette was kept mostly neutral with a mix of brown, white and beige to ensure the apartment exuded warmth.\nImage 1: A matte 3D panel wall in the living cum dining room adds subtle glamour.\nImage 2: The master bedroom in the same neutral palette as the living shows off an elegant look with sliding door wardrobes\nImage 3: A kids/ second bedroom is dressed in a popular colour theme – white and royal blue, and a tufted backrest is a touch of the neo-classical\nImage 4: The guest bedroom borrows the hexagon from the living room and is accentuated by a geometric patterned wallpaper. The study unit is sleek, simple. A non-assuming bed with a bright orange headboard adds a pop of colour.\r\n&quot;}"
                                             data-sheets-userformat="{&quot;2&quot;:959,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:{&quot;1&quot;:2,&quot;2&quot;:15724527},&quot;5&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:3}]},&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:3}]},&quot;7&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:{&quot;1&quot;:2,&quot;2&quot;:0}},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0}">Design
                                             Cafe&#8217;s team of experts designed this 3BHK apartment with modern and
                                             neo-classical style of interiors. The colour palette was kept mostly neutral
@@ -16728,7 +16728,7 @@ jQuery(".open-btn1").click(function() {
                                         <div>
                                             <div
                                                 style="padding: 10px;font-size: 16px;line-height: 20px; font-style: italic; text-align: center;">
-                                                <span>Ritesh with is his wife and two kids in their Design Cafe
+                                                <span>Ritesh with is his wife and two kids in their Creative walls
                                                     home.</span>
                                             </div>
                                         </div>
@@ -16882,7 +16882,7 @@ jQuery(".open-btn1").click(function() {
 
 
                                             <img class="img-fluid"
-                                                alt="L shape sofa designed by design cafe which is one of the top 5 interior designers in bangalore"
+                                                alt="L shape sofa designed by Creative walls which is one of the top 5 interior designers in bangalore"
                                                 src="<?php echo base_url(); ?>assets/uploads/2021/01/13191306/top-5-interior-designers-in-bangalore.jpg">
                                             
                                         </div>
@@ -16955,7 +16955,7 @@ jQuery(".open-btn1").click(function() {
 
 
                                             <img class="img-fluid"
-                                                alt="Contemporary bedroom designed by design cafe residential interiors bangalore"
+                                                alt="Contemporary bedroom designed by Creative walls residential interiors bangalore"
                                                 src="<?php echo base_url(); ?>assets/uploads/2021/01/13191251/residential-interiors-bangalore.jpg">
                                             
                                         </div>
@@ -16974,7 +16974,7 @@ jQuery(".open-btn1").click(function() {
                         </div>
                         <div class="col-xl-9 col-lg-8 col-md-8">
                             <div class="collection-title">
-                                <h2>Praveen And Shilpa Bysani&#8217;s 3 BHK Home In Bengaluru</h2>
+                                <h2>Praveen And Shilpa Bysani&#8217;s 3 BHK Home In Pune</h2>
                                 <p class="designed-by-project">Designed By: <span><strong>Swati Malani</strong></span>
                                 </p>
                             </div>
@@ -16997,7 +16997,7 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                     <div class="project-detail-list">
                                         <h5>Property Area</h5>
-                                        <p>Bengaluru</p>
+                                        <p>Pune</p>
                                     </div>
                                     <div class="project-detail-list">
                                         <h5>Property Type</h5>
@@ -17016,9 +17016,9 @@ jQuery(".open-btn1").click(function() {
                                     <h2>Design Solution</h2>
                                 </div>
                                 <div class="collection-special-features-description">
-                                    <p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The Design Cafe team, led by Swati Malani, initiated a complete makeover of the home. Our team of in-house designers used pops of gold throughout the house in line with the refined taste of the homeowners. \n\nImage 1: This modular kitchen has been designed with a white acrylic finish, a black and white island that is accentuated by rose gold pendant lights and a black glossy backdrop \nImage 2: The lobby area is decorated with 3D tiles in black and rose gold\nImage 3: The dining room's look with cove lighting and open ledges is in sync with that of the kitchen. \nImage 4: The texture of the wall in the living room complements the natural hue of the white marble on the opposite wall \nImage 5: The highlight of the master bedroom is the back panel. Golden art leather has been used on the headboard\nImage 6: The back panel of the second bedroom features wood rafters while the false ceiling has a similar design&quot;}"
+                                    <p><span data-sheets-value="{&quot;1&quot;:2,&quot;2&quot;:&quot;The Creative walls team, led by Swati Malani, initiated a complete makeover of the home. Our team of in-house designers used pops of gold throughout the house in line with the refined taste of the homeowners. \n\nImage 1: This modular kitchen has been designed with a white acrylic finish, a black and white island that is accentuated by rose gold pendant lights and a black glossy backdrop \nImage 2: The lobby area is decorated with 3D tiles in black and rose gold\nImage 3: The dining room's look with cove lighting and open ledges is in sync with that of the kitchen. \nImage 4: The texture of the wall in the living room complements the natural hue of the white marble on the opposite wall \nImage 5: The highlight of the master bedroom is the back panel. Golden art leather has been used on the headboard\nImage 6: The back panel of the second bedroom features wood rafters while the false ceiling has a similar design&quot;}"
                                             data-sheets-userformat="{&quot;2&quot;:5055,&quot;3&quot;:{&quot;1&quot;:0},&quot;4&quot;:[null,2,15724527],&quot;5&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:2}]},&quot;6&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:2}]},&quot;7&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;8&quot;:{&quot;1&quot;:[{&quot;1&quot;:2,&quot;2&quot;:0,&quot;5&quot;:[null,2,0]},{&quot;1&quot;:0,&quot;2&quot;:0,&quot;3&quot;:3},{&quot;1&quot;:1,&quot;2&quot;:0,&quot;4&quot;:1}]},&quot;10&quot;:0,&quot;11&quot;:4,&quot;12&quot;:0,&quot;15&quot;:&quot;EB Garamond&quot;}">The
-                                            Design Cafe team, led by Swati Malani, initiated a complete makeover of the
+                                            Creative walls team, led by Swati Malani, initiated a complete makeover of the
                                             home. Our team of in-house designers used pops of gold throughout the house
                                             in line with the refined taste of the homeowners.<br>
                                         </span></p>

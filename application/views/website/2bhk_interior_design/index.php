@@ -1,5 +1,4 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] . '/assets/css/interiorDesignInternal.css'); ?>
-
 <script type="text/javascript">
 jQuery(".open-btn1").click(function() {
     jQuery(this).toggleClass("btnactive");
@@ -26,14 +25,11 @@ jQuery(".open-btn1").click(function() {
             </div>
         </div>
     </div>
-
     <div class="col-lg-12">
-
-
         <style></style>
         <style type="text/css"></style>
         <div id="ajax-load-more" class="ajax-load-more-wrap infinite classic alm-layouts" data-id="9463381164"
-            data-alm-id="" data-canonical-url="https://www.designcafe.com/interior-design/2bhk-interior-design/"
+            data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/interior-design/2bhk-interior-design/"
             data-slug="2bhk-interior-design" data-post-id="173" data-localized="ajax_load_more_9463381164_vars"
             data-alm-object="ajax_load_more_9463381164">
             <div aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax collection-category-load-more"
@@ -45,218 +41,138 @@ jQuery(".open-btn1").click(function() {
                 data-button-loading-label="Loading More 2 BHK Designs" data-images-loaded="true">
                 <div id="15036" class="row collection-listing-section collection-detail-widget-wrap">
                     <div class="container collection-slider-mb-new">
-
                         <div class="row collection-row-slide-new collection-row-slide-new-cls">
                             <div class="col-lg-12">
                                 <div class="new-collection-detail-row">
                                     <div class="collection-image-gallary-section">
                                         <div id="owl-collection-slider-1"
                                             class="owl-carousel owl-theme owl-new-detail-slider owl-collecttion-listing-new owl-carosal-arrow">
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modular kichen design in 2 bhk flat apartment interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25152020/modular-kichen-design-in-2-bhk-flat-apartment.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modular kichen design in 2 bhk flat apartment interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25152020/modular-kichen-design-in-2-bhk-flat-apartment.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25152020/modular-kichen-design-in-2-bhk-flat-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="2bhk apartment interior design in Bangalore, Mumbai and Hyderabad"
+                                                        alt="2bhk apartment interior design in Pune, Mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151904/2bhk-apartment-living-room-interior-design.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="2bhk apartment interior design in Bangalore, Mumbai and Hyderabad"
+                                                        alt="2bhk apartment interior design in Pune, Mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151904/2bhk-apartment-living-room-interior-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25151904/2bhk-apartment-living-room-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25151904/2bhk-apartment-living-room-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="Best living room interior designs in 2bhk apartment in bangalore, mumbai and hyderabad"
+                                                        alt="Best living room interior designs in 2bhk apartment in Pune, mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151941/living-room-interior-design-2bhk-apartment.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="Best living room interior designs in 2bhk apartment in bangalore, mumbai and hyderabad"
+                                                        alt="Best living room interior designs in 2bhk apartment in Pune, mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151941/living-room-interior-design-2bhk-apartment.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25151941/living-room-interior-design-2bhk-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25151941/living-room-interior-design-2bhk-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="Modern living room designers for 2bhk apartment design in bangalore, mumbai and hyderabad"
+                                                        alt="Modern living room designers for 2bhk apartment design in Pune, mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25152013/modern-living-room-in-2bhk-apartment-banglore-mumabi-hyderabd.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="Modern living room designers for 2bhk apartment design in bangalore, mumbai and hyderabad"
+                                                        alt="Modern living room designers for 2bhk apartment design in Pune, mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25152013/modern-living-room-in-2bhk-apartment-banglore-mumabi-hyderabd.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25152013/modern-living-room-in-2bhk-apartment-banglore-mumabi-hyderabd.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25152013/modern-living-room-in-2bhk-apartment-banglore-mumabi-hyderabd.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Master bedroom design in 2bhk home apartment to make a beautiful 2bhk apartment design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151958/master-bedroom-design-in-2bhk-home-apartment.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Master bedroom design in 2bhk home apartment to make a beautiful 2bhk apartment design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151958/master-bedroom-design-in-2bhk-home-apartment.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25151958/master-bedroom-design-in-2bhk-home-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25151958/master-bedroom-design-in-2bhk-home-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2 bhk apartment interior design for bedroom with luxury furniture's"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151949/master-bedroom-2bhk-interior-ideas.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2 bhk apartment interior design for bedroom with luxury furniture's"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151949/master-bedroom-2bhk-interior-ideas.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25151949/master-bedroom-2bhk-interior-ideas.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25151949/master-bedroom-2bhk-interior-ideas.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Latest study room designs by 2bhk apartment interior designers"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25152028/stud-room-design-by-2bhk-interior-designers.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Latest study room designs by 2bhk apartment interior designers"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25152028/stud-room-design-by-2bhk-interior-designers.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25152028/stud-room-design-by-2bhk-interior-designers.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25152028/stud-room-design-by-2bhk-interior-designers.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Dining room interior design in 2bhk home apartment interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151924/dining-room-2bhk-home-interior-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Dining room interior design in 2bhk home apartment interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151924/dining-room-2bhk-home-interior-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25151924/dining-room-2bhk-home-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25151924/dining-room-2bhk-home-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Foyer design in 2bhk house apartment to make beautiful welcome 2bhk apartment design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151935/foyer-design-in-2bhk-house-apartment.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Foyer design in 2bhk house apartment to make beautiful welcome 2bhk apartment design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151935/foyer-design-in-2bhk-house-apartment.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25151935/foyer-design-in-2bhk-house-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25151935/foyer-design-in-2bhk-house-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern bathroom interior design in 2bhk apartment house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25152005/modern-bathroom-interior-in-2bhk-apartment.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern bathroom interior design in 2bhk apartment house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25152005/modern-bathroom-interior-in-2bhk-apartment.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25152005/modern-bathroom-interior-in-2bhk-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25152005/modern-bathroom-interior-in-2bhk-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Bathroom interior designer in 2bhk apartment"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151911/bathroom-design-in-2bhk-apartment.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Bathroom interior designer in 2bhk apartment"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25151911/bathroom-design-in-2bhk-apartment.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25151911/bathroom-design-in-2bhk-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25151911/bathroom-design-in-2bhk-apartment.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="container collection-slider-wrapper">
                         <div class="new-collection-detail-row">
                             <div class="row collection-space-row">
@@ -266,7 +182,6 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                 </div>
                                 <div class="col-lg-12 responsive-space-cutter-left-bottom ">
-
                                     <div class="collection-hide-section new-collection-show"
                                         id="collection-hide-section-15036">
                                         <div class="collection-description-new">
@@ -322,24 +237,17 @@ jQuery(".open-btn1").click(function() {
                                             id="text-change-15036">Explore more</span> <span
                                             class="arrow-change">›</span></div>
                                     <div class="get-a-quote-collection">
-
                                         <a class="common-link-button-new" data-toggle="modal" href="#contactUsModal">Get
                                             a Quote</a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
                 <script type="text/javascript">
                 jQuery(document).ready(function($) {
                     $("#show-more-text-15036").click(function() {
-
                         if ($("#text-change-15036").text() == 'Explore more') {
                             $(".new-collection-show").hide('slow');
                             $("#collection-hide-section-15036").slideToggle('slow');
@@ -358,254 +266,161 @@ jQuery(".open-btn1").click(function() {
                 <style></style>
                 <div id="15052" class="row collection-listing-section collection-detail-widget-wrap">
                     <div class="container collection-slider-mb-new">
-
                         <div class="row collection-row-slide-new collection-row-slide-new-cls">
                             <div class="col-lg-12">
                                 <div class="new-collection-detail-row">
                                     <div class="collection-image-gallary-section">
                                         <div id="owl-collection-slider-1"
                                             class="owl-carousel owl-theme owl-new-detail-slider owl-collecttion-listing-new owl-carosal-arrow">
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modular kitchen design in 2bhk home with pink laminate for 2bhk home design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163503/modular-kitchen-design-in-2bhk-home-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modular kitchen design in 2bhk home with pink laminate for 2bhk home design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163503/modular-kitchen-design-in-2bhk-home-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163503/modular-kitchen-design-in-2bhk-home-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163503/modular-kitchen-design-in-2bhk-home-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Latest modular kitchen interiors for 2bhk home design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163456/modular-kitchen-design-for-2bhk-room-home.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Latest modular kitchen interiors for 2bhk home design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163456/modular-kitchen-design-for-2bhk-room-home.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163456/modular-kitchen-design-for-2bhk-room-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163456/modular-kitchen-design-for-2bhk-room-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern rustic 2 bhk home design with smart space saving furniture in living room"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163450/modern-living-room-designers-for-2bhk-home-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern rustic 2 bhk home design with smart space saving furniture in living room"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163450/modern-living-room-designers-for-2bhk-home-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163450/modern-living-room-designers-for-2bhk-home-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163450/modern-living-room-designers-for-2bhk-home-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Living cum dining room design in 2bhk home"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163436/living-cum-dining-room-design-in-2bhk-home.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Living cum dining room design in 2bhk home"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163436/living-cum-dining-room-design-in-2bhk-home.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163436/living-cum-dining-room-design-in-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163436/living-cum-dining-room-design-in-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="Dining room interior design for 2bhk home design in bangalore"
+                                                        alt="Dining room interior design for 2bhk home design in Pune"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163422/dining-room-interior-for-2bhk-home.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="Dining room interior design for 2bhk home design in bangalore"
+                                                        alt="Dining room interior design for 2bhk home design in Pune"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163422/dining-room-interior-for-2bhk-home.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163422/dining-room-interior-for-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163422/dining-room-interior-for-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Latest master bedroom designs in 2bhk home design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163443/master-bedroom-design-in-2bhk-home-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Latest master bedroom designs in 2bhk home design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163443/master-bedroom-design-in-2bhk-home-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163443/master-bedroom-design-in-2bhk-home-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163443/master-bedroom-design-in-2bhk-home-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Kids room design in 2bhk home interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163429/kids-room-design-in-2bhk-home-interior-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Kids room design in 2bhk home interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163429/kids-room-design-in-2bhk-home-interior-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163429/kids-room-design-in-2bhk-home-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163429/kids-room-design-in-2bhk-home-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk home children's bedroom interior design images"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163349/2bhk-home-children-bedroom-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk home children's bedroom interior design images"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163349/2bhk-home-children-bedroom-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163349/2bhk-home-children-bedroom-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163349/2bhk-home-children-bedroom-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="Wardrobe design for 2bhk house flat in mumbai, bangalore and hyderabad"
+                                                        alt="Wardrobe design for 2bhk house flat in mumbai, Pune and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163509/wardrobe-design-for-2bhk-house-flat.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="Wardrobe design for 2bhk house flat in mumbai, bangalore and hyderabad"
+                                                        alt="Wardrobe design for 2bhk house flat in mumbai, Pune and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163509/wardrobe-design-for-2bhk-house-flat.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163509/wardrobe-design-for-2bhk-house-flat.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163509/wardrobe-design-for-2bhk-house-flat.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Luxury bathroom interior designers for 2bhk home design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163415/bathroom-interior-designers-for-2bhk-home.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Luxury bathroom interior designers for 2bhk home design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163415/bathroom-interior-designers-for-2bhk-home.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163415/bathroom-interior-designers-for-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163415/bathroom-interior-designers-for-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Bathroom interior in 2 bhk home design with space saving storage solutions"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163408/bathroom-design-in-2bhk-home-interior.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Bathroom interior in 2 bhk home design with space saving storage solutions"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163408/bathroom-design-in-2bhk-home-interior.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163408/bathroom-design-in-2bhk-home-interior.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163408/bathroom-design-in-2bhk-home-interior.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Balcony interior design for 2bhk flat house"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163402/balcony-interior-design-for-2bhk-house.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Balcony interior design for 2bhk flat house"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163402/balcony-interior-design-for-2bhk-house.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163402/balcony-interior-design-for-2bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163402/balcony-interior-design-for-2bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Latest balcony design images for 2bhk house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163355/balcony-design-images-in-2bhk-house.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Latest balcony design images for 2bhk house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25163355/balcony-design-images-in-2bhk-house.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25163355/balcony-design-images-in-2bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25163355/balcony-design-images-in-2bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="container collection-slider-wrapper">
                         <div class="new-collection-detail-row">
                             <div class="row collection-space-row">
@@ -615,7 +430,6 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                 </div>
                                 <div class="col-lg-12 responsive-space-cutter-left-bottom ">
-
                                     <div class="collection-hide-section new-collection-show"
                                         id="collection-hide-section-15052">
                                         <div class="collection-description-new">
@@ -676,24 +490,17 @@ jQuery(".open-btn1").click(function() {
                                             id="text-change-15052">Explore more</span> <span
                                             class="arrow-change">›</span></div>
                                     <div class="get-a-quote-collection">
-
                                         <a class="common-link-button-new" data-toggle="modal" href="#contactUsModal">Get
                                             a Quote</a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
                 <script type="text/javascript">
                 jQuery(document).ready(function($) {
                     $("#show-more-text-15052").click(function() {
-
                         if ($("#text-change-15052").text() == 'Explore more') {
                             $(".new-collection-show").hide('slow');
                             $("#collection-hide-section-15052").slideToggle('slow');
@@ -712,254 +519,161 @@ jQuery(".open-btn1").click(function() {
                 <style></style>
                 <div id="25722" class="row collection-listing-section collection-detail-widget-wrap">
                     <div class="container collection-slider-mb-new">
-
                         <div class="row collection-row-slide-new collection-row-slide-new-cls">
                             <div class="col-lg-12">
                                 <div class="new-collection-detail-row">
                                     <div class="collection-image-gallary-section">
                                         <div id="owl-collection-slider-1"
                                             class="owl-carousel owl-theme owl-new-detail-slider owl-collecttion-listing-new owl-carosal-arrow">
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Living room in 2bhk interior designed in wood and white oozes a Scandinavian vibe"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123227/living-room-in-2bhk-interior-designed-in-wood-and-white-oozes.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Living room in 2bhk interior designed in wood and white oozes a Scandinavian vibe"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123227/living-room-in-2bhk-interior-designed-in-wood-and-white-oozes.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123227/living-room-in-2bhk-interior-designed-in-wood-and-white-oozes.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123227/living-room-in-2bhk-interior-designed-in-wood-and-white-oozes.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk g shaped kitchen has a breakfast countertop and two tall wooden stools."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123145/2bhk-g-shaped-kitchen-designed-with-breakfast-countertop.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk g shaped kitchen has a breakfast countertop and two tall wooden stools."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123145/2bhk-g-shaped-kitchen-designed-with-breakfast-countertop.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123145/2bhk-g-shaped-kitchen-designed-with-breakfast-countertop.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123145/2bhk-g-shaped-kitchen-designed-with-breakfast-countertop.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Small 2bhk kitchen designed with built-in microwave and cabinets finished in light pink and white laminate"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123239/small-2bhk-kitchen-designed-with-built-in-microwave.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Small 2bhk kitchen designed with built-in microwave and cabinets finished in light pink and white laminate"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123239/small-2bhk-kitchen-designed-with-built-in-microwave.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123239/small-2bhk-kitchen-designed-with-built-in-microwave.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123239/small-2bhk-kitchen-designed-with-built-in-microwave.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk house kitchen has yellow tiled backsplash with led strip lighting breaks the monotony of muted colours"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123157/2bhk-house-kitchen-has-yellow-tiled-backsplash-with-led-strip.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk house kitchen has yellow tiled backsplash with led strip lighting breaks the monotony of muted colours"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123157/2bhk-house-kitchen-has-yellow-tiled-backsplash-with-led-strip.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123157/2bhk-house-kitchen-has-yellow-tiled-backsplash-with-led-strip.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123157/2bhk-house-kitchen-has-yellow-tiled-backsplash-with-led-strip.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="The interior design of the 2bhk foyer wall in teal colour with coir wall art lends a boho vibe"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123215/interior-design-of-2bhk-foyer-with-teal-wall-paint-and-coir-wall-art.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="The interior design of the 2bhk foyer wall in teal colour with coir wall art lends a boho vibe"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123215/interior-design-of-2bhk-foyer-with-teal-wall-paint-and-coir-wall-art.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123215/interior-design-of-2bhk-foyer-with-teal-wall-paint-and-coir-wall-art.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123215/interior-design-of-2bhk-foyer-with-teal-wall-paint-and-coir-wall-art.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk flat dining room has a four-seat dining table and a side cabinet for arranging crockeries"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123139/2bhk-flat-dining-room-with-pendant-light-mirror-and-side-cabinet.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk flat dining room has a four-seat dining table and a side cabinet for arranging crockeries"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123139/2bhk-flat-dining-room-with-pendant-light-mirror-and-side-cabinet.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123139/2bhk-flat-dining-room-with-pendant-light-mirror-and-side-cabinet.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123139/2bhk-flat-dining-room-with-pendant-light-mirror-and-side-cabinet.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Kids room in 2bhk designed with bunk bed, study unit and window seating"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123221/kids-room-in-2bhk-designed-with-bunk-bed-and-study-nook.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Kids room in 2bhk designed with bunk bed, study unit and window seating"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123221/kids-room-in-2bhk-designed-with-bunk-bed-and-study-nook.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123221/kids-room-in-2bhk-designed-with-bunk-bed-and-study-nook.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123221/kids-room-in-2bhk-designed-with-bunk-bed-and-study-nook.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Study unit in 2bhk home designed with attached wardrobe in light pink"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30125523/study-unit-in-2bhk-home-designed-in-light-pink-and-yellow.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Study unit in 2bhk home designed with attached wardrobe in light pink"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30125523/study-unit-in-2bhk-home-designed-in-light-pink-and-yellow.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30125523/study-unit-in-2bhk-home-designed-in-light-pink-and-yellow.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30125523/study-unit-in-2bhk-home-designed-in-light-pink-and-yellow.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Green and white 2bhk bathroom designed with wall mirror and vanity unit to arrange toiletries for a clutter-free look"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123202/green-and-white-2bhk-bathroom-with-glass-partitions.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Green and white 2bhk bathroom designed with wall mirror and vanity unit to arrange toiletries for a clutter-free look"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123202/green-and-white-2bhk-bathroom-with-glass-partitions.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123202/green-and-white-2bhk-bathroom-with-glass-partitions.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123202/green-and-white-2bhk-bathroom-with-glass-partitions.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="The interior design of 2bhk bathroom has a vanity unit and a glass partition"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123209/interior-design-of-2bhk-bathroom-with-glass-partition.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="The interior design of 2bhk bathroom has a vanity unit and a glass partition"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123209/interior-design-of-2bhk-bathroom-with-glass-partition.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123209/interior-design-of-2bhk-bathroom-with-glass-partition.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123209/interior-design-of-2bhk-bathroom-with-glass-partition.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Slate and white 2bhk bathroom with hidden storage with led strip lighting"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123133/2bhk-bathroom-in-slate-and-white-with-hidden-storage.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Slate and white 2bhk bathroom with hidden storage with led strip lighting"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123133/2bhk-bathroom-in-slate-and-white-with-hidden-storage.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123133/2bhk-bathroom-in-slate-and-white-with-hidden-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123133/2bhk-bathroom-in-slate-and-white-with-hidden-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Master bedroom in 2bhk home designed with wooden accent wall and two hanging pendant lights."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123233/master-bedroom-in-2bhk-home-designed-with-wooden-accent-wall.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Master bedroom in 2bhk home designed with wooden accent wall and two hanging pendant lights."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123233/master-bedroom-in-2bhk-home-designed-with-wooden-accent-wall.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123233/master-bedroom-in-2bhk-home-designed-with-wooden-accent-wall.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123233/master-bedroom-in-2bhk-home-designed-with-wooden-accent-wall.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk home wardrobe with wooden doors on one side and a glass front add display space"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123151/2bhk-home-wardrobe-with-wooden-doors-and-glass-front.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk home wardrobe with wooden doors on one side and a glass front add display space"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30123151/2bhk-home-wardrobe-with-wooden-doors-and-glass-front.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30123151/2bhk-home-wardrobe-with-wooden-doors-and-glass-front.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30123151/2bhk-home-wardrobe-with-wooden-doors-and-glass-front.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="container collection-slider-wrapper">
                         <div class="new-collection-detail-row">
                             <div class="row collection-space-row">
@@ -969,7 +683,6 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                 </div>
                                 <div class="col-lg-12 responsive-space-cutter-left-bottom ">
-
                                     <div class="collection-hide-section new-collection-show"
                                         id="collection-hide-section-25722">
                                         <div class="collection-description-new">
@@ -1065,12 +778,10 @@ jQuery(".open-btn1").click(function() {
                                             id="text-change-25722">Explore more</span> <span
                                             class="arrow-change">›</span></div>
                                     <div class="get-a-quote-collection">
-
                                         <a class="common-link-button-new" data-toggle="modal" href="#contactUsModal">Get
                                             a Quote</a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
@@ -1084,80 +795,59 @@ jQuery(".open-btn1").click(function() {
                                 </div>
                             </div>
                             <div class="col-lg-4">
-
                                 <div class="why-choose-us-icon-list">
                                     <div class="why-choose-us-icon-img">
-
                                         <img class="img-fluid rounded-circle"
-                                            alt="Best home interior designs by design cafe with 20% extra space"
+                                            alt="Best home interior designs by Creative walls with 20% extra space"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"><noscript><img
+                                            data-lazy-src="<?php echo base_url(''); ?>/assetsuploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"><noscript><img
                                                 class="img-fluid rounded-circle"
-                                                alt="Best home interior designs by design cafe with 20% extra space"
+                                                alt="Best home interior designs by Creative walls with 20% extra space"
                                                 src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"></noscript>
-
                                     </div>
                                     <div class="why-choose-us-icon-text">
                                         <p>20% Extra Space</p>
                                     </div>
                                 </div>
                             </div>
-
-
                             <div class="col-lg-4">
-
                                 <div class="why-choose-us-icon-list">
                                     <div class="why-choose-us-icon-img">
-
                                         <img class="img-fluid rounded-circle"
-                                            alt="Get 10 years warranty on your design cafe home interiors."
+                                            alt="Get 10 years warranty on your Creative walls home interiors."
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"><noscript><img
+                                            data-lazy-src="<?php echo base_url(''); ?>/assetsuploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"><noscript><img
                                                 class="img-fluid rounded-circle"
-                                                alt="Get 10 years warranty on your design cafe home interiors."
+                                                alt="Get 10 years warranty on your Creative walls home interiors."
                                                 src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"></noscript>
-
                                     </div>
                                     <div class="why-choose-us-icon-text">
                                         <p>10 Year Warranty</p>
                                     </div>
                                 </div>
                             </div>
-
-
                             <div class="col-lg-4">
-
                                 <div class="why-choose-us-icon-list">
                                     <div class="why-choose-us-icon-img">
-
                                         <img class="img-fluid rounded-circle"
-                                            alt="Design cafe home interiors are installed by professionals."
+                                            alt="Creative walls home interiors are installed by professionals."
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132530/home-interior-installation-by-professions.png"><noscript><img
+                                            data-lazy-src="<?php echo base_url(''); ?>/assetsuploads/2021/06/16132530/home-interior-installation-by-professions.png"><noscript><img
                                                 class="img-fluid rounded-circle"
-                                                alt="Design cafe home interiors are installed by professionals."
+                                                alt="Creative walls home interiors are installed by professionals."
                                                 src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132530/home-interior-installation-by-professions.png"></noscript>
-
                                     </div>
                                     <div class="why-choose-us-icon-text">
                                         <p>Installation by Professionals</p>
                                     </div>
                                 </div>
                             </div>
-
-
-
                         </div>
                     </div>
                 </div>
-
-
-
-
                 <script type="text/javascript">
                 jQuery(document).ready(function($) {
                     $("#show-more-text-25722").click(function() {
-
                         if ($("#text-change-25722").text() == 'Explore more') {
                             $(".new-collection-show").hide('slow');
                             $("#collection-hide-section-25722").slideToggle('slow');
@@ -1176,218 +866,139 @@ jQuery(".open-btn1").click(function() {
                 <style></style>
                 <div id="29796" class="row collection-listing-section collection-detail-widget-wrap">
                     <div class="container collection-slider-mb-new">
-
                         <div class="row collection-row-slide-new collection-row-slide-new-cls">
                             <div class="col-lg-12">
                                 <div class="new-collection-detail-row">
                                     <div class="collection-image-gallary-section">
                                         <div id="owl-collection-slider-1"
                                             class="owl-carousel owl-theme owl-new-detail-slider owl-collecttion-listing-new owl-carosal-arrow">
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk interior design master bedroom is designed with a platform bed with side tables on either side"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193055/2bhk-interior-design-master-bedroom-is-designed-with-a-platform-bed-with-side-tables.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk interior design master bedroom is designed with a platform bed with side tables on either side"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193055/2bhk-interior-design-master-bedroom-is-designed-with-a-platform-bed-with-side-tables.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193055/2bhk-interior-design-master-bedroom-is-designed-with-a-platform-bed-with-side-tables.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193055/2bhk-interior-design-master-bedroom-is-designed-with-a-platform-bed-with-side-tables.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk home interior design with study room adjoining the master bedroom in an open plan is designed with an ergonomic study desk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193042/2bhk-home-interior-design-with-study-room-adjoining-the-master-bedroom-in-an-open-plan.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk home interior design with study room adjoining the master bedroom in an open plan is designed with an ergonomic study desk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193042/2bhk-home-interior-design-with-study-room-adjoining-the-master-bedroom-in-an-open-plan.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193042/2bhk-home-interior-design-with-study-room-adjoining-the-master-bedroom-in-an-open-plan.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193042/2bhk-home-interior-design-with-study-room-adjoining-the-master-bedroom-in-an-open-plan.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="cove lights and spotlights on the false ceiling illuminates the living room in a 2bhk interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193113/cove-lights-and-spotlights-on-the-false-ceiling-illuminates-the-living-room.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="cove lights and spotlights on the false ceiling illuminates the living room in a 2bhk interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193113/cove-lights-and-spotlights-on-the-false-ceiling-illuminates-the-living-room.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193113/cove-lights-and-spotlights-on-the-false-ceiling-illuminates-the-living-room.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193113/cove-lights-and-spotlights-on-the-false-ceiling-illuminates-the-living-room.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="The guest room is designed with a sliding door wardrobe finished in white and yellow high gloss laminate in a 2bhk house interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193119/guest-room-is-designed-with-a-sliding-door-wardrobe-finished-in-white-and-yellow-high-gloss-laminate.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="The guest room is designed with a sliding door wardrobe finished in white and yellow high gloss laminate in a 2bhk house interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193119/guest-room-is-designed-with-a-sliding-door-wardrobe-finished-in-white-and-yellow-high-gloss-laminate.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193119/guest-room-is-designed-with-a-sliding-door-wardrobe-finished-in-white-and-yellow-high-gloss-laminate.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193119/guest-room-is-designed-with-a-sliding-door-wardrobe-finished-in-white-and-yellow-high-gloss-laminate.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="The wall cabinet behind the bed and modular wardrobe provide additional storage space in a 2bhk house interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193125/modular-wardrobe-provide-additional-storage-space-in-a-2bhk-house-interior-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="The wall cabinet behind the bed and modular wardrobe provide additional storage space in a 2bhk house interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193125/modular-wardrobe-provide-additional-storage-space-in-a-2bhk-house-interior-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193125/modular-wardrobe-provide-additional-storage-space-in-a-2bhk-house-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193125/modular-wardrobe-provide-additional-storage-space-in-a-2bhk-house-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="The living room is designed with a sectional sofa and an entertainment unit in a 2bhk interior with multiple storage units"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193132/sectional-sofa-and-an-entertainment-unit-in-a-2bhk-interior-with-multiple-storage-units.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="The living room is designed with a sectional sofa and an entertainment unit in a 2bhk interior with multiple storage units"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193132/sectional-sofa-and-an-entertainment-unit-in-a-2bhk-interior-with-multiple-storage-units.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193132/sectional-sofa-and-an-entertainment-unit-in-a-2bhk-interior-with-multiple-storage-units.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193132/sectional-sofa-and-an-entertainment-unit-in-a-2bhk-interior-with-multiple-storage-units.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk home interior design in the master bathroom is designed with light coloured wall tiles"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193028/2bhk-home-interior-design-in-the-master-bathroom-is-designed-with-light-coloured-wall-tiles.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk home interior design in the master bathroom is designed with light coloured wall tiles"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193028/2bhk-home-interior-design-in-the-master-bathroom-is-designed-with-light-coloured-wall-tiles.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193028/2bhk-home-interior-design-in-the-master-bathroom-is-designed-with-light-coloured-wall-tiles.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193028/2bhk-home-interior-design-in-the-master-bathroom-is-designed-with-light-coloured-wall-tiles.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk house interior design where the guest bathroom has a colourful tiled wall for a pop of colour and fun"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193049/2bhk-house-interior-design-where-the-guest-bathroom-has-a-colourful-tiled-wall-for-a-pop-of-colour-and-fun.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk house interior design where the guest bathroom has a colourful tiled wall for a pop of colour and fun"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193049/2bhk-house-interior-design-where-the-guest-bathroom-has-a-colourful-tiled-wall-for-a-pop-of-colour-and-fun.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193049/2bhk-house-interior-design-where-the-guest-bathroom-has-a-colourful-tiled-wall-for-a-pop-of-colour-and-fun.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193049/2bhk-house-interior-design-where-the-guest-bathroom-has-a-colourful-tiled-wall-for-a-pop-of-colour-and-fun.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk interior where the balcony is with a brick cladding wall for an nice outdoor feel"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193107/2bhk-interior-where-the-balcony-is-with-a-brick-cladding-wall-for-an-nice-outdoor-feel.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk interior where the balcony is with a brick cladding wall for an nice outdoor feel"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193107/2bhk-interior-where-the-balcony-is-with-a-brick-cladding-wall-for-an-nice-outdoor-feel.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193107/2bhk-interior-where-the-balcony-is-with-a-brick-cladding-wall-for-an-nice-outdoor-feel.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193107/2bhk-interior-where-the-balcony-is-with-a-brick-cladding-wall-for-an-nice-outdoor-feel.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk interior design where the island kitchen is designed in muted colours that makes it look spacious"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193101/2bhk-interior-design-where-the-island-kitchen-is-designed-in-muted-colours-that-makes-it-look-spacious.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk interior design where the island kitchen is designed in muted colours that makes it look spacious"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193101/2bhk-interior-design-where-the-island-kitchen-is-designed-in-muted-colours-that-makes-it-look-spacious.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193101/2bhk-interior-design-where-the-island-kitchen-is-designed-in-muted-colours-that-makes-it-look-spacious.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193101/2bhk-interior-design-where-the-island-kitchen-is-designed-in-muted-colours-that-makes-it-look-spacious.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk home interior design with a bucket chair and a cabinet with open shelves and drawers."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193035/2bhk-home-interior-design-with-a-bucket-chair-and-a-cabinet-with-open-shelves-and-drawers.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk home interior design with a bucket chair and a cabinet with open shelves and drawers."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/01/12193035/2bhk-home-interior-design-with-a-bucket-chair-and-a-cabinet-with-open-shelves-and-drawers.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/01/12193035/2bhk-home-interior-design-with-a-bucket-chair-and-a-cabinet-with-open-shelves-and-drawers.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/01/12193035/2bhk-home-interior-design-with-a-bucket-chair-and-a-cabinet-with-open-shelves-and-drawers.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="container collection-slider-wrapper">
                         <div class="new-collection-detail-row">
                             <div class="row collection-space-row">
@@ -1397,7 +1008,6 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                 </div>
                                 <div class="col-lg-12 responsive-space-cutter-left-bottom ">
-
                                     <div class="collection-hide-section new-collection-show"
                                         id="collection-hide-section-29796">
                                         <div class="collection-description-new">
@@ -1482,24 +1092,17 @@ jQuery(".open-btn1").click(function() {
                                             id="text-change-29796">Explore more</span> <span
                                             class="arrow-change">›</span></div>
                                     <div class="get-a-quote-collection">
-
                                         <a class="common-link-button-new" data-toggle="modal" href="#contactUsModal">Get
                                             a Quote</a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
                 <script type="text/javascript">
                 jQuery(document).ready(function($) {
                     $("#show-more-text-29796").click(function() {
-
                         if ($("#text-change-29796").text() == 'Explore more') {
                             $(".new-collection-show").hide('slow');
                             $("#collection-hide-section-29796").slideToggle('slow');
@@ -1518,308 +1121,194 @@ jQuery(".open-btn1").click(function() {
                 <style></style>
                 <div id="15010" class="row collection-listing-section collection-detail-widget-wrap">
                     <div class="container collection-slider-mb-new">
-
                         <div class="row collection-row-slide-new collection-row-slide-new-cls">
                             <div class="col-lg-12">
                                 <div class="new-collection-detail-row">
                                     <div class="collection-image-gallary-section">
                                         <div id="owl-collection-slider-1"
                                             class="owl-carousel owl-theme owl-new-detail-slider owl-collecttion-listing-new owl-carosal-arrow">
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk flat kids bedroom interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133012/kids-room-interior-design-of-2bhk.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk flat kids bedroom interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133012/kids-room-interior-design-of-2bhk.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133012/kids-room-interior-design-of-2bhk.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133012/kids-room-interior-design-of-2bhk.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk house kids children's bedroom design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132930/2bhk-house-kids-bedroom-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk house kids children's bedroom design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132930/2bhk-house-kids-bedroom-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25132930/2bhk-house-kids-bedroom-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25132930/2bhk-house-kids-bedroom-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk flat house modular kitchen interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133100/modern-kitchen-interior-design-for-2bhk-house.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk flat house modular kitchen interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133100/modern-kitchen-interior-design-for-2bhk-house.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133100/modern-kitchen-interior-design-for-2bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133100/modern-kitchen-interior-design-for-2bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Kitchen interior design for 2bhk flat house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133018/kitchen-interior-2bhk-flat-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Kitchen interior design for 2bhk flat house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133018/kitchen-interior-2bhk-flat-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133018/kitchen-interior-2bhk-flat-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133018/kitchen-interior-2bhk-flat-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk interior design for living room with a tv unit with open shelf storage in interior design of 2bhk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133025/living-room-2bhk-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk interior design for living room with a tv unit with open shelf storage in interior design of 2bhk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133025/living-room-2bhk-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133025/living-room-2bhk-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133025/living-room-2bhk-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk house design with space saving furniture"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133005/house-design-2bhk-forliving-room.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk house design with space saving furniture"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133005/house-design-2bhk-forliving-room.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133005/house-design-2bhk-forliving-room.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133005/house-design-2bhk-forliving-room.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk house dining room interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133052/modern-2bhk-house-dining-room-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk house dining room interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133052/modern-2bhk-house-dining-room-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133052/modern-2bhk-house-dining-room-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133052/modern-2bhk-house-dining-room-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Dining room design for 2bhk home interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132951/dining-room-design-for-2bhk-house.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Dining room design for 2bhk home interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132951/dining-room-design-for-2bhk-house.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25132951/dining-room-design-for-2bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25132951/dining-room-design-for-2bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="2bhk flat design master bedroom interior design in bangalore, mumbai and hyderabad"
+                                                        alt="2bhk flat design master bedroom interior design in Pune, mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133032/master-bedroom-2bhk-interior.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="2bhk flat design master bedroom interior design in bangalore, mumbai and hyderabad"
+                                                        alt="2bhk flat design master bedroom interior design in Pune, mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133032/master-bedroom-2bhk-interior.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133032/master-bedroom-2bhk-interior.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133032/master-bedroom-2bhk-interior.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Best 2bhk flat interior designers for master bedroom design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132944/2bhk-interior-design-for-master-bedroom.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Best 2bhk flat interior designers for master bedroom design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132944/2bhk-interior-design-for-master-bedroom.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25132944/2bhk-interior-design-for-master-bedroom.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25132944/2bhk-interior-design-for-master-bedroom.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="2bhk flat master bedroom interior designers in bangalore, mumbai and hyderabad"
+                                                        alt="2bhk flat master bedroom interior designers in Pune, mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133038/master-bedroom-2bhk-interior-design-ideas.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="2bhk flat master bedroom interior designers in bangalore, mumbai and hyderabad"
+                                                        alt="2bhk flat master bedroom interior designers in Pune, mumbai and Nagpur"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133038/master-bedroom-2bhk-interior-design-ideas.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133038/master-bedroom-2bhk-interior-design-ideas.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133038/master-bedroom-2bhk-interior-design-ideas.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Foyer design for 2bhk house with woodwork, square mirror & drawers in the 2 bhk flat design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132958/foyer-interior-for-2bhk-home.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Foyer design for 2bhk house with woodwork, square mirror & drawers in the 2 bhk flat design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132958/foyer-interior-for-2bhk-home.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25132958/foyer-interior-for-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25132958/foyer-interior-for-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Study room design in 2bhk flat house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133107/study-room-2bhk-house-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Study room design in 2bhk flat house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133107/study-room-2bhk-house-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133107/study-room-2bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133107/study-room-2bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk home bathroom design in blue and white colour is the interior design of 2bhk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133045/modern-2bhk-home-interior-design-for-bathroom.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk home bathroom design in blue and white colour is the interior design of 2bhk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25133045/modern-2bhk-home-interior-design-for-bathroom.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25133045/modern-2bhk-home-interior-design-for-bathroom.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25133045/modern-2bhk-home-interior-design-for-bathroom.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="2bhk flat master bathroom designs in bangalore, hyderabad and mumbai"
+                                                        alt="2bhk flat master bathroom designs in Pune, Nagpur and mumbai"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132923/2bhk-house-interior-design-for-master-bathroom.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="2bhk flat master bathroom designs in bangalore, hyderabad and mumbai"
+                                                        alt="2bhk flat master bathroom designs in Pune, Nagpur and mumbai"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132923/2bhk-house-interior-design-for-master-bathroom.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25132923/2bhk-house-interior-design-for-master-bathroom.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25132923/2bhk-house-interior-design-for-master-bathroom.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk house plan to make proper 2bhk interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132936/2bhk-house-plan.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk house plan to make proper 2bhk interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2020/09/25132936/2bhk-house-plan.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2020/09/25132936/2bhk-house-plan.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2020/09/25132936/2bhk-house-plan.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="container collection-slider-wrapper">
                         <div class="new-collection-detail-row">
                             <div class="row collection-space-row">
@@ -1829,7 +1318,6 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                 </div>
                                 <div class="col-lg-12 responsive-space-cutter-left-bottom ">
-
                                     <div class="collection-hide-section new-collection-show"
                                         id="collection-hide-section-15010">
                                         <div class="collection-description-new">
@@ -1876,24 +1364,17 @@ jQuery(".open-btn1").click(function() {
                                             id="text-change-15010">Explore more</span> <span
                                             class="arrow-change">›</span></div>
                                     <div class="get-a-quote-collection">
-
                                         <a class="common-link-button-new" data-toggle="modal" href="#contactUsModal">Get
                                             a Quote</a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
                 <script type="text/javascript">
                 jQuery(document).ready(function($) {
                     $("#show-more-text-15010").click(function() {
-
                         if ($("#text-change-15010").text() == 'Explore more') {
                             $(".new-collection-show").hide('slow');
                             $("#collection-hide-section-15010").slideToggle('slow');
@@ -1912,200 +1393,128 @@ jQuery(".open-btn1").click(function() {
                 <style></style>
                 <div id="25710" class="row collection-listing-section collection-detail-widget-wrap">
                     <div class="container collection-slider-mb-new">
-
                         <div class="row collection-row-slide-new collection-row-slide-new-cls">
                             <div class="col-lg-12">
                                 <div class="new-collection-detail-row">
                                     <div class="collection-image-gallary-section">
                                         <div id="owl-collection-slider-1"
                                             class="owl-carousel owl-theme owl-new-detail-slider owl-collecttion-listing-new owl-carosal-arrow">
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk kitchen designed with pull-out units, drawers, cabinets and shelves for a clutter-free experience"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120657/2bhk-kitchen-design-with-floral-tiled-backsplash.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk kitchen designed with pull-out units, drawers, cabinets and shelves for a clutter-free experience"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120657/2bhk-kitchen-design-with-floral-tiled-backsplash.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120657/2bhk-kitchen-design-with-floral-tiled-backsplash.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120657/2bhk-kitchen-design-with-floral-tiled-backsplash.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk house dining room has marble top dining table, four chairs with green cushions"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120646/2bhk-house-dining-room-design-with-marble-top-dining-table.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk house dining room has marble top dining table, four chairs with green cushions"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120646/2bhk-house-dining-room-design-with-marble-top-dining-table.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120646/2bhk-house-dining-room-design-with-marble-top-dining-table.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120646/2bhk-house-dining-room-design-with-marble-top-dining-table.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk interior living room with tv unit and bookshelf"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120651/2bhk-interior-living-room-with-tv-unit-and-bookshelf.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk interior living room with tv unit and bookshelf"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120651/2bhk-interior-living-room-with-tv-unit-and-bookshelf.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120651/2bhk-interior-living-room-with-tv-unit-and-bookshelf.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120651/2bhk-interior-living-room-with-tv-unit-and-bookshelf.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk living room has yellow wallpaper and comfortable sofa"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120702/2bhk-living-room-with-yellow-wallpaper-and-sofa.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk living room has yellow wallpaper and comfortable sofa"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120702/2bhk-living-room-with-yellow-wallpaper-and-sofa.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120702/2bhk-living-room-with-yellow-wallpaper-and-sofa.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120702/2bhk-living-room-with-yellow-wallpaper-and-sofa.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Green and white 2bhk design bedroom with a pendant hanging light on one side"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120635/2bhk-design-bedroom-in-green-and-white-with-hanging-lights-one-side.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Green and white 2bhk design bedroom with a pendant hanging light on one side"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120635/2bhk-design-bedroom-in-green-and-white-with-hanging-lights-one-side.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120635/2bhk-design-bedroom-in-green-and-white-with-hanging-lights-one-side.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120635/2bhk-design-bedroom-in-green-and-white-with-hanging-lights-one-side.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk flat bedroom has small study unit and sliding wardrobe doors"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120640/2bhk-flat-bedroom-with-small-study-table-and-sliding-wardrobe.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk flat bedroom has small study unit and sliding wardrobe doors"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120640/2bhk-flat-bedroom-with-small-study-table-and-sliding-wardrobe.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120640/2bhk-flat-bedroom-with-small-study-table-and-sliding-wardrobe.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120640/2bhk-flat-bedroom-with-small-study-table-and-sliding-wardrobe.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Master bedroom in 2bhk home designed with LED-lit accent wall elevates the look of the bedroom"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120720/master-bedroom-in-2bhk-home-designed-with-led-lit-accent-wall.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Master bedroom in 2bhk home designed with LED-lit accent wall elevates the look of the bedroom"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120720/master-bedroom-in-2bhk-home-designed-with-led-lit-accent-wall.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120720/master-bedroom-in-2bhk-home-designed-with-led-lit-accent-wall.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120720/master-bedroom-in-2bhk-home-designed-with-led-lit-accent-wall.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Master bedroom in 2bhk designed with small study nook and floor-to-ceiling wardrobe"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120714/master-bedroom-in-2bhk-designed-with-small-study-table-and-wardrobe.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Master bedroom in 2bhk designed with small study nook and floor-to-ceiling wardrobe"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120714/master-bedroom-in-2bhk-designed-with-small-study-table-and-wardrobe.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120714/master-bedroom-in-2bhk-designed-with-small-study-table-and-wardrobe.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120714/master-bedroom-in-2bhk-designed-with-small-study-table-and-wardrobe.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk bathroom partitioned with glass and has a vanity unit with drawers and open shelves"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120630/2bhk-bathroom-has-vanity-unit-with-drawers-and-open-shelves.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk bathroom partitioned with glass and has a vanity unit with drawers and open shelves"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120630/2bhk-bathroom-has-vanity-unit-with-drawers-and-open-shelves.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120630/2bhk-bathroom-has-vanity-unit-with-drawers-and-open-shelves.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120630/2bhk-bathroom-has-vanity-unit-with-drawers-and-open-shelves.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Bathroom in 2bhk house designed with hexagonal wall tiles and vanity has push-to-open drawers"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120707/bathroom-in-2bhk-house-designed-with-hexagonal-wall-tiles.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Bathroom in 2bhk house designed with hexagonal wall tiles and vanity has push-to-open drawers"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/30120707/bathroom-in-2bhk-house-designed-with-hexagonal-wall-tiles.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/30120707/bathroom-in-2bhk-house-designed-with-hexagonal-wall-tiles.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/30120707/bathroom-in-2bhk-house-designed-with-hexagonal-wall-tiles.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="container collection-slider-wrapper">
                         <div class="new-collection-detail-row">
                             <div class="row collection-space-row">
@@ -2115,7 +1524,6 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                 </div>
                                 <div class="col-lg-12 responsive-space-cutter-left-bottom ">
-
                                     <div class="collection-hide-section new-collection-show"
                                         id="collection-hide-section-25710">
                                         <div class="collection-description-new">
@@ -2211,24 +1619,17 @@ jQuery(".open-btn1").click(function() {
                                             id="text-change-25710">Explore more</span> <span
                                             class="arrow-change">›</span></div>
                                     <div class="get-a-quote-collection">
-
                                         <a class="common-link-button-new" data-toggle="modal" href="#contactUsModal">Get
                                             a Quote</a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
                 <script type="text/javascript">
                 jQuery(document).ready(function($) {
                     $("#show-more-text-25710").click(function() {
-
                         if ($("#text-change-25710").text() == 'Explore more') {
                             $(".new-collection-show").hide('slow');
                             $("#collection-hide-section-25710").slideToggle('slow');
@@ -2247,211 +1648,132 @@ jQuery(".open-btn1").click(function() {
                 <style></style>
                 <div id="23128" class="row collection-listing-section collection-detail-widget-wrap">
                     <div class="container collection-slider-mb-new">
-
                         <div class="row collection-row-slide-new collection-row-slide-new-cls">
                             <div class="col-lg-12">
                                 <div class="new-collection-detail-row">
                                     <div class="collection-image-gallary-section">
                                         <div id="owl-collection-slider-1"
                                             class="owl-carousel owl-theme owl-new-detail-slider owl-collecttion-listing-new owl-carosal-arrow">
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk house living room with minimalistic style tv unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163543/modern-2bhk-house-living-room-with-minimalistic-style-tv-unit.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk house living room with minimalistic style tv unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163543/modern-2bhk-house-living-room-with-minimalistic-style-tv-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163543/modern-2bhk-house-living-room-with-minimalistic-style-tv-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163543/modern-2bhk-house-living-room-with-minimalistic-style-tv-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk house design with open kitchen in grey and white with marble flooring"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163525/modern-2bhk-house-design-with-open-kitchen-in-grey-and-white-with-marble-flooring.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk house design with open kitchen in grey and white with marble flooring"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163525/modern-2bhk-house-design-with-open-kitchen-in-grey-and-white-with-marble-flooring.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163525/modern-2bhk-house-design-with-open-kitchen-in-grey-and-white-with-marble-flooring.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163525/modern-2bhk-house-design-with-open-kitchen-in-grey-and-white-with-marble-flooring.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk kitchen design with breakfast countertop with two tall chairs"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163556/modern-2bhk-kitchen-design-with-breakfast-countertop-with-two-tall-chairs.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk kitchen design with breakfast countertop with two tall chairs"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163556/modern-2bhk-kitchen-design-with-breakfast-countertop-with-two-tall-chairs.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163556/modern-2bhk-kitchen-design-with-breakfast-countertop-with-two-tall-chairs.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163556/modern-2bhk-kitchen-design-with-breakfast-countertop-with-two-tall-chairs.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk house master bedroom design with wood finished wall"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163550/modern-2bhk-house-master-bedroom-design-with-wood-finished-wall.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk house master bedroom design with wood finished wall"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163550/modern-2bhk-house-master-bedroom-design-with-wood-finished-wall.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163550/modern-2bhk-house-master-bedroom-design-with-wood-finished-wall.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163550/modern-2bhk-house-master-bedroom-design-with-wood-finished-wall.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk bedroom with wardrobe with sliding door and mirror with hidden storage unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163514/modern-2bhk-bedroom-with-wardrobe-with-sliding-door-and-mirror-with-hidden-storage-unit.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk bedroom with wardrobe with sliding door and mirror with hidden storage unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163514/modern-2bhk-bedroom-with-wardrobe-with-sliding-door-and-mirror-with-hidden-storage-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163514/modern-2bhk-bedroom-with-wardrobe-with-sliding-door-and-mirror-with-hidden-storage-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163514/modern-2bhk-bedroom-with-wardrobe-with-sliding-door-and-mirror-with-hidden-storage-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk house kids room design with red and white colour scheme"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163537/modern-2bhk-house-kids-room-design-with-red-and-white-colour-scheme.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk house kids room design with red and white colour scheme"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163537/modern-2bhk-house-kids-room-design-with-red-and-white-colour-scheme.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163537/modern-2bhk-house-kids-room-design-with-red-and-white-colour-scheme.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163537/modern-2bhk-house-kids-room-design-with-red-and-white-colour-scheme.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk house kids bedroom with map wallpaper decorates on wall and white wall panelling"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163531/modern-2bhk-house-kids-bedroom-with-map-wallpaper-decorates-on-wall-and-white-wall-panelling.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk house kids bedroom with map wallpaper decorates on wall and white wall panelling"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163531/modern-2bhk-house-kids-bedroom-with-map-wallpaper-decorates-on-wall-and-white-wall-panelling.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163531/modern-2bhk-house-kids-bedroom-with-map-wallpaper-decorates-on-wall-and-white-wall-panelling.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163531/modern-2bhk-house-kids-bedroom-with-map-wallpaper-decorates-on-wall-and-white-wall-panelling.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Study unit with open shelves drawers and overhead cabinets for kids bedroom in 2bhk modern homes"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163607/study-unit-with-open-shelves-drawers-and-overhead-cabinets-for-kids-bedroom-in-2bhk-modern-homes.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Study unit with open shelves drawers and overhead cabinets for kids bedroom in 2bhk modern homes"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163607/study-unit-with-open-shelves-drawers-and-overhead-cabinets-for-kids-bedroom-in-2bhk-modern-homes.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163607/study-unit-with-open-shelves-drawers-and-overhead-cabinets-for-kids-bedroom-in-2bhk-modern-homes.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163607/study-unit-with-open-shelves-drawers-and-overhead-cabinets-for-kids-bedroom-in-2bhk-modern-homes.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Modern 2bhk house bedroom interiors with dressing unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163520/modern-2bhk-house-bedroom-interiors-with-dressing-unit.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 2bhk house bedroom interiors with dressing unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163520/modern-2bhk-house-bedroom-interiors-with-dressing-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163520/modern-2bhk-house-bedroom-interiors-with-dressing-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163520/modern-2bhk-house-bedroom-interiors-with-dressing-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Small bathroom design with wood finished floating vanity unit in modern 2bhk home"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163602/small-bathroom-design-with-wood-finished-floating-vanity-unit-in-modern-2bhk-home.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Small bathroom design with wood finished floating vanity unit in modern 2bhk home"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30163602/small-bathroom-design-with-wood-finished-floating-vanity-unit-in-modern-2bhk-home.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30163602/small-bathroom-design-with-wood-finished-floating-vanity-unit-in-modern-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30163602/small-bathroom-design-with-wood-finished-floating-vanity-unit-in-modern-2bhk-home.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="container collection-slider-wrapper">
                         <div class="new-collection-detail-row">
                             <div class="row collection-space-row">
@@ -2461,7 +1783,6 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                 </div>
                                 <div class="col-lg-12 responsive-space-cutter-left-bottom ">
-
                                     <div class="collection-hide-section new-collection-show"
                                         id="collection-hide-section-23128">
                                         <div class="collection-description-new">
@@ -2518,24 +1839,17 @@ jQuery(".open-btn1").click(function() {
                                             id="text-change-23128">Explore more</span> <span
                                             class="arrow-change">›</span></div>
                                     <div class="get-a-quote-collection">
-
                                         <a class="common-link-button-new" data-toggle="modal" href="#contactUsModal">Get
                                             a Quote</a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
                 <script type="text/javascript">
                 jQuery(document).ready(function($) {
                     $("#show-more-text-23128").click(function() {
-
                         if ($("#text-change-23128").text() == 'Explore more') {
                             $(".new-collection-show").hide('slow');
                             $("#collection-hide-section-23128").slideToggle('slow');
@@ -2554,236 +1868,150 @@ jQuery(".open-btn1").click(function() {
                 <style></style>
                 <div id="25655" class="row collection-listing-section collection-detail-widget-wrap">
                     <div class="container collection-slider-mb-new">
-
                         <div class="row collection-row-slide-new collection-row-slide-new-cls">
                             <div class="col-lg-12">
                                 <div class="new-collection-detail-row">
                                     <div class="collection-image-gallary-section">
                                         <div id="owl-collection-slider-1"
                                             class="owl-carousel owl-theme owl-new-detail-slider owl-collecttion-listing-new owl-carosal-arrow">
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk interior design with hidden tv unit storage, push to open drawers, sofa and long curtains"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211057/2bhk-interior-design-with-hidden-tv-unit-storage.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk interior design with hidden tv unit storage, push to open drawers, sofa and long curtains"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211057/2bhk-interior-design-with-hidden-tv-unit-storage.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211057/2bhk-interior-design-with-hidden-tv-unit-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211057/2bhk-interior-design-with-hidden-tv-unit-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk house interior design with floor to ceiling cabinets, a coat rack and tiny seating arrangement"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211046/2bhk-house-interior-design-with-floor-to-ceiling-cabinets.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk house interior design with floor to ceiling cabinets, a coat rack and tiny seating arrangement"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211046/2bhk-house-interior-design-with-floor-to-ceiling-cabinets.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211046/2bhk-house-interior-design-with-floor-to-ceiling-cabinets.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211046/2bhk-house-interior-design-with-floor-to-ceiling-cabinets.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk interior with g shaped modular kitchen with overhead and base cabinets finished in yellow and wood laminate"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211104/2bhk-interior-with-g-shaped-modular-kitchen.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk interior with g shaped modular kitchen with overhead and base cabinets finished in yellow and wood laminate"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211104/2bhk-interior-with-g-shaped-modular-kitchen.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211104/2bhk-interior-with-g-shaped-modular-kitchen.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211104/2bhk-interior-with-g-shaped-modular-kitchen.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk house design with dining room designed with a four seat table"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211040/2bhk-house-design-with-dining-room-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk house design with dining room designed with a four seat table"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211040/2bhk-house-design-with-dining-room-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211040/2bhk-house-design-with-dining-room-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211040/2bhk-house-design-with-dining-room-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk flat design with open shelves beneath the cabinet to keep your shoes and a tiny seating arrangement"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211034/2bhk-flat-design-with-open-shelves-beneath-the-cabinet-to-keep-shoes.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk flat design with open shelves beneath the cabinet to keep your shoes and a tiny seating arrangement"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211034/2bhk-flat-design-with-open-shelves-beneath-the-cabinet-to-keep-shoes.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211034/2bhk-flat-design-with-open-shelves-beneath-the-cabinet-to-keep-shoes.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211034/2bhk-flat-design-with-open-shelves-beneath-the-cabinet-to-keep-shoes.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="A stunning pooja unit with a cabinet glass front on the other side designed in home design 2bhk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211115/home-design-2bhk-with-a-stunning-pooja-unit.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="A stunning pooja unit with a cabinet glass front on the other side designed in home design 2bhk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211115/home-design-2bhk-with-a-stunning-pooja-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211115/home-design-2bhk-with-a-stunning-pooja-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211115/home-design-2bhk-with-a-stunning-pooja-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Grey wainscoting accent wall breaks the monotony of the muted colours elegantly in house design 2bhk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211127/house-design-2bhk-with-dining-room-and-living-room.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Grey wainscoting accent wall breaks the monotony of the muted colours elegantly in house design 2bhk"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211127/house-design-2bhk-with-dining-room-and-living-room.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211127/house-design-2bhk-with-dining-room-and-living-room.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211127/house-design-2bhk-with-dining-room-and-living-room.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Kids storage unit designed in the shape of a hut to keep toys and books in a clutter free manner in 2bhk room design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211138/Kids-storage-unit-designed-in-hut-shape-in-2bhk-room-design.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Kids storage unit designed in the shape of a hut to keep toys and books in a clutter free manner in 2bhk room design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211138/Kids-storage-unit-designed-in-hut-shape-in-2bhk-room-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211138/Kids-storage-unit-designed-in-hut-shape-in-2bhk-room-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211138/Kids-storage-unit-designed-in-hut-shape-in-2bhk-room-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Best interior dsign for 2bhk flat with hut shaped bed, study table and book storage shelves"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211109/best-interior-dsign-for-2bhk-flat-with-hut-shaped-bed-study-table-and-shelves.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Best interior dsign for 2bhk flat with hut shaped bed, study table and book storage shelves"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211109/best-interior-dsign-for-2bhk-flat-with-hut-shaped-bed-study-table-and-shelves.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211109/best-interior-dsign-for-2bhk-flat-with-hut-shaped-bed-study-table-and-shelves.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211109/best-interior-dsign-for-2bhk-flat-with-hut-shaped-bed-study-table-and-shelves.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Interior design of 2bhk bathroom with tiled backsplash, vanity unit with drawers and floating shelves, wall cabinet with mirrors"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211133/interior-design-of-2bhk-bathroom-with-tiled-backsplash-vanity-unit-with-drawers-and-floating-shelves.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Interior design of 2bhk bathroom with tiled backsplash, vanity unit with drawers and floating shelves, wall cabinet with mirrors"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211133/interior-design-of-2bhk-bathroom-with-tiled-backsplash-vanity-unit-with-drawers-and-floating-shelves.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211133/interior-design-of-2bhk-bathroom-with-tiled-backsplash-vanity-unit-with-drawers-and-floating-shelves.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211133/interior-design-of-2bhk-bathroom-with-tiled-backsplash-vanity-unit-with-drawers-and-floating-shelves.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="2bhk interior design plan where the master bedroom is finished in white and wood and wardrobe with tinted glass fronts"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211051/2bhk-interior-design-plan-with-bedroom-finished-in-white-and-wood.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="2bhk interior design plan where the master bedroom is finished in white and wood and wardrobe with tinted glass fronts"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211051/2bhk-interior-design-plan-with-bedroom-finished-in-white-and-wood.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211051/2bhk-interior-design-plan-with-bedroom-finished-in-white-and-wood.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211051/2bhk-interior-design-plan-with-bedroom-finished-in-white-and-wood.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
-
                                             <div class="item">
                                                 <div class="collection-slider-img-section">
-
-
-
-
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
                                                         alt="Home interior design for 2bhk with wardrobe with tinted glass fronts adds an edge to the interiors"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211120/home-interior-design-for-2bhk-with-wardrobe-with-tinted-glass-fronts.jpg">
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Home interior design for 2bhk with wardrobe with tinted glass fronts adds an edge to the interiors"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/09/29211120/home-interior-design-for-2bhk-with-wardrobe-with-tinted-glass-fronts.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/09/29211120/home-interior-design-for-2bhk-with-wardrobe-with-tinted-glass-fronts.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/09/29211120/home-interior-design-for-2bhk-with-wardrobe-with-tinted-glass-fronts.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
-
-
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="container collection-slider-wrapper">
                         <div class="new-collection-detail-row">
                             <div class="row collection-space-row">
@@ -2793,7 +2021,6 @@ jQuery(".open-btn1").click(function() {
                                     </div>
                                 </div>
                                 <div class="col-lg-12 responsive-space-cutter-left-bottom ">
-
                                     <div class="collection-hide-section new-collection-show"
                                         id="collection-hide-section-25655">
                                         <div class="collection-description-new">
@@ -2891,24 +2118,17 @@ jQuery(".open-btn1").click(function() {
                                             id="text-change-25655">Explore more</span> <span
                                             class="arrow-change">›</span></div>
                                     <div class="get-a-quote-collection">
-
                                         <a class="common-link-button-new" data-toggle="modal" href="#contactUsModal">Get
                                             a Quote</a>
                                     </div>
                                 </div>
-
                             </div>
                         </div>
                     </div>
                 </div>
-
-
-
-
                 <script type="text/javascript">
                 jQuery(document).ready(function($) {
                     $("#show-more-text-25655").click(function() {
-
                         if ($("#text-change-25655").text() == 'Explore more') {
                             $(".new-collection-show").hide('slow');
                             $("#collection-hide-section-25655").slideToggle('slow');
@@ -2986,14 +2206,14 @@ jQuery(".open-btn1").click(function() {
                                                     <h3 class="btn btn-link faq-question-row-link collapsed __mPS2id"
                                                         data-toggle="collapse" data-target="#collapse3"
                                                         aria-expanded="true" aria-controls="collapse3">3. How many 2 BHK
-                                                        flats have DesignCafe designed?</h3>
+                                                        flats have CreativeWalls designed?</h3>
                                                 </div>
                                                 <div id="collapse3" class="collapse faqs-answer-collapse"
                                                     aria-labelledby="heading3" data-parent="#accordion1">
                                                     <div class="card-body faqs-answer" style="padding-left: 30px;">
-                                                        <p><span style="font-weight: 400;">DesignCafe has designed over
-                                                                1000&#8217;s of 2 BHK homes in Bangalore, Mumbai and
-                                                                Hyderabad. You can see some of our <a
+                                                        <p><span style="font-weight: 400;">CreativeWalls has designed over
+                                                                1000&#8217;s of 2 BHK homes in Pune, Mumbai and
+                                                                Nagpur. You can see some of our <a
                                                                     href="<?php echo base_url(''); ?>">2
                                                                     BHK completed projects here</a>.</span></p>
                                                         <p>&nbsp;</p>
@@ -3003,13 +2223,13 @@ jQuery(".open-btn1").click(function() {
                                                         <ul>
                                                             <li><a
                                                                     href="<?php echo base_url(''); ?>">Best
-                                                                    Interior Designers in Bengaluru</a></li>
+                                                                    Interior Designers in Pune</a></li>
                                                             <li><a
                                                                     href="<?php echo base_url(''); ?>">Best
                                                                     Interior Designers in Mumbai</a></li>
                                                             <li><a
                                                                     href="<?php echo base_url(''); ?>">Best
-                                                                    Interior Designers in Hyderabad</a></li>
+                                                                    Interior Designers in Nagpur</a></li>
                                                         </ul>
                                                     </div>
                                                 </div>
@@ -3027,8 +2247,6 @@ jQuery(".open-btn1").click(function() {
     </div>
     <style type="text/css"></style>
 </div>
-
-
 <div style="background: #ECECEC">
     <div class="container">
         <p class="footer-description-text">

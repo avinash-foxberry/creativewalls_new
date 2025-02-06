@@ -280,8 +280,6 @@ class Web extends CI_Controller
 		$this->load->view('website/guides/5_things_to_know_before_designing_a_modular_kitchen/index', $data);
 	}
 
-
-
 	public function enquiry()
 	{
 		$this->load->library('contact');
@@ -299,7 +297,32 @@ class Web extends CI_Controller
 			$data['page'] = 'thank_you';
 			$data['title'] = 'Thanks';
 			
-		$data['description'] = 'SIILC offers the best online real estate management courses & executive programs';
+		$data['description'] = 'The creative walls get back to u soon';
+			$this->load->view('website/index', $data);
+		} else {
+			$this->session->set_flashdata('errro', 'Oops Something went wrong. Please Try after some time.');
+			redirect('/');
+		}
+	}
+
+	public function enquiry_form()
+	{
+		$this->load->library('contact');
+		$saveArray = array(
+			'name' => $this->input->post('fullname'),
+			'mobile' => $this->input->post('mobilenumber'),
+			'email' => $this->input->post('email'),
+			'location' => $this->input->post('yourcity'),
+			'message' => $this->input->post('message'),
+		);
+		// save into database
+		$save  = $this->contact->saveQuery($saveArray);
+		if ($save) {
+			$this->session->set_flashdata('success', 'Thankyou ' . $this->input->post('fullname') . '. We receive your request. We will connect you soon.');
+			// redirect('/');
+			$data['page'] = 'thank_you';
+			$data['title'] = 'Thanks';
+		    $data['description'] = 'The creative walls get back to u soon';
 			$this->load->view('website/index', $data);
 		} else {
 			$this->session->set_flashdata('errro', 'Oops Something went wrong. Please Try after some time.');
@@ -397,19 +420,9 @@ class Web extends CI_Controller
 		$data['description'] = 'SIILC offers the best online real estate management courses & executive programs';
 		$this->load->view('website/index', $data);
 	}
-	public function thanks()
-	{
-		$data['page'] = 'thanks';
-		$data['title'] = 'Thanks';
-		
-		$data['description'] = 'SIILC offers the best online real estate management courses & executive programs';
-		$this->load->view('website/index', $data);
-	}
 
 	public function thank_you()
 	{
-		// Pass the UTM parameters to the thank you view
-		
 		$data['page'] = 'thank_you';
 		$data['title'] = 'Thanks';
 		

@@ -69,7 +69,7 @@
 <ol start="8">
 <li><strong>Governing Law and Jurisdiction</strong></li>
 </ol>
-<p>This TOU and the relationship between You and Us shall be governed by the laws of the Republic of India without regard to its conflict of law provisions. The Courts at Bengaluru, India shall have exclusive jurisdiction in any proceedings arising out of this TOU.</p>
+<p>This TOU and the relationship between You and Us shall be governed by the laws of the Republic of India without regard to its conflict of law provisions. The Courts at Pune, India shall have exclusive jurisdiction in any proceedings arising out of this TOU.</p>
 <ol start="9">
 <li><strong>Contact Us</strong></li>
 </ol>

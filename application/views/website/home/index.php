@@ -17,7 +17,7 @@
                     </div>
                     <div class="home-page-slider-item">
                         <a data-toggle="modal" href="#contactUsModal" class="__mPS2id" data-factors-click-bind="true">
-                            <img alt="Home interiors designed by best interior designers in Bangalore, Mumbai, Hyderabad, Chennai, Kolkata, India"
+                            <img alt="Home interiors designed by best interior designers in Pune, Mumbai, Amravati, Nagpur, India"
                                 class="img-fluid desktop-slider-img owl-lazy-n lazyloaded"
                                 src="<?php echo base_url(); ?>assets/uploads/2024/11/08204359/home-interiors-interior-designers-bangalore-mumbai-hyderabad-chennai-kolkata-india.jpg">
                         </a>
@@ -46,9 +46,9 @@
                                     <p class="why-design-cafe-main-title-watermark">Home Interiors Made Easy</p>
                                 </div>
                                 <div class="how-it-works-main-section-inner-description how-it-works-gap">
-                                    <p>You book a consultation, get guided by one of the 400+ top-notch interior
+                                    <p>You book a consultation, get guided by one of the 100+ top-notch interior
                                         designers, and we take care of the rest, from start to finish. We have done it
-                                        for more than 10,000 homes already.</p>
+                                        for more than 1000+ homes already.</p>
                                 </div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                                 <div class="book-an-appointment-wrapper">
                                     <div class="book-an-apt">
                                         <img class="img-fluid lazyloaded" fetchpriority="high"
-                                            alt="Best Interior designers in Bangalore, Mumbai, Hyderabad, Chennai, Mysore and Pune for residential interior design."
+                                            alt="Best Interior designers in Pune, Mumbai, Amravati, Nagpur for residential interior design."
                                             src="<?php echo base_url(); ?>assets/uploads/2020/03/21013839/book-appointment-with-best-interior-designers-340x340.jpg"
                                             width="auto" height="auto">
                                     </div>
@@ -84,7 +84,7 @@
                                 <div class="book-an-appointment-wrapper">
                                     <div class="book-an-apt">
                                         <img class="img-fluid lazyloaded" fetchpriority="high"
-                                            alt="Best Interior designers in Mumbai, Bangalore, Hyderabad, Chennai, Mysore and Pune for home interior design."
+                                            alt="Best Interior designers in Pune, Mumbai, Amravati, Nagpur for home interior design."
                                             src="<?php echo base_url(); ?>assets/uploads/2020/03/21013840/meet-best-interior-designers-near-me-340x340.jpg"
                                             width="auto" height="auto">
                                     </div>
@@ -103,7 +103,7 @@
                                 <div class="book-an-appointment-wrapper">
                                     <div class="book-an-apt">
                                         <img class="img-fluid lazyloaded" fetchpriority="high"
-                                            alt="Best home interior designers in Pune, Chennai, Hyderabad, Mumbai, Bangalore, Mysore for home interior design."
+                                            alt="Best home interior designers in Pune, Mumbai, Amravati, Nagpur for home interior design."
                                             src="<?php echo base_url(); ?>assets/uploads/2020/03/21013836/personalised-interior-designs-by-top-interior-designers-340x340.jpg"
                                             width="auto" height="auto">
                                     </div>
@@ -122,7 +122,7 @@
                                 <div class="book-an-appointment-wrapper">
                                     <div class="book-an-apt">
                                         <img class="img-fluid lazyloaded" fetchpriority="high"
-                                            alt="Best home interior design firm in Bangalore, Mysore, Hyderabad, Chennai, Mumbai, Pune for residential interior design."
+                                            alt="Best home interior design firm in Pune, Mumbai, Amravati, Nagpur for residential interior design."
                                             src="<?php echo base_url(); ?>assets/uploads/2023/02/06110805/best-interiors-delivered-mumbai-bangalore-hyderabad-340x340-1.webp"
                                             width="auto" height="auto">
                                     </div>
@@ -154,8 +154,8 @@
                     <div class="row">
                         <div class="col-lg-12 remove-side-padding">
                             <div class="bg-text-title without-shadow-head">
-                                <h2>10,000+ Dream Homes Delivered</h2>
-                                <p class="why-design-cafe-main-title-watermark">10,000+ Dream Homes Delivered</p>
+                                <h2>1000+ Dream Homes Delivered</h2>
+                                <p class="why-design-cafe-main-title-watermark">1000+ Dream Homes Delivered</p>
                             </div>
                         </div>
                     </div>
@@ -174,20 +174,19 @@
                                                             <img width="946" height="662"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20946%20662'%3E%3C/svg%3E"
                                                                 class="img-fluid wp-post-image"
-                                                                alt="Interior companies in bangalore for master bedroom with an elegant look"
+                                                                alt="Interior companies in Pune for master bedroom with an elegant look"
                                                                 decoding="async" fetchpriority="high"
                                                                 data-lazy-src="<?php echo base_url(); ?>assets/uploads/2019/12/23111709/interior-companies-in-bangalore-946x662.jpg"><noscript><img
                                                                     width="946" height="662"
                                                                     src="<?php echo base_url(); ?>assets/uploads/2019/12/23111709/interior-companies-in-bangalore-946x662.jpg"
                                                                     class="img-fluid wp-post-image"
-                                                                    alt="Interior companies in bangalore for master bedroom with an elegant look"
+                                                                    alt="Interior companies in Pune for master bedroom with an elegant look"
                                                                     decoding="async"
                                                                     fetchpriority="high"></noscript></a>
                                                     </div>
                                                     <div class="content-section-first">
                                                         <a href="<?php echo base_url('recent_projects_completed'); ?>#1179"><span
-                                                                class="home-recent-project">A Modern 3 BHK Flat Of
-                                                                Debashish Chakraborty</span></a>
+                                                                class="home-recent-project">A Modern 3 BHK Flat Of Chetan kulkarni</span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -195,7 +194,7 @@
                                                 <div class="project-second">
                                                     <div class="content-section-second">
                                                         <a href="<?php echo base_url('recent_projects_completed'); ?>#26843"><span
-                                                                class="home-recent-project">Ritesh Tiwari&#8217;s 3BHK
+                                                                class="home-recent-project">Omkar Padole 3BHK
                                                                 Home in Mumbai</span></a>
                                                     </div>
                                                     <div class="image-section-second">
@@ -222,7 +221,7 @@
                                     </div>
                                 </div>
                                 <!--   -->
-                                <div role="tabpanel" class="tab-pane text-left fade " id="Bengaluru">
+                                <div role="tabpanel" class="tab-pane text-left fade " id="Pune">
                                     <div class="latest-inner-main-section">
                                         <div class="latest-inner-main-section-container">
                                             <div class="row latest-project-section-inner">
@@ -232,19 +231,19 @@
                                                             <img width="946" height="662"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20946%20662'%3E%3C/svg%3E"
                                                                 class="img-fluid wp-post-image"
-                                                                alt="Interior companies in bangalore for master bedroom with an elegant look"
+                                                                alt="Interior companies in Pune for master bedroom with an elegant look"
                                                                 decoding="async"
                                                                 data-lazy-src="<?php echo base_url(); ?>assets/uploads/2019/12/23111709/interior-companies-in-bangalore-946x662.jpg"><noscript><img
                                                                     width="946" height="662"
                                                                     src="<?php echo base_url(); ?>assets/uploads/2019/12/23111709/interior-companies-in-bangalore-946x662.jpg"
                                                                     class="img-fluid wp-post-image"
-                                                                    alt="Interior companies in bangalore for master bedroom with an elegant look"
+                                                                    alt="Interior companies in Pune for master bedroom with an elegant look"
                                                                     decoding="async"></noscript></a>
                                                     </div>
                                                     <div class="content-section-first">
                                                         <a href="<?php echo base_url('recent_projects_completed'); ?>#1179"><span
                                                                 class="home-recent-project">A Modern 3 BHK Flat Of
-                                                                Debashish Chakraborty</span></a>
+                                                                Chetam Kulkarni</span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -252,7 +251,7 @@
                                                 <div class="project-second">
                                                     <div class="content-section-second">
                                                         <a href="<?php echo base_url('recent_projects_completed'); ?>#26843"><span
-                                                                class="home-recent-project">Ritesh Tiwari&#8217;s 3BHK
+                                                                class="home-recent-project">Omkar Padole&#8217;s 3BHK
                                                                 Home in Mumbai</span></a>
                                                     </div>
                                                     <div class="image-section-second">
@@ -279,7 +278,7 @@
                                     </div>
                                 </div>
                                 <!--   -->
-                                <div role="tabpanel" class="tab-pane text-left fade " id="Hyderabad">
+                                <div role="tabpanel" class="tab-pane text-left fade " id="Nagpur">
                                     <div class="latest-inner-main-section">
                                         <div class="latest-inner-main-section-container">
                                             <div class="row latest-project-section-inner">
@@ -289,19 +288,19 @@
                                                             <img width="946" height="662"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20946%20662'%3E%3C/svg%3E"
                                                                 class="img-fluid wp-post-image"
-                                                                alt="Interior companies in bangalore for master bedroom with an elegant look"
+                                                                alt="Interior companies in Pune for master bedroom with an elegant look"
                                                                 decoding="async"
                                                                 data-lazy-src="<?php echo base_url(); ?>assets/uploads/2019/12/23111709/interior-companies-in-bangalore-946x662.jpg"><noscript><img
                                                                     width="946" height="662"
                                                                     src="<?php echo base_url(); ?>assets/uploads/2019/12/23111709/interior-companies-in-bangalore-946x662.jpg"
                                                                     class="img-fluid wp-post-image"
-                                                                    alt="Interior companies in bangalore for master bedroom with an elegant look"
+                                                                    alt="Interior companies in Pune for master bedroom with an elegant look"
                                                                     decoding="async"></noscript></a>
                                                     </div>
                                                     <div class="content-section-first">
                                                         <a href="<?php echo base_url('recent_projects_completed'); ?>#1179"><span
                                                                 class="home-recent-project">A Modern 3 BHK Flat Of
-                                                                Debashish Chakraborty</span></a>
+                                                                Chetan Kulkarni</span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -309,7 +308,7 @@
                                                 <div class="project-second">
                                                     <div class="content-section-second">
                                                         <a href="<?php echo base_url('recent_projects_completed'); ?>#26843"><span
-                                                                class="home-recent-project">Ritesh Tiwari&#8217;s 3BHK
+                                                                class="home-recent-project">Omkar Padole&#8217;s 3BHK
                                                                 Home in Mumbai</span></a>
                                                     </div>
                                                     <div class="image-section-second">
@@ -346,19 +345,19 @@
                                                             <img width="946" height="662"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20946%20662'%3E%3C/svg%3E"
                                                                 class="img-fluid wp-post-image"
-                                                                alt="Interior companies in bangalore for master bedroom with an elegant look"
+                                                                alt="Interior companies in Pune for master bedroom with an elegant look"
                                                                 decoding="async"
                                                                 data-lazy-src="<?php echo base_url(); ?>assets/uploads/2019/12/23111709/interior-companies-in-bangalore-946x662.jpg"><noscript><img
                                                                     width="946" height="662"
                                                                     src="<?php echo base_url(); ?>assets/uploads/2019/12/23111709/interior-companies-in-bangalore-946x662.jpg"
                                                                     class="img-fluid wp-post-image"
-                                                                    alt="Interior companies in bangalore for master bedroom with an elegant look"
+                                                                    alt="Interior companies in Pune for master bedroom with an elegant look"
                                                                     decoding="async"></noscript></a>
                                                     </div>
                                                     <div class="content-section-first">
                                                         <a href="<?php echo base_url('recent_projects_completed'); ?>#1179"><span
                                                                 class="home-recent-project">A Modern 3 BHK Flat Of
-                                                                Debashish Chakraborty</span></a>
+                                                                Chetan Kulkarni</span></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -366,7 +365,7 @@
                                                 <div class="project-second">
                                                     <div class="content-section-second">
                                                         <a href="<?php echo base_url('recent_projects_completed'); ?>#26843"><span
-                                                                class="home-recent-project">Ritesh Tiwari&#8217;s 3BHK
+                                                                class="home-recent-project">Omkar Padole&#8217;s 3BHK
                                                                 Home in Mumbai</span></a>
                                                     </div>
                                                     <div class="image-section-second">
@@ -482,12 +481,12 @@
                                             <a href="<?php echo base_url(''); ?>"
                                                 class="c-featured__item_new">
                                                 <img class="img-fluid owl-lazy lazyloaded"
-                                                    alt="Home office designs by best interior designers in bangalore mumbai and hyderabad"
+                                                    alt="Home office designs by best interior designers in Pune Mumbai and Nagpur"
                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                                     width="auto" height="auto"
                                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2021/04/26145859/home-office-design-by-best-interior-designers-in-bengalore-mumbai-hyderabad.jpg"><noscript><img
                                                         class="img-fluid owl-lazy lazyloaded"
-                                                        alt="Home office designs by best interior designers in bangalore mumbai and hyderabad"
+                                                        alt="Home office designs by best interior designers in Pune, Mumbai and Nagpur"
                                                         src="<?php echo base_url(); ?>assets/uploads/2021/04/26145859/home-office-design-by-best-interior-designers-in-bengalore-mumbai-hyderabad.jpg"
                                                         width="auto" height="auto"></noscript>
                                                 <h3 class="c-featured__title_new" style="font-weight: 500;">
@@ -588,13 +587,13 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-12">
+                        <!-- <div class="col-lg-12">
                             <div class="latest-projects-know-more-button view-all-design-cta-home">
                                 <a class="common-link-button new-cta-color-arrow-btn"
                                     href="<?php echo base_url(''); ?>">View All Designs <i class="fa fa-angle-right"
                                         aria-hidden="true"></i></a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -658,11 +657,8 @@
                                     <h3 class="nav-item nav-link why-design-cafe-nav-text " id="why-dc-2"
                                         aria-controls="2" role="tab" data-toggle="tab" href="#tab-2">
                                         Project Management from A to Z</h3>
-                                    <h3 class="nav-item nav-link why-design-cafe-nav-text " id="why-dc-3"
-                                        aria-controls="3" role="tab" data-toggle="tab" href="#tab-3">
-                                        Easy EMI options</h3>
                                     <h3 class="nav-item nav-link why-design-cafe-nav-text " id="why-dc-4"
-                                        aria-controls="4" role="tab" data-toggle="tab" href="#tab-4">
+                                        aria-controls="3" role="tab" data-toggle="tab" href="#tab-3">
                                         On-time Delivery</h3>
                                 </div>
                             </nav>
@@ -674,13 +670,13 @@
                                                 <div class="personalised-for-you">
                                                     <div class="personalised-for-you-img">
                                                         <img class="img-fluid lazyloaded"
-                                                            alt="best home interiors from CreativeWalls, best home interior design firm in Bangalore, Mumbai, Hyderabad and Chennai in India."
+                                                            alt="best home interiors from CreativeWalls, best home interior design firm in Pune, Mumbai in India."
                                                             src="<?php echo base_url(); ?>assets/uploads/2023/02/06110801/personalised-home-interiors-450x446-1-450x446.webp"
                                                             width="auto" height="auto">
                                                     </div>
                                                     <div class="personalised-for-you-content">
                                                         <img class="img-fluid lazyloaded"
-                                                            alt="Interior designers in bangalore known for award winning home interior designs."
+                                                            alt="Interior designers in Pune known for award winning home interior designs."
                                                             src="<?php echo base_url(); ?>assets/uploads/2019/12/17055014/50-awards-innovative-home-interior-designs-india.png"
                                                             width="auto" height="auto">
                                                         <p>Awards for Innovative Interior Design</p>
@@ -729,7 +725,7 @@
                                                     <p><b><span style="font-weight: 400;">Quality is paramount at
                                                                 CreativeWalls. </span></b></p>
                                                     <p><b><span style="font-weight: 400;">We use </span></b><span
-                                                            style="font-weight: 400;">DC gold plywood</span><b><span
+                                                            style="font-weight: 400;">CW gold plywood</span><b><span
                                                                 style="font-weight: 400;"> with a eucalyptus core, which
                                                                 is <b>naturally termite and borer proof. </b></span></b>
                                                     </p>
@@ -756,7 +752,7 @@
                                                 <div class="personalised-for-you">
                                                     <div class="personalised-for-you-img">
                                                         <img class="img-fluid lazyloaded"
-                                                            alt="Top Interior designer in hyderabad known for best interior designers in hyderabad."
+                                                            alt="Top Interior designer in  Nagpur  known for best interior designers in  Nagpur ."
                                                             src="<?php echo base_url(); ?>assets/uploads/2020/01/21002148/3-best-project-management-home-interior-designers.webp"
                                                             width="auto" height="auto">
                                                     </div>
@@ -794,60 +790,13 @@
                                                 <div class="personalised-for-you">
                                                     <div class="personalised-for-you-img">
                                                         <img class="img-fluid lazyloaded"
-                                                            alt="Online interior design at best price for budget home interior designers on emi in Bangalore, Mumbai, Chennai and Hyderabad"
-                                                            src="<?php echo base_url(); ?>assets/uploads/2023/02/06110756/home-interiors-easy-emis-450x446-1-450x446.webp"
-                                                            width="auto" height="auto">
-                                                    </div>
-                                                    <div class="personalised-for-you-content">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Online Home interior on EMI in Bangalore Mumbai and Hyderabad from best interior design firm."
-                                                            src="<?php echo base_url(); ?>assets/uploads/2019/12/17055014/easy-home-interior-emi-bangalore-mumbai-hyderabad.png"
-                                                            width="auto" height="auto">
-                                                        <p>EMI Available</p>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-lg-7">
-                                                <div class="why-design-cafe-description">
-                                                    <p><span style="font-weight: 400;">We have partnered with reputable
-                                                            lenders to make your interiors decision easier.</span></p>
-                                                    <p><span style="font-weight: 400;">EMIs can be split over 36 months
-                                                            and kick in after only a 20% payment (5% and 15%)</span></p>
-                                                    <p><b>Sample EMIs (monthly for 36 months):</b><span
-                                                            style="font-weight: 400;"> </span></p>
-                                                    <ol>
-                                                        <li><span style="font-weight: 400;"><span
-                                                                    style="font-weight: 400;">Kitchen costing 1.5 lakhs
-                                                                    &#8211; ₹4,667</span></span></li>
-                                                        <li>1BHK costing 3.5 lakhs<span style="font-weight: 400;">
-                                                                &#8211;</span> ₹10,889</li>
-                                                        <li>2BHK costing 5 lakhs &#8211; ₹15,556</li>
-                                                        <li>3BHK costing 7 lakhs<span style="font-weight: 400;">
-                                                                &#8211;</span> ₹21,778</li>
-                                                    </ol>
-                                                </div>
-                                                <div class="why-design-cafe-know-more-button">
-                                                    <a id="" class="common-link-button " data-toggle="modal"
-                                                        href="#contactUsModal">Avail Attractive EMIs</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div role="tabpanel" class="tab-pane text-left fade " id="tab-4">
-                                    <div class="container">
-                                        <div class="row">
-                                            <div class="col-lg-5">
-                                                <div class="personalised-for-you">
-                                                    <div class="personalised-for-you-img">
-                                                        <img class="img-fluid lazyloaded"
-                                                            alt="Best interior design company near me with virtual interior design services in Bangalore, Mumbai, Hyderabad and Chennai"
+                                                            alt="Best interior design company near me with virtual interior design services in Pune, Mumbai"
                                                             src="<?php echo base_url(); ?>assets/uploads/2020/01/21002149/5-on-time-delivery-best-residential-apartment-interiors.webp"
                                                             width="auto" height="auto">
                                                     </div>
                                                     <div class="personalised-for-you-content">
                                                         <img class="img-fluid lazyloaded"
-                                                            alt="Book Virtual interior design from best online home interior designers in Bangalore, Mumbai and Hyderabad"
+                                                            alt="Book Virtual interior design from best online home interior designers in Pune, Mumbai"
                                                             src="<?php echo base_url(); ?>assets/uploads/2019/12/17055014/60-days-complete-home-interiors-best-price-budget-delivery.png"
                                                             width="auto" height="auto">
                                                         <p>Days to Move In</p>
@@ -887,9 +836,6 @@
                 </div>
             </div>
             <!-- Why design Cafe -->
-            <!-- Latest Projects Start -->
-
-            <!-- Latest Projects End -->
 
             <!-- Happy Customer Start -->
             <div class="row testimonial-section">
@@ -908,7 +854,7 @@
                                 <div id="owl-testimonial-for-you"
                                     class="owl-carousel owl-theme owl-collecttion-listing-new owl-carosal-arrow">
                                     <div class="item">
-                                        <div class="video-img-container video-img-container-home">
+                                        <!-- <div class="video-img-container video-img-container-home">
                                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                                 class="img-fluid owl-lazy lazyloaded" width="auto" height="auto"
                                                 data-lazy-src="https://img.youtube.com/vi/dTN3a9ES2f0/mqdefault.jpg"><noscript><img
@@ -920,25 +866,24 @@
                                                 class="video-btn fancy-box-tag vdo-testi-play-icon">
                                                 <i class="fa fa-play"></i>
                                             </a>
-                                        </div>
+                                        </div> -->
                                         <div
                                             class="video-testimonial-meta video-testimonial-meta-home collection-special-features-title">
                                             <div class="vdo-testimonial-content">
                                                 <blockquote class="client-testimonial-quote"> <span
                                                         class="quote-mark">&ldquo;</span> <span>
-                                                        We hired DC for our home interiors. The sales team led by Kajol
-                                                        Mishra, designer Nikita and project manager Prabhu was very
+                                                        We hired CW for our home interiors. The sales team led by Kaushal Raulkar, designer Megha and project manager Kaushal Raulkar was very
                                                         responsive. They met our requests with value-for-money results
                                                         and promised quality finishes. </span></blockquote>
                                             </div>
-                                            <div class="vdo-testimonial-title">Manish Chandgothia</div>
+                                            <div class="vdo-testimonial-title">Sachit Shiyale</div>
                                             <p class="vdo-testimonial-meta-city">
                                                 3 BHK, Bren Imperia,
-                                                Bengaluru </p>
+                                                Pune </p>
                                         </div>
                                     </div>
                                     <div class="item">
-                                        <div class="video-img-container video-img-container-home">
+                                        <!-- <div class="video-img-container video-img-container-home">
                                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                                 class="img-fluid owl-lazy lazyloaded" width="auto" height="auto"
                                                 data-lazy-src="https://img.youtube.com/vi/7Wnusn0L5X8/mqdefault.jpg"><noscript><img
@@ -950,7 +895,7 @@
                                                 class="video-btn fancy-box-tag vdo-testi-play-icon">
                                                 <i class="fa fa-play"></i>
                                             </a>
-                                        </div>
+                                        </div> -->
                                         <div
                                             class="video-testimonial-meta video-testimonial-meta-home collection-special-features-title">
                                             <div class="vdo-testimonial-content">
@@ -962,14 +907,14 @@
                                                         lots of room for our kids to move freely. We are thankful to
                                                         CreativeWalls. </span></blockquote>
                                             </div>
-                                            <div class="vdo-testimonial-title">Rohan Jaju</div>
+                                            <div class="vdo-testimonial-title">Omkar Padole</div>
                                             <p class="vdo-testimonial-meta-city">
                                                 3 BHK, Tycoons Residency,
                                                 Mumbai </p>
                                         </div>
                                     </div>
                                     <div class="item">
-                                        <div class="video-img-container video-img-container-home">
+                                        <!-- <div class="video-img-container video-img-container-home">
                                             <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                                 class="img-fluid owl-lazy lazyloaded" width="auto" height="auto"
                                                 data-lazy-src="https://img.youtube.com/vi/idhxz8tWyF4/mqdefault.jpg"><noscript><img
@@ -981,31 +926,30 @@
                                                 class="video-btn fancy-box-tag vdo-testi-play-icon">
                                                 <i class="fa fa-play"></i>
                                             </a>
-                                        </div>
+                                        </div> -->
                                         <div
                                             class="video-testimonial-meta video-testimonial-meta-home collection-special-features-title">
                                             <div class="vdo-testimonial-content">
                                                 <blockquote class="client-testimonial-quote"> <span
                                                         class="quote-mark">&ldquo;</span> <span>
                                                         Our experience with CreativeWalls was fantastic! They got what we
-                                                        wanted, giving our home the perfect look. Their Anna Salai
+                                                        wanted, giving our home the perfect look. Their Office
                                                         Experience Center has amazing modular designs, 20% more space,
                                                         and a 10-year warranty. </span></blockquote>
                                             </div>
-                                            <div class="vdo-testimonial-title">Shanthanu Bhagyaraj &#038; Keerthi</div>
+                                            <div class="vdo-testimonial-title">Chetan Kulkarni</div>
                                             <p class="vdo-testimonial-meta-city">
-                                                3 BHK, Nungambakkam,
-                                                Chennai </p>
+                                                Office, Pune </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="testi-home-btn-wrap">
+                            <!-- <div class="testi-home-btn-wrap">
                                 <div class="collection-home-cta-btn new-cta-color-arrow">
                                     <a href="<?php echo base_url(''); ?>">View All Customer Reviews <i
                                             class="fa fa-angle-right" aria-hidden="true"></i></a>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -1027,7 +971,7 @@
                         <div class="col-lg-4">
                             <div class="row our-suppliers-para-main-inner">
                                 <p>We use carefully screened, reputable suppliers for materials and fittings. They must
-                                    meet our quality standards to be included in a DC home.</p>
+                                    meet our quality standards to be included in a CW home.</p>
                             </div>
                         </div>
                         <div class="col-lg-8">
@@ -1035,7 +979,7 @@
                                 <div class="col-lg-4 col-md-6 col-6">
                                     <div class="our-suppliers-logo-main">
                                         <img class="center-block img-fluid lazyloaded"
-                                            alt="Best home interior design firm in Bangalore, Mumbai and Hyderabad."
+                                            alt="Best home interior design firm in Pune, Mumbai."
                                             src="<?php echo base_url(); ?>assets/uploads/2019/12/17055041/hettich-india-kitchen-hinges-cutlery-tray-hardware-tandem-box-150x150.png"
                                             width="auto" height="auto">
                                     </div>
@@ -1051,7 +995,7 @@
                                 <div class="col-lg-4 col-md-6 col-6">
                                     <div class="our-suppliers-logo-main">
                                         <img class="center-block img-fluid lazyloaded"
-                                            alt="Best home interior designers in hyderabad."
+                                            alt="Best home interior designers in  Nagpur ."
                                             src="<?php echo base_url(); ?>assets/uploads/2019/12/17055041/rehau-polymers-edge-banding-upvc-rolling-shutter-windows-150x150.png"
                                             width="auto" height="auto">
                                     </div>
@@ -1059,7 +1003,7 @@
                                 <div class="col-lg-4 col-md-6 col-6">
                                     <div class="our-suppliers-logo-main">
                                         <img class="center-block img-fluid lazyloaded"
-                                            alt="Best home interior designers in hyderabad"
+                                            alt="Best home interior designers in Nagpur"
                                             src="<?php echo base_url(); ?>assets/uploads/2019/12/17055041/kessebohmer-clever-kitchen-storage-solutions-india-150x150.png"
                                             width="auto" height="auto">
                                     </div>
@@ -1075,7 +1019,7 @@
                                 <div class="col-lg-4 col-md-6 col-6">
                                     <div class="our-suppliers-logo-main">
                                         <img class="center-block img-fluid lazyloaded"
-                                            alt="Best home interior designers in hyderabad."
+                                            alt="Best home interior designers in Nagpur."
                                             src="<?php echo base_url(); ?>assets/uploads/2019/12/17055041/faber-kitchen-chimney-hob-gas-stove-cooktop-supplier-150x150.png"
                                             width="auto" height="auto">
                                     </div>
@@ -1105,7 +1049,7 @@
                                 art deco, traditional &#8211; do you get lost with these terms? Or perhaps you know what
                                 you want, but don’t know how to get there?</p>
                             <p>&nbsp;</p>
-                            <p>That is why we have a team of <b>400+ designers </b>to advise customers.</p>
+                            <p>That is why we have a team of <b>100+ designers </b>to advise customers.</p>
                             <div class="meet-mumbai-designer-know-more-button">
                                 <a class="common-link-button " data-toggle="modal" href="#contactUsModal">Talk To Us
                                     Today!</a>
@@ -1114,7 +1058,7 @@
                         <div class="col-lg-7">
                             <div class="meet-designer-img">
                                 <img class="img-fluid lazyloaded"
-                                    alt="Best interior designers in Bangalore, Mysore, Mumbai, Pune, Hyderabad, Chennai and Kolkata for home interior designs."
+                                    alt="Best interior designers in Pune, Mumbai, Pune, Hyderabad for home interior designs."
                                     src="<?php echo base_url(); ?>assets/uploads/2023/01/03120622/top-10-best-interior-designers-bangalore-mumbai-hyderabad-india-690x380.webp">
                             </div>
                         </div>
@@ -1900,7 +1844,7 @@
                                         <div class="col-lg-6 col-md-6">
                                             <div class="location-right-section">
                                                 <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, MG Road, Bengaluru</h3>
+                                                    <h3>CreativeWalls Experience Centre, MG Road, Pune</h3>
                                                     <p>Visit us to experience</p>
                                                     <ul>
                                                         <li>11 Kitchen Concepts</li>
@@ -1965,11 +1909,11 @@
 
                                                     <div class="slider-box">
                                                         <img class="img-fluid lazyloaded"
-                                                            alt="Home interior designers in Bengaluru"
+                                                            alt="Home interior designers in Pune"
                                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                                             data-lazy-src="<?php echo base_url(); ?>assets/uploads/2021/03/30153426/2bhk-home-interior-designers-whitefield-bangalore.jpg"><noscript><img
                                                                 class="img-fluid lazyloaded"
-                                                                alt="Home interior designers in Bengaluru"
+                                                                alt="Home interior designers in Pune"
                                                                 src="<?php echo base_url(); ?>assets/uploads/2021/03/30153426/2bhk-home-interior-designers-whitefield-bangalore.jpg"></noscript>
                                                     </div>
 
@@ -1984,7 +1928,7 @@
                                                 <!-- <a href="/experience-centre/"> -->
 
                                                 <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, Whitefield, Bengaluru</h3>
+                                                    <h3>CreativeWalls Experience Centre, Whitefield, Pune</h3>
                                                     <p>Visit us to experience</p>
                                                     <ul>
                                                         <li>7 Kitchen Concepts</li>
@@ -2069,7 +2013,7 @@
                                                 <!-- <a href="/experience-centre/"> -->
 
                                                 <div class="location-right-desc">
-                                                    <h3>CreativeWalls Experience Centre, HSR Layout, Bengaluru</h3>
+                                                    <h3>CreativeWalls Experience Centre, HSR Layout, Pune</h3>
                                                     <p>Visit us to experience</p>
                                                     <ul>
                                                         <li>7 Kitchen Concepts</li>
@@ -2711,7 +2655,7 @@
                         <div class="col-lg-7 inner-main-sec-wrap remove-side-padding">
                             <div class="what-make-us-left-section">
                                 <h2 class="desktop-founder-title">Founded By Architects </h2>
-                                <p>Having studied and worked as architects for 15 years, we founded CreativeWalls in 2015
+                                <p>Having studied and worked as architects for 5+ years, we founded CreativeWalls in 2019
                                     to extend the intelligent and beautiful home interior design to a wider range of
                                     budgets.</p>
                                 <p>Obsessively quality focused, we do most things in-house &#8211; with expert
@@ -2721,7 +2665,7 @@
                                     optimisation, to deliver up to 20% extra space to your home.</p>
                                 <p>Our key strengths include:</p>
                                 <ul>
-                                    <li> 400+ design alchemists</li>
+                                    <li> 100+ design alchemists</li>
                                     <li> Dedicated customer happiness managers</li>
                                     <li> Use of 3D and VR for rendering</li>
                                     <li> State-of-the-art factory</li>

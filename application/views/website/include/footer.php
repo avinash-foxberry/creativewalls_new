@@ -1,15 +1,3 @@
-    <script type="text/javascript">
-        document.addEventListener('wpcf7mailsent', function (e) {
-            if ('11466' == e.detail.contactFormId) {
-                webengage.track("Newsletter_Subscribed");
-                console.log('Newsletter_Subscribed');
-                webengage.user.setAttribute('we_email', e.detail.inputs[0].value);
-            } else {
-                webengage.track("Guides_PDF");
-            }
-        }, false);
-    </script>
-
     <script type="text/javascript" src="<?php echo base_url(); ?>assets/plugins/page-scroll-to-id/js/page-scroll-to-id.min.js"
         id="page-scroll-to-id-plugin-script-js"></script>
     <script type="text/javascript" id="rocket-browser-checker-js-after">
@@ -77,7 +65,7 @@
 		id="ajax-load-more-filters-js"></script>
 	<script type="text/javascript" id="ajax-load-more-js-extra">
 		/* <![CDATA[ */
-		var alm_localize = { "pluginurl": "<?php echo base_url(); ?>assets\/plugins\/ajax-load-more", "version": "7.1.2", "ajaxurl": "<?php echo base_url(); ?>assets\/admin-ajax.php", "alm_nonce": "36bcc1bb93", "rest_api_url": "", "rest_api": "https:\/\/www.designcafe.com\/wp-json\/", "rest_nonce": "772b13da8f", "trailing_slash": "true", "is_front_page": "false", "retain_querystring": "1", "speed": "250", "results_text": "Viewing {post_count} of {total_posts} results.", "no_results_text": "No results found.", "alm_debug": "", "a11y_focus": "1", "site_title": "DesignCafe", "site_tagline": "Complete Home Interiors | Best Home Interiors Company in Bangalore, Mumbai and Hyderabad", "button_label": "Load More" };
+		var alm_localize = { "pluginurl": "<?php echo base_url(); ?>assets\/plugins\/ajax-load-more", "version": "7.1.2", "ajaxurl": "<?php echo base_url(); ?>assets\/admin-ajax.php", "alm_nonce": "36bcc1bb93", "rest_api_url": "", "rest_api": "https:\/\/www.designcafe.com\/wp-json\/", "rest_nonce": "772b13da8f", "trailing_slash": "true", "is_front_page": "false", "retain_querystring": "1", "speed": "250", "results_text": "Viewing {post_count} of {total_posts} results.", "no_results_text": "No results found.", "alm_debug": "", "a11y_focus": "1", "site_title": "DesignCafe", "site_tagline": "Complete Home Interiors | Best Home Interiors Company in Pune, Mumbai and Nagpur", "button_label": "Load More" };
 		/* ]]> */
 	</script>
 	<script type="text/javascript" src="<?php echo base_url(); ?>assets/plugins/ajax-load-more/build/frontend/ajax-load-more.min.js"

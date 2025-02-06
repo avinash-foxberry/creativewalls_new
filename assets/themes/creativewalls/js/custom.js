@@ -2147,7 +2147,7 @@ jQuery(document).ready(function ($) {
         $(".city-img").attr("alt", "Home Interiors Vizag");
         $("#location-image-change").attr(
           "src",
-          "https://www.designcafe.com/wp-content/uploads/2023/07/Ahmedabad-Icon-Black.png"
+          "https://www.thecreativewalls.in/wp-content/uploads/2023/07/Ahmedabad-Icon-Black.png"
         );
       } else if (radioValue1 == "Kolkata") {
         $("#location-message-change").text(
@@ -2156,7 +2156,7 @@ jQuery(document).ready(function ($) {
         $(".city-img").attr("alt", "Home Interiors Vizag");
         $("#location-image-change").attr(
           "src",
-          "https://www.designcafe.com/wp-content/uploads/2023/07/Kolkata-Icon-Black.png"
+          "https://www.thecreativewalls.in/wp-content/uploads/2023/07/Kolkata-Icon-Black.png"
         );
       } else if (radioValue1 == "Surat") {
         $("#location-message-change").text("Where heritage meets innovation!");

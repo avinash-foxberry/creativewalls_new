@@ -11,7 +11,7 @@
                         srcset="<?php echo base_url(); ?>assets/uploads/2023/07/logo.png 273w, <?php echo base_url(); ?>assets/uploads/2023/07/logo.png 150w"
                         sizes="(max-width: 273px) 100vw, 273px"></a> <!-- end custom logo -->
                 <!-- Collapse button -->
-                <div id="openbtn1" class="open-btn1"><a href="index-1.htm?s="><i class="fa fa-search"
+                <div id="openbtn1" class="open-btn1"><a href="<?php echo base_url(); ?>?s="><i class="fa fa-search"
                             aria-hidden="true"></i></a></div>
 
                 <!-- Mobile Toggle New design -->

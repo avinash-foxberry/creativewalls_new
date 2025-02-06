@@ -66,7 +66,7 @@ jQuery(".open-btn1").click(function() {
                     <style></style>
                     <style type="text/css"></style>
                     <div id="ajax-load-more" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -154,7 +154,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-2" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -242,7 +242,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-3" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -344,7 +344,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-4" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -446,7 +446,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-5" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -544,7 +544,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-6" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -644,7 +644,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-7" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -744,7 +744,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-8" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -840,7 +840,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-9" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"
@@ -939,7 +939,7 @@ jQuery(".open-btn1").click(function() {
                 <!--  -->
                 <div class="guide_category_listing-more guide-page">
                     <div id="ajax-load-more-10" class="ajax-load-more-wrap default alm-layouts" data-id="9463381164"
-                        data-alm-id="" data-canonical-url="https://www.designcafe.com/guides/" data-slug="guides"
+                        data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/guides/" data-slug="guides"
                         data-post-id="1383" data-localized="ajax_load_more_9463381164_vars"
                         data-alm-object="ajax_load_more_9463381164">
                         <div aria-live="polite" aria-atomic="true"

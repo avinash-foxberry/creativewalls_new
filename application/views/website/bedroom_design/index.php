@@ -97,7 +97,7 @@ jQuery(".open-btn1").click(function() {
         <style></style>
         <style type="text/css"></style>
         <div id="ajax-load-more" class="ajax-load-more-wrap infinite classic alm-layouts" data-id="9463381164"
-            data-alm-id="" data-canonical-url="https://www.designcafe.com/interior-design/bedroom-design/"
+            data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/interior-design/bedroom-design/"
             data-slug="bedroom-design" data-post-id="8" data-localized="ajax_load_more_9463381164_vars"
             data-alm-object="ajax_load_more_9463381164">
             <div aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax collection-category-load-more"

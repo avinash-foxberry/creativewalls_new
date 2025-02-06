@@ -18,15 +18,6 @@ class Contact {
 		$check = $ci->db->insert('enquiry_forms',$array);
 		return $ci->db->insert_id();
 	}
-	// to save enquiries in google_link table
-	public function saveGoogleLinkEnquiry($array) {
-        $ci =& get_instance();
-        $ci->load->database();
-
-        // Save Record In Google Link Table
-        $check = $ci->db->insert('google_link', $array); 																																													
-        return $ci->db->insert_id();
-    }
 
 	function saveUserData($array){
 		$ci =& get_instance();
@@ -35,41 +26,6 @@ class Contact {
 		$check = $ci->db->insert('users',$array);
 		return $ci->db->insert_id();
 	}
-
-	function saveUserBatchData($array){
-		$ci =& get_instance();
-		$ci->load->database();
-		// Save Record In Database
-		$check = $ci->db->insert('batches',$array);
-		return $ci->db->insert_id();
-	}
-
-	function saveUserBatchDataBase($array){
-		$ci =& get_instance();
-		$ci->load->database();
-		// Save Record In Database
-		$check = $ci->db->insert('userBatches',$array);
-		return $ci->db->insert_id();
-	}
-	
-	function saveWebinarData($array){
-		$ci =& get_instance();
-		$ci->load->database();
-		// Save Record In Database
-		$check = $ci->db->insert('webinars',$array);
-		return $ci->db->insert_id();
-	}
-
-	function saveGoogleEnquiry($array){
-		$ci =& get_instance();
-		$ci->load->database();
-		// Save Record In Database
-		$check = $ci->db->insert('google_link',$array);
-		return $ci->db->insert_id();
-	}
-
-
-	
 
 
 

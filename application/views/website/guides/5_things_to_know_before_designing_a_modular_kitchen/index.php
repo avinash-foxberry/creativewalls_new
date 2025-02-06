@@ -16066,7 +16066,7 @@
                             <style type="text/css"></style>
                             <div id="ajax-load-more" class="ajax-load-more-wrap default alm-layouts" data-id="946338132"
                                 data-alm-id=""
-                                data-canonical-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                data-canonical-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                 data-slug="5-things-to-know-before-designing-a-modular-kitchen" data-post-id="7424"
                                 data-localized="ajax_load_more_946338132_vars"
                                 data-alm-object="ajax_load_more_946338132">
@@ -16084,7 +16084,7 @@
                                     data-pause-override="false" data-button-label="Load more"
                                     data-button-loading-label="Loading more" data-images-loaded="true">
                                     <div class="alm-single-post post-7424"
-                                        data-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                        data-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                         data-title="5 Things To Know Before Designing A Modular Kitchen" data-id="7424"
                                         data-page="0">
                                         <div class="guide-section-1">
@@ -16124,7 +16124,7 @@
                                                         src="../../wp-content/uploads/2020/04/21015251/slab-storage-unit-cooking-range-modular-kitchen-design.jpg"
                                                         alt="Modular kitchen cabinet in red and grey colour" width="800"
                                                         height="533" data-jpibfi-post-excerpt=""
-                                                        data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                        data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                         data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                         data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015251/slab-storage-unit-cooking-range-modular-kitchen-design.jpg"
                                                         srcset="../../wp-content/uploads/2020/04/21015251/slab-storage-unit-cooking-range-modular-kitchen-design.jpg 800w, ../../wp-content/uploads/2020/04/21015251/slab-storage-unit-cooking-range-modular-kitchen-design-300x200.jpg 300w, ../../wp-content/uploads/2020/04/21015251/slab-storage-unit-cooking-range-modular-kitchen-design-768x512.jpg 768w, ../../wp-content/uploads/2020/04/21015251/slab-storage-unit-cooking-range-modular-kitchen-design-150x100.jpg 150w"
@@ -16142,7 +16142,7 @@
                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20533'%3E%3C/svg%3E"
                                                         alt="Modular kitchen materials are to make life simple with low-maintenance."
                                                         width="800" height="533" data-jpibfi-post-excerpt=""
-                                                        data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                        data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                         data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                         data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials.jpg"
                                                         data-lazy-srcset="https://media.designcafe.com/wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials.jpg 800w, https://media.designcafe.com/wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials-300x200.jpg 300w, https://media.designcafe.com/wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials-768x512.jpg 768w, https://media.designcafe.com/wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials-150x100.jpg 150w"
@@ -16152,7 +16152,7 @@
                                                             src="../../wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials.jpg"
                                                             alt="Modular kitchen materials are to make life simple with low-maintenance."
                                                             width="800" height="533" data-jpibfi-post-excerpt=""
-                                                            data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                            data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                             data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                             data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials.jpg"
                                                             srcset="../../wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials.jpg 800w, ../../wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials-300x200.jpg 300w, ../../wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials-768x512.jpg 768w, ../../wp-content/uploads/2020/04/21015234/low-maintance-modular-kitchen-materials-150x100.jpg 150w"
@@ -16174,7 +16174,7 @@
                                                                     class="custom-control-input custom-select-qa"
                                                                     id="customRadio17424" name="qa-1"
                                                                     data-content="Great! Check Out These Amazing Kids Bedroom Ideas For Your Little One"
-                                                                    data-link="https://www.designcafe.com/blog/kids-bedroom-interiors/">
+                                                                    data-link="https://www.thecreativewalls.in/blog/kids-bedroom-interiors/">
                                                                 <label class="custom-control-label"
                                                                     for="customRadio17424">Yes</label>
                                                             </div>
@@ -16184,7 +16184,7 @@
                                                                     class="custom-control-input custom-select-qa"
                                                                     id="customRadio27424" name="qa-1"
                                                                     data-content="Explore These Home Office Design Ideas For Your Home"
-                                                                    data-link="https://www.designcafe.com/blog/home-interiors/home-office-design-ideas/">
+                                                                    data-link="https://www.thecreativewalls.in/blog/home-interiors/home-office-design-ideas/">
                                                                 <label class="custom-control-label"
                                                                     for="customRadio27424">No</label>
                                                             </div>
@@ -16194,7 +16194,7 @@
                                                                     class="custom-control-input custom-select-qa"
                                                                     id="customRadio37424" name="qa-1"
                                                                     data-content="Awesome! Check Out These Playful Nursery Ideas"
-                                                                    data-link="https://www.designcafe.com/blog/home-interiors/nursery-design-ideas/">
+                                                                    data-link="https://www.thecreativewalls.in/blog/home-interiors/nursery-design-ideas/">
                                                                 <label class="custom-control-label"
                                                                     for="customRadio37424">Planning A Family</label>
                                                             </div>
@@ -16228,7 +16228,7 @@
                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20533'%3E%3C/svg%3E"
                                                         alt="L-shaped modular kitchen design: perfect for small and medium-sized spaces."
                                                         width="800" height="533" data-jpibfi-post-excerpt=""
-                                                        data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                        data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                         data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                         data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home.jpg"
                                                         data-lazy-srcset="https://media.designcafe.com/wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home.jpg 800w, https://media.designcafe.com/wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home-300x200.jpg 300w, https://media.designcafe.com/wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home-768x512.jpg 768w, https://media.designcafe.com/wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home-150x100.jpg 150w"
@@ -16238,7 +16238,7 @@
                                                             src="../../wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home.jpg"
                                                             alt="L-shaped modular kitchen design: perfect for small and medium-sized spaces."
                                                             width="800" height="533" data-jpibfi-post-excerpt=""
-                                                            data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                            data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                             data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                             data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home.jpg"
                                                             srcset="../../wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home.jpg 800w, ../../wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home-300x200.jpg 300w, ../../wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home-768x512.jpg 768w, ../../wp-content/uploads/2020/04/21015239/l-shaped-modular-kitchen-for-your-home-150x100.jpg 150w"
@@ -16247,7 +16247,7 @@
                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201039%202560'%3E%3C/svg%3E"
                                                         alt="The future of kitchen design: modular solutions"
                                                         width="1039" height="2560" data-jpibfi-post-excerpt=""
-                                                        data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                        data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                         data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                         data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-scaled.jpg"
                                                         data-lazy-srcset="https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-scaled.jpg 1039w, https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-122x300.jpg 122w, https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-416x1024.jpg 416w, https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-768x1892.jpg 768w, https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-624x1536.jpg 624w, https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-831x2048.jpg 831w, https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-150x369.jpg 150w"
@@ -16258,7 +16258,7 @@
                                                             src="../../wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-scaled.jpg"
                                                             alt="The future of kitchen design: modular solutions"
                                                             width="1039" height="2560" data-jpibfi-post-excerpt=""
-                                                            data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                            data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                             data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                             data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-scaled.jpg"
                                                             srcset="../../wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-scaled.jpg 1039w, ../../wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-122x300.jpg 122w, ../../wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-416x1024.jpg 416w, ../../wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-768x1892.jpg 768w, ../../wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-624x1536.jpg 624w, ../../wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-831x2048.jpg 831w, ../../wp-content/uploads/2020/03/15170220/seven-creative-modular-kitchen-solutions-for-your-home-150x369.jpg 150w"
@@ -16276,7 +16276,7 @@
                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20533'%3E%3C/svg%3E"
                                                         alt="Optimum use of space with smart kitchen storage options while designing a modular kitchen."
                                                         width="800" height="533" data-jpibfi-post-excerpt=""
-                                                        data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                        data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                         data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                         data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design.jpg"
                                                         data-lazy-srcset="https://media.designcafe.com/wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design.jpg 800w, https://media.designcafe.com/wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design-300x200.jpg 300w, https://media.designcafe.com/wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design-768x512.jpg 768w, https://media.designcafe.com/wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design-150x100.jpg 150w"
@@ -16286,7 +16286,7 @@
                                                             src="../../wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design.jpg"
                                                             alt="Optimum use of space with smart kitchen storage options while designing a modular kitchen."
                                                             width="800" height="533" data-jpibfi-post-excerpt=""
-                                                            data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                            data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                             data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                             data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design.jpg"
                                                             srcset="../../wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design.jpg 800w, ../../wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design-300x200.jpg 300w, ../../wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design-768x512.jpg 768w, ../../wp-content/uploads/2020/04/21015257/storage-option-in-modular-kitchen-design-150x100.jpg 150w"
@@ -16308,7 +16308,7 @@
                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20533'%3E%3C/svg%3E"
                                                         alt="Quality check, choosing the right kitchen materials and fittings on budget and requirements perfectly and durable too."
                                                         width="800" height="533" data-jpibfi-post-excerpt=""
-                                                        data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                        data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                         data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                         data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check.jpg"
                                                         data-lazy-srcset="https://media.designcafe.com/wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check.jpg 800w, https://media.designcafe.com/wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check-300x200.jpg 300w, https://media.designcafe.com/wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check-768x512.jpg 768w, https://media.designcafe.com/wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check-150x100.jpg 150w"
@@ -16318,7 +16318,7 @@
                                                             src="../../wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check.jpg"
                                                             alt="Quality check, choosing the right kitchen materials and fittings on budget and requirements perfectly and durable too."
                                                             width="800" height="533" data-jpibfi-post-excerpt=""
-                                                            data-jpibfi-post-url="https://www.designcafe.com/guides/5-things-to-know-before-designing-a-modular-kitchen/"
+                                                            data-jpibfi-post-url="https://www.thecreativewalls.in/guides/5-things-to-know-before-designing-a-modular-kitchen/"
                                                             data-jpibfi-post-title="5 Things To Know Before Designing A Modular Kitchen"
                                                             data-jpibfi-src="https://media.designcafe.com/wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check.jpg"
                                                             srcset="../../wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check.jpg 800w, ../../wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check-300x200.jpg 300w, ../../wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check-768x512.jpg 768w, ../../wp-content/uploads/2020/04/21015247/modular-kitchen-keep-the-quality-in-check-150x100.jpg 150w"

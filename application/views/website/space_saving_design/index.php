@@ -30,7 +30,7 @@
 <div class="col-lg-12">
     
 
-    <style></style><style type="text/css"></style><div id="ajax-load-more" class="ajax-load-more-wrap infinite classic alm-layouts" data-id="9463381164" data-alm-id="" data-canonical-url="https://www.designcafe.com/interior-design/space-saving-design/" data-slug="space-saving-design" data-post-id="155" data-localized="ajax_load_more_9463381164_vars" data-alm-object="ajax_load_more_9463381164"><div aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax collection-category-load-more" data-preloaded="true" data-preloaded-amount="8" data-container-type="div" data-loading-style="infinite classic" data-repeater="template_6" data-post-type="collection" data-taxonomy="collectioncategory" data-taxonomy-terms="space-saving-design" data-taxonomy-operator="IN" data-order="DESC" data-orderby="date" data-offset="0" data-posts-per-page="8" data-pause-override="true" data-button-label="Load More Space Saving Designs" data-button-loading-label="Loading More Space Saving Designs" data-images-loaded="true"><div id="9798" class="row collection-listing-section collection-detail-widget-wrap">
+    <style></style><style type="text/css"></style><div id="ajax-load-more" class="ajax-load-more-wrap infinite classic alm-layouts" data-id="9463381164" data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/interior-design/space-saving-design/" data-slug="space-saving-design" data-post-id="155" data-localized="ajax_load_more_9463381164_vars" data-alm-object="ajax_load_more_9463381164"><div aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax collection-category-load-more" data-preloaded="true" data-preloaded-amount="8" data-container-type="div" data-loading-style="infinite classic" data-repeater="template_6" data-post-type="collection" data-taxonomy="collectioncategory" data-taxonomy-terms="space-saving-design" data-taxonomy-operator="IN" data-order="DESC" data-orderby="date" data-offset="0" data-posts-per-page="8" data-pause-override="true" data-button-label="Load More Space Saving Designs" data-button-loading-label="Loading More Space Saving Designs" data-images-loaded="true"><div id="9798" class="row collection-listing-section collection-detail-widget-wrap">
 				<div class="container collection-slider-mb-new">
 					
 					<div class="row collection-row-slide-new collection-row-slide-new-cls">
@@ -963,7 +963,7 @@
 	<div class="why-choose-us-icon-list">
 	<div class="why-choose-us-icon-img">
 
-<img class="img-fluid rounded-circle" alt="Best home interior designs by design cafe with 20% extra space" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"><noscript><img class="img-fluid rounded-circle" alt="Best home interior designs by design cafe with 20% extra space" src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"></noscript>
+<img class="img-fluid rounded-circle" alt="Best home interior designs by Creative walls with 20% extra space" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"><noscript><img class="img-fluid rounded-circle" alt="Best home interior designs by Creative walls with 20% extra space" src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"></noscript>
 
 	</div>
 	<div class="why-choose-us-icon-text"><p>20% Extra Space</p></div>
@@ -976,7 +976,7 @@
 	<div class="why-choose-us-icon-list">
 	<div class="why-choose-us-icon-img">
 
-<img class="img-fluid rounded-circle" alt="Get 10 years warranty on your design cafe home interiors." src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"><noscript><img class="img-fluid rounded-circle" alt="Get 10 years warranty on your design cafe home interiors." src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"></noscript>
+<img class="img-fluid rounded-circle" alt="Get 10 years warranty on your Creative walls home interiors." src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"><noscript><img class="img-fluid rounded-circle" alt="Get 10 years warranty on your Creative walls home interiors." src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"></noscript>
 
 	</div>
 	<div class="why-choose-us-icon-text"><p>10 Year Warranty</p></div>
@@ -989,7 +989,7 @@
 	<div class="why-choose-us-icon-list">
 	<div class="why-choose-us-icon-img">
 
-<img class="img-fluid rounded-circle" alt="Design cafe home interiors are installed by professionals." src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132530/home-interior-installation-by-professions.png"><noscript><img class="img-fluid rounded-circle" alt="Design cafe home interiors are installed by professionals." src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132530/home-interior-installation-by-professions.png"></noscript>
+<img class="img-fluid rounded-circle" alt="Creative walls home interiors are installed by professionals." src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E" data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132530/home-interior-installation-by-professions.png"><noscript><img class="img-fluid rounded-circle" alt="Creative walls home interiors are installed by professionals." src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132530/home-interior-installation-by-professions.png"></noscript>
 
 	</div>
 	<div class="why-choose-us-icon-text"><p>Installation by Professionals</p></div>

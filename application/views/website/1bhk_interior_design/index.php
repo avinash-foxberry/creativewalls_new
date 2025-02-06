@@ -31,7 +31,7 @@ jQuery(".open-btn1").click(function() {
 
     <div class="col-lg-12">
         <div id="ajax-load-more" class="ajax-load-more-wrap infinite classic alm-layouts" data-id="9463381164"
-            data-alm-id="" data-canonical-url="https://www.designcafe.com/interior-design/1bhk-interior-design/"
+            data-alm-id="" data-canonical-url="https://www.thecreativewalls.in/interior-design/1bhk-interior-design/"
             data-slug="1bhk-interior-design" data-post-id="177" data-localized="ajax_load_more_9463381164_vars"
             data-alm-object="ajax_load_more_9463381164">
             <div aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax collection-category-load-more"
@@ -63,7 +63,6 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="A classy bedroom in 1 bhk home design with a bed and a small study nook gives the interior edge"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/29185604/classy-bedroom-in-1bhk-home-design.jpeg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/29185604/classy-bedroom-in-1bhk-home-design.jpeg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -81,7 +80,6 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Bedroom sliding wardrobe in 1 bhk interior designed with attached tv unit is a perfect example of multifunctional"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/29184513/bedroom-wardrobe-in-1bhk-interior-design-with-attached-tv-unit.jpeg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/29184513/bedroom-wardrobe-in-1bhk-interior-design-with-attached-tv-unit.jpeg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -99,7 +97,6 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Dining room 1 bhk home has a four-seater dining table and a crockery unit with concealed storage"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/29184534/dining-room-1bhk-home-with-crockery-unit.jpeg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/29184534/dining-room-1bhk-home-with-crockery-unit.jpeg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -117,7 +114,6 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk kitchen design in parallel layout comes with multiple overhead and base cabinets"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/29184500/1-bhk-kitchen-design-in-parallel-layout-with-cabinets.jpeg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/29184500/1-bhk-kitchen-design-in-parallel-layout-with-cabinets.jpeg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -135,7 +131,6 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Living room in 1 bhk interior design with sofa and coffee table look elegant"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/29184527/classy-living-room-in-1bhk-interior-design-with-sofa-and-coffee-table.jpeg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/29184527/classy-living-room-in-1bhk-interior-design-with-sofa-and-coffee-table.jpeg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -151,7 +146,6 @@ jQuery(".open-btn1").click(function() {
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/29190528/1-bhk-living-room-interior-comes-with-wall-mounted-tv-unit.jpeg">
                                                     <img class="img-fluid d-lg-none" alt=""
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/29190528/1-bhk-living-room-interior-comes-with-wall-mounted-tv-unit.jpeg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/29190528/1-bhk-living-room-interior-comes-with-wall-mounted-tv-unit.jpeg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -166,7 +160,6 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk bathroom design with wooden accents and marble wall tiles lends a soothing look"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/29184454/1-bhk-bathroom-design-with-wooden-accents-and-marble-wall-tiles.jpeg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/29184454/1-bhk-bathroom-design-with-wooden-accents-and-marble-wall-tiles.jpeg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -313,7 +306,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk bedroom designed with sliding door wardrobe and wall hanging lights give an elegant vibe"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/05170324/1-bhk-bedroom-designed-with-sliding-wardrobe-and-king-sized-bed.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/05170324/1-bhk-bedroom-designed-with-sliding-wardrobe-and-king-sized-bed.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/03/05170324/1-bhk-bedroom-designed-with-sliding-wardrobe-and-king-sized-bed.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -331,7 +324,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk flat tv unit and book cabinet in the bedroom"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/05170338/1-bhk-flat-tv-unit-and-book-cabinet-in-the-bedroom.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/05170338/1-bhk-flat-tv-unit-and-book-cabinet-in-the-bedroom.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/03/05170338/1-bhk-flat-tv-unit-and-book-cabinet-in-the-bedroom.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -349,7 +342,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk kitchen design in two-toned finishes with multiple pullout units"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/05170344/1-bhk-kitchen-designed-in-two-toned-finish-with-multiple-pullout-units.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/05170344/1-bhk-kitchen-designed-in-two-toned-finish-with-multiple-pullout-units.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/03/05170344/1-bhk-kitchen-designed-in-two-toned-finish-with-multiple-pullout-units.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -367,7 +360,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk flat dining space with a six-seater dining table and a crockery unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/05170331/1-bhk-flat-dining-space-with-a-six-seater-dining-table.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/05170331/1-bhk-flat-dining-space-with-a-six-seater-dining-table.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/03/05170331/1-bhk-flat-dining-space-with-a-six-seater-dining-table.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -385,7 +378,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk apartment living room has a sectional sofa, an entertainment cum study unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/05170308/1-bhk-apartment-living-room-with-an-entertainment-cum-study-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/05170308/1-bhk-apartment-living-room-with-an-entertainment-cum-study-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/03/05170308/1-bhk-apartment-living-room-with-an-entertainment-cum-study-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -403,7 +396,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk bathroom designed in a light colour palette to make the space look bigger"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/03/05171416/1-bhk-bathroom-designed-in-light-color-palette-with-glass-partition.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/03/05171416/1-bhk-bathroom-designed-in-light-color-palette-with-glass-partition.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/03/05171416/1-bhk-bathroom-designed-in-light-color-palette-with-glass-partition.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -544,7 +537,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Elegant living room design with cosy sofa in 1bhk apartment design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173404/elegant-living-room-design-with-cosy-sofa-in-1bhk-apartment-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173404/elegant-living-room-design-with-cosy-sofa-in-1bhk-apartment-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173404/elegant-living-room-design-with-cosy-sofa-in-1bhk-apartment-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -562,7 +555,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk apartment bedroom design with classy interiors"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173238/1bhk-apartment-bedroom-design-with-classy-interiors.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173238/1bhk-apartment-bedroom-design-with-classy-interiors.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173238/1bhk-apartment-bedroom-design-with-classy-interiors.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -580,7 +573,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk apartment design with wardrobe with sliding doors"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173259/1bhk-apartment-design-with-wardrobe-with-sliding-doors.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173259/1bhk-apartment-design-with-wardrobe-with-sliding-doors.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173259/1bhk-apartment-design-with-wardrobe-with-sliding-doors.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -598,7 +591,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk apartment designed with wooden partition"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173248/1bhk-apartment-designed-with-wooden-partition.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173248/1bhk-apartment-designed-with-wooden-partition.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173248/1bhk-apartment-designed-with-wooden-partition.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -616,7 +609,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk home foyer design with textured wallpaper and side cabinet with drawers for storage"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173319/1bhk-home-foyer-unit-with-textured-wallpaper-and-side-cabinet-with-drawers-for-storage.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173319/1bhk-home-foyer-unit-with-textured-wallpaper-and-side-cabinet-with-drawers-for-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173319/1bhk-home-foyer-unit-with-textured-wallpaper-and-side-cabinet-with-drawers-for-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -634,7 +627,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Sleek l shaped kitchen in 1 bhk house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173425/sleek-l-shaped-kitchen-in-1bhk-house-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173425/sleek-l-shaped-kitchen-in-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173425/sleek-l-shaped-kitchen-in-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -652,7 +645,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="L shaped modular kitchen designed by 1bhk home interior designers"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173415/l-shaped-modular-kitchen-in-1bhk-apartment-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173415/l-shaped-modular-kitchen-in-1bhk-apartment-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173415/l-shaped-modular-kitchen-in-1bhk-apartment-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -670,7 +663,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Dual colour tone kitchen designed in 1bhk apartment with hexagonal tiled backsplash"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173354/dual-colour-tone-kitchen-designed-in-1bhk-apartment-with-hexagonal-tiled-backsplash.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173354/dual-colour-tone-kitchen-designed-in-1bhk-apartment-with-hexagonal-tiled-backsplash.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173354/dual-colour-tone-kitchen-designed-in-1bhk-apartment-with-hexagonal-tiled-backsplash.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -688,7 +681,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Breakfast table with chairs between living room and kitchen in 1 bhk flat interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173345/breakfast-table-with-chairs-between-living-room-and-kitchen-in-1bhk-house.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173345/breakfast-table-with-chairs-between-living-room-and-kitchen-in-1bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173345/breakfast-table-with-chairs-between-living-room-and-kitchen-in-1bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -706,7 +699,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk house bathroom designed by best 1bhk apartment interior designers"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/03/06173331/bathroom-designed-by-best-1bhk-apartment-interior-designers.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/03/06173331/bathroom-designed-by-best-1bhk-apartment-interior-designers.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/03/06173331/bathroom-designed-by-best-1bhk-apartment-interior-designers.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -840,7 +833,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1bhk house living room designed with comfortable couch and tv unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135419/modern-1bhk-home-living-room-designed-with-comfortable-couch-and-tv-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135419/modern-1bhk-home-living-room-designed-with-comfortable-couch-and-tv-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135419/modern-1bhk-home-living-room-designed-with-comfortable-couch-and-tv-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -858,7 +851,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1 bhk home living room design with a tv unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135458/modern-1bhk-house-living-room-design-with-tv-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135458/modern-1bhk-house-living-room-design-with-tv-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135458/modern-1bhk-house-living-room-design-with-tv-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -876,7 +869,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1bhk home straight kitchen design with a muted colours and clean lines"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135426/modern-1-bhk-home-straight-kitchen-with-muted-colours-and-clean-lines.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135426/modern-1-bhk-home-straight-kitchen-with-muted-colours-and-clean-lines.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135426/modern-1-bhk-home-straight-kitchen-with-muted-colours-and-clean-lines.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -894,7 +887,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1bhk house interior design with a small breakfast table and chairs"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135451/modern-1bhk-house-design-with-small-breakfast-table-and-chairs.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135451/modern-1bhk-house-design-with-small-breakfast-table-and-chairs.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135451/modern-1bhk-house-design-with-small-breakfast-table-and-chairs.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -912,7 +905,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1bhk bedroom design with a false ceiling and queen size bed"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135412/modern-1bhk-bedroom-design-with-false-ceiling-and-queen-size-bed.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135412/modern-1bhk-bedroom-design-with-false-ceiling-and-queen-size-bed.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135412/modern-1bhk-bedroom-design-with-false-ceiling-and-queen-size-bed.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -930,7 +923,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1bhk house wardrobe design with muted colours and clean lines"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135504/modern-1bhk-house-wardrobe-design-with-muted-colours-and-clean-lines.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135504/modern-1bhk-house-wardrobe-design-with-muted-colours-and-clean-lines.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135504/modern-1bhk-house-wardrobe-design-with-muted-colours-and-clean-lines.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -948,7 +941,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1bhk house design with a beautiful foyer unit with textured wallpaper"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135445/modern-1bhk-house-design-with-beautiful-foyer-unit-with-textured-wallpaper.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135445/modern-1bhk-house-design-with-beautiful-foyer-unit-with-textured-wallpaper.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135445/modern-1bhk-house-design-with-beautiful-foyer-unit-with-textured-wallpaper.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -966,7 +959,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1bhk house bathroom design with white and grey tiles and marble flooring"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135438/modern-1bhk-house-bathroom-design-with-white-and-grey-tiles-and-marble-flooring.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135438/modern-1bhk-house-bathroom-design-with-white-and-grey-tiles-and-marble-flooring.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135438/modern-1bhk-house-bathroom-design-with-white-and-grey-tiles-and-marble-flooring.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -984,7 +977,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk house bathroom with modern vanity unit and inbuilt sink provides ample storage"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135405/1bhk-house-bathroom-with-modern-vanity-unit-and-inbuilt-sink-provides-ample-storage.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135405/1bhk-house-bathroom-with-modern-vanity-unit-and-inbuilt-sink-provides-ample-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135405/1bhk-house-bathroom-with-modern-vanity-unit-and-inbuilt-sink-provides-ample-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1002,7 +995,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Modern 1bhk house balcony design with sliding glass door"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/06/30135433/modern-1bhk-house-balcony-design-with-sliding-glass-door.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/06/30135433/modern-1bhk-house-balcony-design-with-sliding-glass-door.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/06/30135433/modern-1bhk-house-balcony-design-with-sliding-glass-door.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1105,7 +1098,7 @@ jQuery(".open-btn1").click(function() {
                                         <img class="img-fluid rounded-circle"
                                             alt="Best home interior designs by design cafe with 20% extra space"
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"><noscript><img
+                                            data-lazy-src="<?php echo base_url(''); ?>/assetsuploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"><noscript><img
                                                 class="img-fluid rounded-circle"
                                                 alt="Best home interior designs by design cafe with 20% extra space"
                                                 src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132533/best-home-interiors-by-design-cafe.png"></noscript>
@@ -1126,7 +1119,7 @@ jQuery(".open-btn1").click(function() {
                                         <img class="img-fluid rounded-circle"
                                             alt="Get 10 years warranty on your design cafe home interiors."
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"><noscript><img
+                                            data-lazy-src="<?php echo base_url(''); ?>/assetsuploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"><noscript><img
                                                 class="img-fluid rounded-circle"
                                                 alt="Get 10 years warranty on your design cafe home interiors."
                                                 src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132535/10-years-warranty-best-quality-home-interiros.png"></noscript>
@@ -1147,7 +1140,7 @@ jQuery(".open-btn1").click(function() {
                                         <img class="img-fluid rounded-circle"
                                             alt="Design cafe home interiors are installed by professionals."
                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            data-lazy-src="https://media.designcafe.com/wp-content/uploads/2021/06/16132530/home-interior-installation-by-professions.png"><noscript><img
+                                            data-lazy-src="<?php echo base_url(''); ?>/assetsuploads/2021/06/16132530/home-interior-installation-by-professions.png"><noscript><img
                                                 class="img-fluid rounded-circle"
                                                 alt="Design cafe home interiors are installed by professionals."
                                                 src="<?php echo base_url(''); ?>/assets/uploads/2021/06/16132530/home-interior-installation-by-professions.png"></noscript>
@@ -1210,7 +1203,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk kitchen design with handleless cabinets, open shelves, in-built hob and chimney adds a modern look"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/11/26115936/1-bhk-kitchen-design-with-handleless-cabinets-open-shelves-in-built-hob-and-chimney.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/11/26115936/1-bhk-kitchen-design-with-handleless-cabinets-open-shelves-in-built-hob-and-chimney.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/11/26115936/1-bhk-kitchen-design-with-handleless-cabinets-open-shelves-in-built-hob-and-chimney.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1228,7 +1221,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="One bhk interior kitchen cum dining space with four-seater wooden dining table to add a subtle Scandinavian look"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/11/26115930/1-bhk-interior-kitchen-cum-dining-space.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/11/26115930/1-bhk-interior-kitchen-cum-dining-space.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/11/26115930/1-bhk-interior-kitchen-cum-dining-space.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1246,7 +1239,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Entryway in 1 bhk house designed with a wooden foyer unit with multiple drawers matches the design scheme"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/11/26121641/entryway-in-1-bhk-house-designed-with-a-wooden-foyer-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/11/26121641/entryway-in-1-bhk-house-designed-with-a-wooden-foyer-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/11/26121641/entryway-in-1-bhk-house-designed-with-a-wooden-foyer-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1264,7 +1257,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="A living room in a 1 bhk home with a low-lying cabinet, a unit with open shelves, and wallpaper accentuate the area's beauty"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/11/26115958/living-room-designed-in-1-bhk-home-with-tv-unit-with-low-lying-cabinet.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/11/26115958/living-room-designed-in-1-bhk-home-with-tv-unit-with-low-lying-cabinet.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/11/26115958/living-room-designed-in-1-bhk-home-with-tv-unit-with-low-lying-cabinet.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1282,7 +1275,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Living room design with sofa and false ceiling with cove lights in 1 bhk flat lends a luxurious vibe to the space"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/11/26120004/living-room-design-with-sofa-and-false-ceiling-in-1-bhk-flat.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/11/26120004/living-room-design-with-sofa-and-false-ceiling-in-1-bhk-flat.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/11/26120004/living-room-design-with-sofa-and-false-ceiling-in-1-bhk-flat.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1300,7 +1293,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="A floor-to-ceiling wardrobe in the wooden finish in 1bhk interior brings a clean look and ample storage space"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/11/26115947/floor-to-ceiling-wardrobe-in-wooden-finish-in-1-bhk-interior.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/11/26115947/floor-to-ceiling-wardrobe-in-wooden-finish-in-1-bhk-interior.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/11/26115947/floor-to-ceiling-wardrobe-in-wooden-finish-in-1-bhk-interior.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1318,7 +1311,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk bedroom features a geometric wallpaper and bed with cushioned headboard in 1 bhk flat design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/11/26115941/bedroom-with-a-geometric-wallpaper-and-bed-with-cushioned-headboard-in-1-bhk-flat-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/11/26115941/bedroom-with-a-geometric-wallpaper-and-bed-with-cushioned-headboard-in-1-bhk-flat-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/11/26115941/bedroom-with-a-geometric-wallpaper-and-bed-with-cushioned-headboard-in-1-bhk-flat-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1472,7 +1465,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Living room home interior for 1bhk flat is designed in sandstone wallpaper and brick cladding wall; the sofa unit and a bean bag"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102635/living-room-home-interior-for-1bhk-flat-is-designed-in-sandstone-wallpaper-and-brick-cladding-wall-the-sofa-unit-and-a-bean-bag.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102635/living-room-home-interior-for-1bhk-flat-is-designed-in-sandstone-wallpaper-and-brick-cladding-wall-the-sofa-unit-and-a-bean-bag.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102635/living-room-home-interior-for-1bhk-flat-is-designed-in-sandstone-wallpaper-and-brick-cladding-wall-the-sofa-unit-and-a-bean-bag.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1490,7 +1483,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="An entertainment unit with an LED-backlit wall panel and a low lying cabinet for 1bhk flat interior design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102618/an-entertainment-unit-with-an-led-backlit-wall-panel-and-a-low-lying-cabinet-for-1bhk-flat-interior-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102618/an-entertainment-unit-with-an-led-backlit-wall-panel-and-a-low-lying-cabinet-for-1bhk-flat-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102618/an-entertainment-unit-with-an-led-backlit-wall-panel-and-a-low-lying-cabinet-for-1bhk-flat-interior-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1508,7 +1501,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="A foyer unit for 1bhk interior design ideas with a pullout seater and multiple storage units to keep your shoes organised"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102604/a-foyer-unit-for-1bhk-interior-design-ideas-with-a-pullout-seater-and-multiple-storage-units-to-keep-your-shoes-organised.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102604/a-foyer-unit-for-1bhk-interior-design-ideas-with-a-pullout-seater-and-multiple-storage-units-to-keep-your-shoes-organised.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102604/a-foyer-unit-for-1bhk-interior-design-ideas-with-a-pullout-seater-and-multiple-storage-units-to-keep-your-shoes-organised.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1526,7 +1519,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Best interior design for 1bhk flat where the dining room is sperated with a white partition and is designed with two chairs and a bench"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102630/best-interior-design-for-1bhk-flat-where-the-dining-room-is-sperated-with-a-white-partition-and-is-designed-with-two-chairs-and-a-bench.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102630/best-interior-design-for-1bhk-flat-where-the-dining-room-is-sperated-with-a-white-partition-and-is-designed-with-two-chairs-and-a-bench.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102630/best-interior-design-for-1bhk-flat-where-the-dining-room-is-sperated-with-a-white-partition-and-is-designed-with-two-chairs-and-a-bench.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1544,7 +1537,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="A small vanity unit in a 1bhk design with a floating shelf, a round mirror and a sink fit in the compact space"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102624/a-small-vanity-unit-in-a-1bhk-design-with-a-floating-shelf-a-round-mirror-and-a-sink-fit-in-the-compact-space.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102624/a-small-vanity-unit-in-a-1bhk-design-with-a-floating-shelf-a-round-mirror-and-a-sink-fit-in-the-compact-space.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102624/a-small-vanity-unit-in-a-1bhk-design-with-a-floating-shelf-a-round-mirror-and-a-sink-fit-in-the-compact-space.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1562,7 +1555,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="A modular kitchen designed with wood finished laminated cabinets, an appliance garage in a 1bhk flat design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102611/a-modular-kitchen-designed-with-wood-finished-laminated-cabinets-an-appliance-garage-in-a-1bhk-flat-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102611/a-modular-kitchen-designed-with-wood-finished-laminated-cabinets-an-appliance-garage-in-a-1bhk-flat-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102611/a-modular-kitchen-designed-with-wood-finished-laminated-cabinets-an-appliance-garage-in-a-1bhk-flat-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1580,7 +1573,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="The LED-lit shelves with glass shutters help keep your spice bottles and other kitchen essentials in a 1bhk house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102641/the-led-lit-shelves-with-glass-shutters-help-keep-your-spice-bottles-and-other-kitchen-essentials-in-a-1bhk-house-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102641/the-led-lit-shelves-with-glass-shutters-help-keep-your-spice-bottles-and-other-kitchen-essentials-in-a-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102641/the-led-lit-shelves-with-glass-shutters-help-keep-your-spice-bottles-and-other-kitchen-essentials-in-a-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1598,7 +1591,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk interior design ideas for bedroom is designed with sandstone wallpaper, a bed and two side tables with storage"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102558/1bhk-interior-design-ideas-for-bedroom-is-designed-with-sandstone-wallpaper-a-bed-and-two-side-tables-with-storage.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102558/1bhk-interior-design-ideas-for-bedroom-is-designed-with-sandstone-wallpaper-a-bed-and-two-side-tables-with-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102558/1bhk-interior-design-ideas-for-bedroom-is-designed-with-sandstone-wallpaper-a-bed-and-two-side-tables-with-storage.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1616,7 +1609,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="The wardrobe comes with a loft area in a 1bhk room design, modular storage units and an attached dresser"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102650/the-wardrobe-comes-with-a-loft-area-in-a-1bhk-room-design-modular-storage-units-and-an-attached-dresser.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102650/the-wardrobe-comes-with-a-loft-area-in-a-1bhk-room-design-modular-storage-units-and-an-attached-dresser.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102650/the-wardrobe-comes-with-a-loft-area-in-a-1bhk-room-design-modular-storage-units-and-an-attached-dresser.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1634,7 +1627,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk flat interior design with a vanity unit has drawers, open shelves and a space to fit your laundry unit"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2022/04/10102551/1bhk-flat-interior-design-with-a-vanity-unit-has-drawers-open-shelves-and-a-space-to-fit-your-laundry-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2022/04/10102551/1bhk-flat-interior-design-with-a-vanity-unit-has-drawers-open-shelves-and-a-space-to-fit-your-laundry-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2022/04/10102551/1bhk-flat-interior-design-with-a-vanity-unit-has-drawers-open-shelves-and-a-space-to-fit-your-laundry-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1798,7 +1791,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk flat bedroom designed with a bed, modular sliding wardrobe and wooden flooring"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152811/1-bhk-flat-bedroom-with-sliding-wardrobe-and-wooden-flooring.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152811/1-bhk-flat-bedroom-with-sliding-wardrobe-and-wooden-flooring.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152811/1-bhk-flat-bedroom-with-sliding-wardrobe-and-wooden-flooring.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1816,7 +1809,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk bedroom design with floating tv unit and dressing unit lends a minimalistic look."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152832/1-bhk-interior-design-bedroom-with-tv-unit-and-dressing-unit.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152832/1-bhk-interior-design-bedroom-with-tv-unit-and-dressing-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152832/1-bhk-interior-design-bedroom-with-tv-unit-and-dressing-unit.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1834,7 +1827,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk home design, bedroom wardrobe has a modular sliding wardrobe with frosted glass front."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152821/1-bhk-home-design-bedroom-with-sliding-wardrobe-with-frosted-glass.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152821/1-bhk-home-design-bedroom-with-sliding-wardrobe-with-frosted-glass.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152821/1-bhk-home-design-bedroom-with-sliding-wardrobe-with-frosted-glass.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1852,7 +1845,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk apartment bathroom has a vanity unit, open shelves, and space for the washing machine."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152800/1-bhk-apartment-bathroom-with-open-shelves-and-space-for-washing-machine.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152800/1-bhk-apartment-bathroom-with-open-shelves-and-space-for-washing-machine.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152800/1-bhk-apartment-bathroom-with-open-shelves-and-space-for-washing-machine.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1870,7 +1863,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk bathroom design with beige wall tiles and stone cladding walls, creating a striking contrast."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152806/1-bhk-bathroom-design-with-wall-tiles-and-stone-cladding.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152806/1-bhk-bathroom-design-with-wall-tiles-and-stone-cladding.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152806/1-bhk-bathroom-design-with-wall-tiles-and-stone-cladding.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1888,7 +1881,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk interior dining room design with glass top table, four yellow cushioned chairs and bookshelf lends a sleek look."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152837/1-bhk-interior-dining-room-with-glass-top-table-and-four-chairs.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152837/1-bhk-interior-dining-room-with-glass-top-table-and-four-chairs.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152837/1-bhk-interior-dining-room-with-glass-top-table-and-four-chairs.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1906,7 +1899,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk home foyer area with drawers and seater designed in minimalistic and looks gorgeous."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152827/1-bhk-home-foyer-area-with-drawers-and-seater.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152827/1-bhk-home-foyer-area-with-drawers-and-seater.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152827/1-bhk-home-foyer-area-with-drawers-and-seater.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1924,7 +1917,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Open 1 bhk kitchen design with small breakfast counter with two tall chairs brings elegant look."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152843/open-1-bhk-kitchen-design-with-breakfast-counter-and-two-chairs.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152843/open-1-bhk-kitchen-design-with-breakfast-counter-and-two-chairs.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152843/open-1-bhk-kitchen-design-with-breakfast-counter-and-two-chairs.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1942,7 +1935,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Small 1 bhk kitchen design with overhead cabinets and base cabinets to keep all kitchen essentials looks clutter-free."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152848/small-1-bhk-kitchen-design-with-overhead-cabinets-and-base-cabinets.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152848/small-1-bhk-kitchen-design-with-overhead-cabinets-and-base-cabinets.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152848/small-1-bhk-kitchen-design-with-overhead-cabinets-and-base-cabinets.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -1960,7 +1953,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1 bhk flat living room designed with a brick cladding wall, a TV unit, and a small study nook looks classy."
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/08/27152816/1-bhk-flat-living-room-has-brick-cladding-wall-and-small-study-nook.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/08/27152816/1-bhk-flat-living-room-has-brick-cladding-wall-and-small-study-nook.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/08/27152816/1-bhk-flat-living-room-has-brick-cladding-wall-and-small-study-nook.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -2113,7 +2106,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Spacious 1 bhk home design with neutral tones and minimal furniture"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183521/spacious-1-bhk-home-design-with-neutral-tones-and-minimal-furniture.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/04/06183521/spacious-1-bhk-home-design-with-neutral-tones-and-minimal-furniture.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/04/06183521/spacious-1-bhk-home-design-with-neutral-tones-and-minimal-furniture.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -2131,7 +2124,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="U shaped modular kitchen design in 1bhk house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183531/u-shaped-modular-kitchen-design-in-1bhk-house-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/04/06183531/u-shaped-modular-kitchen-design-in-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/04/06183531/u-shaped-modular-kitchen-design-in-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -2149,7 +2142,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk home interiors wit luxurious bedroom with wooden shelves and storage cabinets"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183441/1bhk-home-interiors-with-luxurious-bedroom-with-wooden-shelves-and-storage-cabinets.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/04/06183441/1bhk-home-interiors-with-luxurious-bedroom-with-wooden-shelves-and-storage-cabinets.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/04/06183441/1bhk-home-interiors-with-luxurious-bedroom-with-wooden-shelves-and-storage-cabinets.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -2167,7 +2160,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="White and dark wood laminate tv unit for 1bhk house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183540/white-and-dark-wood-laminate-tv-unit-for-1bhk-house-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/04/06183540/white-and-dark-wood-laminate-tv-unit-for-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/04/06183540/white-and-dark-wood-laminate-tv-unit-for-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -2185,7 +2178,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Open set of shelves to display books and decor items in 1bhk house"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183511/open-set-of-shelves-to-display-books-and-decor-items-in-1bhk-house.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/04/06183511/open-set-of-shelves-to-display-books-and-decor-items-in-1bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/04/06183511/open-set-of-shelves-to-display-books-and-decor-items-in-1bhk-house.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -2203,7 +2196,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="Living room design with yellow sofa in 1bhk house design"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183502/living-room-design-with-yellow-sofa-in-1bhk-house-design.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/04/06183502/living-room-design-with-yellow-sofa-in-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/04/06183502/living-room-design-with-yellow-sofa-in-1bhk-house-design.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -2221,7 +2214,7 @@ jQuery(".open-btn1").click(function() {
                                                     <img class="img-fluid d-lg-none"
                                                         alt="1bhk home design with foyer unit with textured wallpaper and pendant lights"
                                                         src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183432/1bhk-home-design-with-foyer-unit-with-textured-wallpaper-pendant-lights.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/04/06183432/1bhk-home-design-with-foyer-unit-with-textured-wallpaper-pendant-lights.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/04/06183432/1bhk-home-design-with-foyer-unit-with-textured-wallpaper-pendant-lights.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 
@@ -2234,12 +2227,12 @@ jQuery(".open-btn1").click(function() {
 
 
                                                     <img class="img-fluid d-none d-lg-block d-xl-block"
-                                                        alt="Bathroom design with a vanity unit for 1bhk house design in bengaluru"
-                                                        src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183450/bathroom-design-with-vanity-unit-for-1bhk-house-design-in-bengaluru.jpg">
+                                                        alt="Bathroom design with a vanity unit for 1bhk house design in Pune"
+                                                        src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183450/bathroom-design-with-vanity-unit-for-1bhk-house-design-in-Pune.jpg">
                                                     <img class="img-fluid d-lg-none"
-                                                        alt="Bathroom design with a vanity unit for 1bhk house design in bengaluru"
-                                                        src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183450/bathroom-design-with-vanity-unit-for-1bhk-house-design-in-bengaluru.jpg">
-                                                    <!-- <a data-fancybox="images" class="item " href=https://media.designcafe.com/wp-content/uploads/2021/04/06183450/bathroom-design-with-vanity-unit-for-1bhk-house-design-in-bengaluru.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
+                                                        alt="Bathroom design with a vanity unit for 1bhk house design in Pune"
+                                                        src="<?php echo base_url(''); ?>/assets/uploads/2021/04/06183450/bathroom-design-with-vanity-unit-for-1bhk-house-design-in-Pune.jpg">
+                                                    <!-- <a data-fancybox="images" class="item " href=<?php echo base_url(''); ?>/assetsuploads/2021/04/06183450/bathroom-design-with-vanity-unit-for-1bhk-house-design-in-Pune.jpg><span class="fa fa-arrows-alt" aria-hidden="true"></span></a> -->
                                                 </div>
                                             </div>
 

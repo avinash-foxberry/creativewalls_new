@@ -14945,7 +14945,7 @@ jQuery(".open-btn1").click(function() {
                                 <div class="vdo-testimonial-title">Manish Chandgothia</div>
                                 <p class="vdo-testimonial-meta-city">
                                     3 BHK, Bren Imperia,
-                                    Bengaluru </p>
+                                    Pune </p>
                             </div>
                         </div>
                     </div>

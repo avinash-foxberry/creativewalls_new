@@ -1,27 +1,10 @@
-<div class="container-fluid offer-section-row">
-    <div class="row">
-        <div class="col-md-12 offer-section-col">
-
-            <div class="offer-section-main">
-            </div>
-        </div>
-    </div>
-</div>
-<style type="text/css"></style>
-<script type="text/javascript">
-jQuery(".open-btn1").click(function() {
-    jQuery(this).toggleClass("btnactive");
-    jQuery("#search-wrap").toggleClass("panelactive");
-    jQuery("#search-text").focus();
-});
-</script>
 <div class="container-fluid">
     <div class="row covid-banner-section">
-        <div class="covid-banner-image-section covid-banner-mobile covid-banner-image-section-cls">
-            <img class="covid-19-banner" alt="Why Choose Design Cafe for your Home interiors."
+        <!-- <div class="covid-banner-image-section covid-banner-mobile covid-banner-image-section-cls">
+            <img class="covid-19-banner" alt="Why Choose Creative walls for your Home interiors."
                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                 data-lazy-src="<?php echo base_url(); ?>assets/uploads/2020/06/02093616/why-choose-design-cafe-mobile-banner.jpg"><noscript><img
-                    class="covid-19-banner" alt="Why Choose Design Cafe for your Home interiors."
+                    class="covid-19-banner" alt="Why Choose Creative walls for your Home interiors."
                     src="<?php echo base_url(); ?>assets/uploads/2020/06/02093616/why-choose-design-cafe-mobile-banner.jpg"></noscript>
             <div class="why-dc-banner-caption">
                 <div class="container">
@@ -29,9 +12,9 @@ jQuery(".open-btn1").click(function() {
                     <div class="why-dc-banner-caption-sub-title"></div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="covid-banner-image-section covid-banner-desk covid-banner-image-section-cls">
-            <img class="covid-19-banner" alt="Why Choose Design Cafe for your Home interiors."
+            <img class="covid-19-banner" alt="Why Choose Creative walls for your Home interiors."
                 src="<?php echo base_url(); ?>assets/uploads/2020/06/02093723/why-choose-design-cafe-desktop-banner.jpg">
             <div class="why-dc-banner-caption">
                 <div class="container">
@@ -46,21 +29,21 @@ jQuery(".open-btn1").click(function() {
             <div class="row" style="align-items: center;">
                 <div class="col-lg-7 order-lg-1 order-2">
                     <div class="why-dc-founder-desc">
-                        <p>As architects, we started DesignCafe because beautiful homes are not just meant for movie
+                        <p>As architects, we started CreativeWalls because beautiful homes are not just meant for movie
                             stars and industrialists.</p>
                         <p>Real people, with their individual tastes, passions and quirks, deserve to live with great
                             design.</p>
-                        <p>DesignCafe is not just a business for us. It is an expression of our core beliefs.</p>
+                        <p>CreativeWalls is not just a business for us. It is an expression of our core beliefs.</p>
                     </div>
                     <div class="why-dc-founder-meta">
-                        <p>Gita Ramanan & Shezaan Bhojani</p>
-                        <p>Founders, DesignCafe</p>
+                        <p>Kaushal Raulkar & Megha Ambavale</p>
+                        <p>Founders, CreativeWalls</p>
                     </div>
                 </div>
                 <div class="col-lg-5 order-lg-2 order-1">
                     <div class="why-dc-founder-image why-dc-founder-image-cls">
-                        <img class="img-fluid" alt="Design Cafe Founders - Gita Ramanan and Shezaan Bhojani"
-                            src="<?php echo base_url(); ?>assets/uploads/2020/06/02094251/Image1.jpg">
+                        <img class="img-fluid" alt="Creative walls Founders - Kaushal Raulkar & Megha Ambavale"
+                            src="<?php echo base_url(); ?>assets/uploads/2020/01/21002145/kaushal_raulkar_founder.jpg">
                     </div>
                 </div>
             </div>
@@ -79,14 +62,14 @@ jQuery(".open-btn1").click(function() {
                     <div class="why-dc-founder-desc">
                         <p>India is home to a wonderful diversity of regions and customs, and 1.3 billion unique
                             individuals.</p>
-                        <p>Your DesignCafe home is personalised for whatever makes you, uniquely you.</p>
+                        <p>Your CreativeWalls home is personalised for whatever makes you, uniquely you.</p>
                         <p>Why should your home be cut from a template, when you’re not?</p>
                     </div>
                 </div>
                 <div class="col-lg-5 order-md-1 order-1">
                     <div class="why-dc-founder-image why-dc-founder-image-cls">
                         <img fetchpriority="high" class="img-fluid"
-                            alt="Personalised Home Interiors for Design Cafe Customers with diverse backgrounds"
+                            alt="Personalised Home Interiors for Creative walls Customers with diverse backgrounds"
                             src="<?php echo base_url(); ?>assets/uploads/2020/06/02094003/couple-design-cafe.jpg">
                     </div>
                 </div>
@@ -115,11 +98,11 @@ jQuery(".open-btn1").click(function() {
                 </div>
                 <div class="col-lg-5 order-lg-2 order-1">
                     <div class="why-dc-founder-image why-dc-founder-image-cls">
-                        <img class="img-fluid" alt="Innovative Space Saving Interior Design Solutions from Design Cafe"
+                        <img class="img-fluid" alt="Innovative Space Saving Interior Design Solutions from Creative walls"
                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                             data-lazy-src="<?php echo base_url(); ?>assets/uploads/2020/06/02093813/storage-space-saving-design-cafe.jpg"><noscript><img
                                 class="img-fluid"
-                                alt="Innovative Space Saving Interior Design Solutions from Design Cafe"
+                                alt="Innovative Space Saving Interior Design Solutions from Creative walls"
                                 src="<?php echo base_url(); ?>assets/uploads/2020/06/02093813/storage-space-saving-design-cafe.jpg"></noscript>
                     </div>
                 </div>
@@ -145,29 +128,29 @@ jQuery(".open-btn1").click(function() {
                             class="owl-carousel owl-theme owl-collecttion-listing-new owl-carosal-arrow">
                             <div class="item-img">
                                 <img class="img-fluid owl-lazy"
-                                    alt="Design Cafe provides personal interior designers to make your dream home interiors."
+                                    alt="Creative walls provides personal interior designers to make your dream home interiors."
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2020/06/02093847/interior-designer-design-cafe.jpg"><noscript><img
                                         class="img-fluid owl-lazy"
-                                        alt="Design Cafe provides personal interior designers to make your dream home interiors."
+                                        alt="Creative walls provides personal interior designers to make your dream home interiors."
                                         src="<?php echo base_url(); ?>assets/uploads/2020/06/02093847/interior-designer-design-cafe.jpg"></noscript>
                             </div>
                             <div class="item-img">
                                 <img class="img-fluid owl-lazy"
-                                    alt="Design Cafe owns interior design factory to control the quality of home interiors."
+                                    alt="Creative walls owns interior design factory to control the quality of home interiors."
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2020/06/02093922/factory-design-cafe.jpg"><noscript><img
                                         class="img-fluid owl-lazy"
-                                        alt="Design Cafe owns interior design factory to control the quality of home interiors."
+                                        alt="Creative walls owns interior design factory to control the quality of home interiors."
                                         src="<?php echo base_url(); ?>assets/uploads/2020/06/02093922/factory-design-cafe.jpg"></noscript>
                             </div>
                             <div class="item-img">
                                 <img class="img-fluid owl-lazy"
-                                    alt="Design Cafe has its own workforce to take care of your home interiors."
+                                    alt="Creative walls has its own workforce to take care of your home interiors."
                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
                                     data-lazy-src="<?php echo base_url(); ?>assets/uploads/2020/06/02093535/workforce-design-cafe.jpg"><noscript><img
                                         class="img-fluid owl-lazy"
-                                        alt="Design Cafe has its own workforce to take care of your home interiors."
+                                        alt="Creative walls has its own workforce to take care of your home interiors."
                                         src="<?php echo base_url(); ?>assets/uploads/2020/06/02093535/workforce-design-cafe.jpg"></noscript>
                             </div>
                         </div>
@@ -178,7 +161,7 @@ jQuery(".open-btn1").click(function() {
     </div>
     <div class="row sign-up-process-section">
         <div class="container">
-            <div class="row" style="align-items: center;">
+            <!-- <div class="row" style="align-items: center;">
                 <div class="col-lg-12">
                     <div class="why-dc-page-head">
                         <h2 class="covid-sign-up-head">
@@ -193,46 +176,46 @@ jQuery(".open-btn1").click(function() {
                 <div class="col-6 col-md-6 col-lg-4 remove-padding">
                     <div class="section-lp-6-2">
                         <img class="img-fluid skip-lazy"
-                            alt="Design Cafe has won Commonfloor Realty Awards 2020 for Best Home Interior Design Company in 2020"
+                            alt="Creative walls has won Commonfloor Realty Awards 2020 for Best Home Interior Design Company in 2020"
                             src="<?php echo base_url(); ?>assets/uploads/2020/06/02094638/ic_award_1.png">
                     </div>
                 </div>
                 <div class="col-6 col-md-6 col-lg-4 remove-padding">
                     <div class="section-lp-6-2">
                         <img class="img-fluid skip-lazy"
-                            alt="Design Cafe has won Times Business Awards for Most Innovative Home Interior Solutions 2019"
+                            alt="Creative walls has won Times Business Awards for Most Innovative Home Interior Solutions 2019"
                             src="<?php echo base_url(); ?>assets/uploads/2020/06/02094656/ic_award_2.png">
                     </div>
                 </div>
                 <div class="col-6 col-md-6 col-lg-4 remove-padding">
                     <div class="section-lp-6-2">
                         <img class="img-fluid skip-lazy"
-                            alt="Design Cafe has been featured in over 30 National Newspapers and Magazines"
+                            alt="Creative walls has been featured in over 30 National Newspapers and Magazines"
                             src="<?php echo base_url(); ?>assets/uploads/2020/06/02094713/ic_award_3.png">
                     </div>
                 </div>
                 <div class="col-6 col-md-6 col-lg-4 remove-padding">
                     <div class="section-lp-6-2">
                         <img class="img-fluid skip-lazy"
-                            alt="Design Cafe has won Entrepreneur India Awards 2018 for Most Innovative Startup 2018."
+                            alt="Creative walls has won Entrepreneur India Awards 2018 for Most Innovative Startup 2018."
                             src="<?php echo base_url(); ?>assets/uploads/2020/06/02094730/ic_award_4.png">
                     </div>
                 </div>
                 <div class="col-6 col-md-6 col-lg-4 remove-padding">
                     <div class="section-lp-6-2">
                         <img class="img-fluid skip-lazy"
-                            alt="Design Cafe has won Entrepreneur India Awards 2019 for Most Entreprising Business 2019."
+                            alt="Creative walls has won Entrepreneur India Awards 2019 for Most Entreprising Business 2019."
                             src="<?php echo base_url(); ?>assets/uploads/2020/06/02094746/ic_award_5.png">
                     </div>
                 </div>
                 <div class="col-6 col-md-6 col-lg-4 remove-padding">
                     <div class="section-lp-6-2">
                         <img class="img-fluid skip-lazy"
-                            alt="Design Cafe has won Quikr Homes Reality Awards 2018 for Most Innovative Interior Design Company of the year 2018."
+                            alt="Creative walls has won Quikr Homes Reality Awards 2018 for Most Innovative Interior Design Company of the year 2018."
                             src="<?php echo base_url(); ?>assets/uploads/2020/06/02094804/ic_award_6.png">
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <div class="row sign-up-process-section" style="padding-top: 0;">
@@ -241,14 +224,14 @@ jQuery(".open-btn1").click(function() {
                 <div class="col-lg-12">
                     <div class="why-dc-page-head">
                         <h2 class="covid-sign-up-head">
-                            Incomparably, DesignCafe </h2>
+                            Incomparably, CreativeWalls </h2>
                     </div>
                 </div>
                 <div class="col-lg-12">
                     <div class="section-lp-1-2-table">
                         <div class="tr">
                             <div class="td section-table-head first-cell" style="background-color:#8BCDD2;">
-                                DesignCafe </div>
+                                CreativeWalls </div>
                             <div class="td section-table-head" style="background-color:#F0F0F0;">Local Contractors</div>
                             <div class="td section-table-head last-cell" style="background-color: #F0F0F0;">Interior
                                 Designers</div>
@@ -396,7 +379,7 @@ jQuery(".open-btn1").click(function() {
                 </div>
                 <div class="col-lg-12">
                     <div class="why-signing-up-title" style="text-align: center;">
-                        <a class="common-link-button " data-toggle="modal" href="#contactUsModal">Book DesignCafe</a>
+                        <a class="common-link-button " data-toggle="modal" href="#contactUsModal">Book CreativeWalls</a>
                     </div>
                 </div>
             </div>

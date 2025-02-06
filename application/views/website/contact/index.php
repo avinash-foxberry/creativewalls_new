@@ -4616,8 +4616,8 @@
 
         @font-face {
             font-family: FontAwesome;
-            src: url("../wp-content/themes/designcafe/fonts/fontawesome-webfont.eot");
-            src: url("../wp-content/themes/designcafe/fonts/fontawesome-webfont-1.eot") format("embedded-opentype"), url("../wp-content/themes/designcafe/fonts/fontawesome-webfont.woff") format("woff"), url("../wp-content/themes/designcafe/fonts/fontawesome-webfont.ttf") format("truetype"), url("../wp-content/themes/designcafe/fonts/fontawesome-webfont.svg") format("svg");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/fontawesome-webfont.eot");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/fontawesome-webfont-1.eot") format("embedded-opentype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/fontawesome-webfont.woff") format("woff"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/fontawesome-webfont.ttf") format("truetype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/fontawesome-webfont.svg") format("svg");
             font-weight: 400;
             font-display: swap;
             font-style: normal
@@ -4683,8 +4683,8 @@
         @font-face {
             font-display: swap;
             font-family: Raleway;
-            src: url("../wp-content/themes/designcafe/fonts/Raleway-Regular.eot");
-            src: url("../wp-content/themes/designcafe/fonts/Raleway-Regular-1.eot") format("embedded-opentype"), url("../wp-content/themes/designcafe/fonts/Raleway-Regular.woff") format("woff"), url("../wp-content/themes/designcafe/fonts/Raleway-Regular.ttf") format("truetype"), url("../wp-content/themes/designcafe/fonts/Raleway-Regular.svg") format("svg");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/Raleway-Regular.eot");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/Raleway-Regular-1.eot") format("embedded-opentype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/Raleway-Regular.woff") format("woff"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/Raleway-Regular.ttf") format("truetype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/Raleway-Regular.svg") format("svg");
             font-weight: 400;
             font-style: normal
         }
@@ -4692,8 +4692,8 @@
         @font-face {
             font-display: swap;
             font-family: Lato;
-            src: url("../wp-content/themes/designcafe/fonts/lato-v20-latin-300.eot");
-            src: url("../wp-content/themes/designcafe/fonts/lato-v20-latin-300-1.eot") format("embedded-opentype"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-300.woff") format("woff"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-300.woff2") format("woff2"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-300.ttf") format("truetype"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-300.svg") format("svg");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-300.eot");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-300-1.eot") format("embedded-opentype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-300.woff") format("woff"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-300.woff2") format("woff2"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-300.ttf") format("truetype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-300.svg") format("svg");
             font-weight: 300;
             font-style: normal
         }
@@ -4701,8 +4701,8 @@
         @font-face {
             font-display: swap;
             font-family: Lato;
-            src: url("../wp-content/themes/designcafe/fonts/lato-v20-latin-700.eot");
-            src: url("../wp-content/themes/designcafe/fonts/lato-v20-latin-700-1.eot") format("embedded-opentype"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-700.woff") format("woff"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-700.woff2") format("woff2"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-700.ttf") format("truetype"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-700.svg") format("svg");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-700.eot");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-700-1.eot") format("embedded-opentype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-700.woff") format("woff"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-700.woff2") format("woff2"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-700.ttf") format("truetype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-700.svg") format("svg");
             font-weight: 700;
             font-style: normal
         }
@@ -4710,8 +4710,8 @@
         @font-face {
             font-display: swap;
             font-family: Lato;
-            src: url("../wp-content/themes/designcafe/fonts/lato-v20-latin-regular.eot");
-            src: url("../wp-content/themes/designcafe/fonts/lato-v20-latin-regular-1.eot") format("embedded-opentype"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-regular.woff") format("woff"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-regular.woff2") format("woff2"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-regular.ttf") format("truetype"), url("../wp-content/themes/designcafe/fonts/lato-v20-latin-regular.svg") format("svg");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-regular.eot");
+            src: url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-regular-1.eot") format("embedded-opentype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-regular.woff") format("woff"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-regular.woff2") format("woff2"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-regular.ttf") format("truetype"), url("<?php echo base_url(); ?>assets/themes/creativewalls/fonts/lato-v20-latin-regular.svg") format("svg");
             font-weight: 400;
             font-style: normal
         }
@@ -14269,17 +14269,10 @@ jQuery(".open-btn1").click(function() {
                             </div>
                             <div class="contact-us-section-1-description">
                                 <p>
-                                <p>Whether your query is about features, materials, pricing, or anything else, our team
-                                    is ready to answer all your questions.</p>
+                                <p>Whether your query is about features, materials, pricing, or anything else, our team is ready to answer all your questions.</p>
                                 <p>&nbsp;</p>
-                                <p>For Press: <a href="mailto:corpcomm@designcafe.com" target="_blank"
-                                        rel="noopener"><strong>corpcomm@designcafe.com</strong></a></p>
-                                <p>For Business Partnerships: <a
-                                        href="mailto:partnerships@designcafe.com"><strong>partnerships@designcafe.com
-                                        </strong></a></p>
-                                <p>For Others: <strong><a
-                                            href="mailto:writetous@designcafe.com">writetous@designcafe.com</a></strong>
-                                </p>
+                                <p>For info: <a href="mailto:info@creativewalls.in" target="_blank"
+                                        rel="noopener"><strong>info@creativewalls.in</strong></a></p>
 
                             </div>
                         </div>
@@ -14288,14 +14281,11 @@ jQuery(".open-btn1").click(function() {
                     <div class="col-lg-5 col-md-12">
                         <div class="contact-us-form contact-us-form-section">
                             <div class="lead-form-wrapper contact-us-sales">
-                                <form id="ContactUsFormMain" action="https://www.designcafe.com/get_quote_action.php"
-                                    method="post" novalidate="novalidate">
-                                    <input type="hidden" name="action" value="save_my_contact_us_form">
+                                <form id="ContactUsFormMain" action="<?php echo base_url('web/enquiry_form'); ?>" method="POST">
                                     <div class="w-100">
                                         <div class="lead-input">
                                             <div class="sales-txt-label">Full Name*</div>
-                                            <input type="text" class="leadform-input form-control" name="your-name"
-                                                value="" size="40" placeholder="Rxxxx Sxxx">
+                                            <input type="text" class="leadform-input form-control" name="fullname" value="" size="40" placeholder="Rxxxx Sxxx">
                                         </div>
 
                                         <div class="lead-input lead-form-mobile-section form-row">
@@ -14305,7 +14295,7 @@ jQuery(".open-btn1").click(function() {
                                                 <span id="contact_flag" class="contact-flag flag"></span>
                                                 <input type="tel" id="contact_cntry_field"
                                                     class="leadform-input leadform-mobile-input form-control country_cntry_field cntry_field"
-                                                    name="your-mobilenumber" placeholder="9xxxxxxxxx">
+                                                    name="mobilenumber" placeholder="9xxxxxxxxx">
                                                 <input type="hidden" class="contact-dc-cntry-code" name="your-phone-ext"
                                                     value="">
                                             </div>
@@ -14317,22 +14307,19 @@ jQuery(".open-btn1").click(function() {
                                         </div>
                                         <div class="lead-input">
                                             <div class="sales-txt-label">Select Location*</div>
-                                            <select name="your-city" class="selectpicker leadform-input form-control"
+                                            <select name="yourcity" class="selectpicker leadform-input form-control"
                                                 data-live-search="true" id="ContactCitySelect" title="Select Location*">
                                                 <option value="">Select Location*</option>
                                                 <option value="Pune">Pune</option>
-                                                <option value="Bengaluru">Bengaluru</option>
-                                                <option value="Hyderabad">Hyderabad</option>
-                                                <option value="Chennai">Chennai</option>
+                                                <option value="Nagpur">Nagpur</option>
                                                 <option value="Mumbai">Mumbai</option>
                                                 <option value="Navi Mumbai">Navi Mumbai</option>
                                                 <option value="Thane">Thane</option>
-                                                <option value="Mysore">Mysore</option>
                                             </select>
                                         </div>
                                         <div class="lead-input message-txt-fld">
                                             <div class="sales-txt-label">Message</div>
-                                            <textarea cols="40" rows="10" name="your-message"></textarea>
+                                            <textarea cols="40" rows="10" name="message"></textarea>
                                         </div>
                                         <div class="lead-input">
                                             <button type="submit" id="ContactFormSubmitBtn"
@@ -14361,14 +14348,13 @@ jQuery(".open-btn1").click(function() {
                                     <div class="contact-us-content-left">
                                         <p>Pune</p>
                                         <div class="contact-us-content-left-desc">
-                                            <h3><strong>DesignCafe Experience Centre, Pune </strong></h3>
-                                            <p>Creaticity Mall, Unit No.2G04, Off Airport Road, Maharashtra Co-Operative
-                                                Housing Society, Yerawada, Pune, Maharashtra 411006</p>
-                                            <p>Landmark: Opposite Golf Course, Off Airport Road</p>
-                                            <p>Phone: 080-68065000</p>
+                                            <h3><strong>Creative Walls Experience Centre, Pune </strong></h3>
+                                            <p>Above central Bank,Near ramkrushana mangal karlaya Pimple gurav Pune, Maharashtra 411061</p>
+                                            <p>Landmark: Katepuram chowk road</p>
+                                            <p>Phone: 08766443223</p>
                                         </div>
                                         <div class="contact-us-map-link">
-                                            <a href="https://g.page/r/CVedfksBuvHoEAE" target="_blank"
+                                            <a href="https://maps.app.goo.gl/5Mo9kc9HdxXyDBjy7" target="_blank"
                                                 class="btn btn-primary btn-lg" rel="”noopener”">Get Direction</a>
                                         </div>
                                     </div>
@@ -14381,7 +14367,7 @@ jQuery(".open-btn1").click(function() {
 
                                                 </div>
                                                 <div class="contact-us-click-to-call-text">
-                                                    <a href="tel:080-68065000">
+                                                    <a href="tel:08766443223">
                                                         <span class="fa fa-phone" aria-hidden="true"></span>
                                                         Click To Call </a>
                                                 </div>
@@ -14389,14 +14375,8 @@ jQuery(".open-btn1").click(function() {
                                         </div>
                                         <div class="contact-us-map">
                                             <div class="resp-container">
-                                                <iframe loading="lazy" class="resp-iframe" src="about:blank"
-                                                    gesture="media" allow="encrypted-media" allowfullscreen=""
-                                                    data-rocket-lazyload="fitvidscompatible"
-                                                    data-lazy-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.3839958302488!2d73.89458929999999!3d18.556719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1f9e9a802b9%3A0xe8f1ba014b7e9d57!2sDesignCafe%20Experience%20Centre%2C%20Pune!5e0!3m2!1sen!2sin!4v1659956382224!5m2!1sen!2sin"></iframe><noscript><iframe
-                                                        class="resp-iframe"
-                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3782.3839958302488!2d73.89458929999999!3d18.556719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c1f9e9a802b9%3A0xe8f1ba014b7e9d57!2sDesignCafe%20Experience%20Centre%2C%20Pune!5e0!3m2!1sen!2sin!4v1659956382224!5m2!1sen!2sin"
-                                                        gesture="media" allow="encrypted-media"
-                                                        allowfullscreen=""></iframe></noscript>
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2009.218250993957!2d73.82091979219526!3d18.5835888564444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b8b766b67615%3A0x73a68dee1be71509!2sRamKrishna%20Mangal%20Karyalay!5e0!3m2!1sen!2sin!4v1738829630518!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
                                             </div>
                                         </div>
                                     </div>
@@ -14417,4 +14397,3 @@ document.getElementById('selectcitylink').addEventListener('change', function() 
     location.href = this.value
 });
 </script>
-<script src='../recaptcha/api-2.js'></script>
